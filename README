@@ -1,1 +1,40 @@
-# training
+= Entrenando Haciendo
+
+Este es el repositorio de código con el cual FLUID realiza sus procesos de
+selección de nuevo personal y formación del personal interno.
+
+La filosofia de este repositorio es fomentar el aprendizaje a partir de la 
+solución activa de problemas y no mediante simple lectura pasiva.
+
+Al hacer los retos publicos buscamos los siguientes objetivos:
+
+. Fomentar la solución de retos no resueltos,
+. Si el reto esta resuelto, fomentar la resolución del reto de otra forma,
+. Si el reto esta resuelto, hacer evidente la similitud de la nueva solución.
+. Darle vida al código financiado por FLUID en los procesos de formación e
+  inmersión,
+. Permitirle en el futuro a los clientes de FLUID visualizar la calidad de 
+  entregables de una persona en particular de nuestro equipo,
+. Hacer evidente desde el inicio del proceso de selección, la cesión de
+  derechos patrimoniales implicita en los contratos de selección,
+. Mantener de igual forma los derechos morales que se mantienen para la 
+  persona sobre dicho codigo.
+
+== Formato
+
+Para la generación de documentación el lenguaje que debe utilizarse es 
+*AsciiDoc*.  Estos archivos debe finalizar siempre en la extensión **.asc**.
+
+Para la generación de soluciones en código fuente debe utilizarse la 
+extensión y guias de estilo propias del lenguaje.
+
+== Estructura
+
+Los soluciones a los retos se almacenan en la carpeta llamada **challenges**.
+En esta carpeta se debe manejar la siguiente estructura:
+
+* sitio (directorio)
+** código del reto (directorio)
+*** login de github.extensión (archivo de solución)
+
+Si la solución es explicada 
