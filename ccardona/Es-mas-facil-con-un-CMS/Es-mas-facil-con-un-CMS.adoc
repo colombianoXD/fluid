@@ -65,7 +65,7 @@ Como lo dijimos en un principio existen algunas herramientas que nos permite det
 * Nikto
 * JoomlaScam
 
-image::https://dl.dropboxusercontent.com/u/98103636/Selecci%C3%B3n_230.png[]
+
 
 Luego debemos verificar si el CMS que usamos tiene fallas de seguridad.
 
