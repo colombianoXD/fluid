@@ -1,20 +1,23 @@
+"""Print the pascal triangle in order by depth"""
 import itertools
 import sys
 
+
 def triangle(rows):
-    """ Modified function to build the pascal triangle, taken from
-        http://stackoverflow.com/questions/3134813/pascals-triangle-in-python
     """
-    newlist =[]
-    for rownum in range (rows):
-        newValue=1
-        PrintingList = [newValue]
-        for iteration in range (rownum):
-            newValue = newValue * ( rownum-iteration ) * 1 / ( iteration + 1 )
-            PrintingList.append(int(newValue))
-        newlist.append(PrintingList)
+    Modified function to build the pascal triangle, taken from
+    http://stackoverflow.com/questions/3134813/pascals-triangle-in-python
+    """
+    newlist = []
+    for rownum in range(rows):
+        newvalue = 1
+        printinglist = [newvalue]
+        for iteration in range(rownum):
+            newvalue = newvalue*(rownum-iteration)*1/(iteration+1)
+            printinglist.append(int(newvalue))
+        newlist.append(printinglist)
     return newlist
-    
+
 with open(sys.argv[1], 'r') as test_cases:
     for test in test_cases:
         num = int(test.strip())
