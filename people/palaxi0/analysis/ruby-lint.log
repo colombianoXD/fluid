@@ -1,0 +1,7 @@
+palaxi0.rb: info: line 2, column 5: the use of then/do is not needed here
+palaxi0.rb: info: line 9, column 7: the use of then/do is not needed here
+palaxi0.rb: error: line 4, column 11: unexpected token tCOLON
+palaxi0.rb: error: line 6, column 20: unexpected token tCOLON
+palaxi0.rb: error: line 7, column 16: unexpected token tCOLON
+palaxi0.rb: error: line 9, column 49: unexpected token tCOLON
+palaxi0.rb: error: line 12, column 5: unexpected token kELSE

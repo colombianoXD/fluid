@@ -1,0 +1,931 @@
+No config file found, using default configuration
+************* Module palaxi0
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+C:  1, 0: Line too long (100/80) (line-too-long)
+C:  5, 0: Exactly one space required before assignment
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+      ^ (bad-whitespace)
+C:  7, 0: Exactly one space required after comma
+for i in range(0,sizeword):
+                ^ (bad-whitespace)
+C:  8, 0: Exactly one space required around assignment
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+                  ^^ (bad-whitespace)
+C:  9, 0: Trailing whitespace (trailing-whitespace)
+C: 10, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+C:  1, 0: Invalid constant name "dictionary" (invalid-name)
+C:  2, 0: Invalid constant name "line" (invalid-name)
+E:  2, 7: Undefined variable 'test' (undefined-variable)
+C:  3, 0: Invalid constant name "word" (invalid-name)
+C:  4, 0: Invalid constant name "sizeword" (invalid-name)
+C:  5, 0: Invalid constant name "indexs" (invalid-name)
+C:  6, 0: Invalid constant name "decoded_string" (invalid-name)
+R:  1, 0: Similar lines in 39 files
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+==palaxi0:0
+dictionary = " !\"#$%&'()*+,-./0123456789:<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+line = test
+word = line.split(";")[1]
+sizeword = len(word)
+indexs= [int(i) for i in (line.split(";")[0]*sizeword)[:sizeword]]
+decoded_string = ""
+for i in range(0,sizeword):
+    decoded_string+=dictionary[dictionary.index(word[i])-indexs[i]]
+
+print decoded_string (duplicate-code)
+
+
+Report
+======
+352 statements analysed.
+
+Duplication
+-----------
+
++-------------------------+-------+---------+-----------+
+|                         |now    |previous |difference |
++=========================+=======+=========+===========+
+|nb duplicated lines      |380    |380      |=          |
++-------------------------+-------+---------+-----------+
+|percent duplicated lines |97.436 |97.436   |=          |
++-------------------------+-------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |507    |507      |=          |
++-----------+-------+---------+-----------+
+|refactor   |1      |1        |=          |
++-----------+-------+---------+-----------+
+|warning    |0      |0        |=          |
++-----------+-------+---------+-----------+
+|error      |39     |39       |=          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++----------------------+------------+
+|message id            |occurrences |
++======================+============+
+|invalid-name          |234         |
++----------------------+------------+
+|bad-whitespace        |117         |
++----------------------+------------+
+|undefined-variable    |39          |
++----------------------+------------+
+|trailing-whitespace   |39          |
++----------------------+------------+
+|missing-final-newline |39          |
++----------------------+------------+
+|missing-docstring     |39          |
++----------------------+------------+
+|line-too-long         |39          |
++----------------------+------------+
+|duplicate-code        |1           |
++----------------------+------------+
+
+
+
+Global evaluation
+-----------------
+Your code has been rated at -9.97/10 (previous run: -9.97/10, +0.00)
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |39     |39         |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |351    |90.00 |351      |=          |
++----------+-------+------+---------+-----------+
+|docstring |0      |0.00  |0        |=          |
++----------+-------+------+---------+-----------+
+|comment   |0      |0.00  |0        |=          |
++----------+-------+------+---------+-----------+
+|empty     |39     |10.00 |39       |=          |
++----------+-------+------+---------+-----------+
+
+
+
