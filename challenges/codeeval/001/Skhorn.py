@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 """Sample code to read in test cases:
 import sys
 
@@ -10,7 +9,6 @@ with open(sys.argv[1], 'r') as test_cases:
 		# ...
 		# ...
 """
-
 import sys
 
 class fizz_buzz:
@@ -32,7 +30,6 @@ class fizz_buzz:
 			first_divider.append(int(line_in_file[0]))
 			second_divider.append(int(line_in_file[1]))
 			count.append(int(line_in_file[2]))
-
 
 	for i in range(len(count)):
 
@@ -63,11 +60,5 @@ class fizz_buzz:
 				concat += fizz_buzz_result + ' '
 
 		print concat
-		
 
 x = fizz_buzz()
-
-
-
-
-
