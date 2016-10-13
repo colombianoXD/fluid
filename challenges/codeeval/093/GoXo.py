@@ -1,6 +1,5 @@
 import sys
 class capitalizeWords:
-	index = 0
 	with open(sys.argv[1], 'r') as test_cases:
 		for test in test_cases:
 			line = list(test.strip())
