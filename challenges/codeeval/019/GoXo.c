@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h> 
+#include <string.h>
 int main(int argc, const char * argv[]) {
     int number = 0;
     int p1 = 0;
