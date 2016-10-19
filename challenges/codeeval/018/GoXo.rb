@@ -1,4 +1,4 @@
-class Muliples
+class Muliples 
 	File.open(ARGV[0]).each_line do |line|
 		parts = line.split(",")
 		num1 = parts[0].to_i
