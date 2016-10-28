@@ -1,1 +1,123 @@
-./analysis.sh: line 20: flake8: command not found
+challenges/codeeval/025/GoXo.py:1:1: F401 'sys' imported but unused
+challenges/codeeval/025/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/025/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/025/GoXo.py:3:18: E231 missing whitespace after ','
+challenges/codeeval/025/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/025/GoXo.py:4:12: E228 missing whitespace around modulo operator
+challenges/codeeval/025/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:4:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/099/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/099/GoXo.py:9:5: E128 continuation line under-indented for visual indent
+challenges/codeeval/099/GoXo.py:9:6: E225 missing whitespace around operator
+challenges/codeeval/099/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/115/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:11:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:12:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:13:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:13:13: W291 trailing whitespace
+challenges/codeeval/115/GoXo.py:14:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:15:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:16:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:17:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:17:13: W291 trailing whitespace
+challenges/codeeval/115/GoXo.py:18:1: W191 indentation contains tabs
+challenges/codeeval/115/GoXo.py:18:46: W291 trailing whitespace
+challenges/codeeval/093/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/093/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:10:33: W291 trailing whitespace
+challenges/codeeval/093/GoXo.py:11:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:12:1: W191 indentation contains tabs
+challenges/codeeval/093/GoXo.py:13:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/205/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:11:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:12:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:13:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:14:1: W191 indentation contains tabs
+challenges/codeeval/205/GoXo.py:14:17: W292 no newline at end of file
+challenges/codeeval/062/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/062/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:8:15: E225 missing whitespace around operator
+challenges/codeeval/062/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/062/GoXo.py:9:15: W292 no newline at end of file
+challenges/codeeval/147/GoXo.py:2:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/147/GoXo.py:3:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:6:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:11:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:11:17: W291 trailing whitespace
+challenges/codeeval/147/GoXo.py:12:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:13:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:13:39: W291 trailing whitespace
+challenges/codeeval/147/GoXo.py:14:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:14:49: E231 missing whitespace after ','
+challenges/codeeval/147/GoXo.py:14:52: E225 missing whitespace around operator
+challenges/codeeval/147/GoXo.py:15:1: W191 indentation contains tabs
+challenges/codeeval/147/GoXo.py:15:5: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/147/GoXo.py:15:7: E128 continuation line under-indented for visual indent
+challenges/codeeval/147/GoXo.py:15:44: E231 missing whitespace after ','
+challenges/codeeval/208/GoXo.py:3:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/208/GoXo.py:4:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:5:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:7:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:8:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:8:11: E225 missing whitespace around operator
+challenges/codeeval/208/GoXo.py:9:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:10:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:11:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:12:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:14:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:14:20: E231 missing whitespace after ','
+challenges/codeeval/208/GoXo.py:16:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:16:19: E211 whitespace before '('
+challenges/codeeval/208/GoXo.py:16:22: E231 missing whitespace after ','
+challenges/codeeval/208/GoXo.py:18:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:19:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:19:10: E201 whitespace after '('
+challenges/codeeval/208/GoXo.py:20:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:20:15: E703 statement ends with a semicolon
+challenges/codeeval/208/GoXo.py:21:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:21:1: W293 blank line contains whitespace
+challenges/codeeval/208/GoXo.py:22:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:23:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:23:17: E703 statement ends with a semicolon
+challenges/codeeval/208/GoXo.py:24:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:24:1: W293 blank line contains whitespace
+challenges/codeeval/208/GoXo.py:25:1: W191 indentation contains tabs
+challenges/codeeval/208/GoXo.py:25:27: W292 no newline at end of file
