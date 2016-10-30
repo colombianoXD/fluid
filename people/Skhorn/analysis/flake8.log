@@ -1,0 +1,690 @@
+challenges/codeeval/026/Skhorn.py:3:1: F401 'os' imported but unused
+challenges/codeeval/026/Skhorn.py:3:11: E401 multiple imports on one line
+challenges/codeeval/026/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/026/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/026/Skhorn.py:19:16: W292 no newline at end of file
+challenges/codeeval/121/Skhorn.py:3:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/121/Skhorn.py:5:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:6:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:7:25: W291 trailing whitespace
+challenges/codeeval/121/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:8:3: E128 continuation line under-indented for visual indent
+challenges/codeeval/121/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:14:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:25:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:32:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:34:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:35:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:36:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:37:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:38:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:40:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:42:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:43:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:45:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:45:9: E231 missing whitespace after ','
+challenges/codeeval/121/Skhorn.py:47:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:48:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:51:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:51:3: E303 too many blank lines (2)
+challenges/codeeval/121/Skhorn.py:52:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:55:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:58:1: W191 indentation contains tabs
+challenges/codeeval/121/Skhorn.py:58:1: W293 blank line contains whitespace
+challenges/codeeval/121/Skhorn.py:61:26: W292 no newline at end of file
+challenges/codeeval/037/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/037/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:8:23: W291 trailing whitespace
+challenges/codeeval/037/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:9:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:10:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:11:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:12:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:13:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:14:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:14:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:15:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:16:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:17:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:18:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:19:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:20:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:21:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:22:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:23:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:24:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:25:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:25:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:26:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:27:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:28:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:29:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:30:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:31:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:32:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:32:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:33:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:33:2: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:35:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:36:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:37:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:38:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:38:1: W293 blank line contains whitespace
+challenges/codeeval/037/Skhorn.py:39:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:40:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:42:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:43:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:44:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:45:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:46:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:46:1: W293 blank line contains whitespace
+challenges/codeeval/037/Skhorn.py:48:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:48:4: E303 too many blank lines (2)
+challenges/codeeval/037/Skhorn.py:49:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:50:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:51:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:53:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:55:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:56:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:57:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:59:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:60:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:61:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:62:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:64:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:65:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:65:25: W291 trailing whitespace
+challenges/codeeval/037/Skhorn.py:66:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:66:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:67:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:67:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:68:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:68:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:69:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:69:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:70:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:70:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:71:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:71:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:72:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:72:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:73:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:73:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:74:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:74:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:75:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:75:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:76:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:76:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:77:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:77:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:78:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:78:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:79:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:79:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:80:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:80:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:81:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:81:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:82:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:82:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:83:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:83:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:84:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:84:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:85:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:85:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:86:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:86:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:87:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:87:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:88:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:88:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:89:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:89:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:90:1: W191 indentation contains tabs
+challenges/codeeval/037/Skhorn.py:90:4: E128 continuation line under-indented for visual indent
+challenges/codeeval/037/Skhorn.py:92:15: W292 no newline at end of file
+challenges/codeeval/096/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/096/Skhorn.py:6:1: W293 blank line contains whitespace
+challenges/codeeval/096/Skhorn.py:6:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:6:2: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:7:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:7:2: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:8:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:9:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:11:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:12:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:13:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:14:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:14:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:14:1: W293 blank line contains whitespace
+challenges/codeeval/096/Skhorn.py:15:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:17:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:18:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:20:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:21:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:23:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:24:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:26:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:26:16: W291 trailing whitespace
+challenges/codeeval/096/Skhorn.py:28:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:30:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/096/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/096/Skhorn.py:38:1: W391 blank line at end of file
+challenges/codeeval/024/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/024/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/024/Skhorn.py:16:1: W293 blank line contains whitespace
+challenges/codeeval/024/Skhorn.py:17:20: W292 no newline at end of file
+challenges/codeeval/012/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/012/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:25:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/012/Skhorn.py:27:1: W293 blank line contains whitespace
+challenges/codeeval/012/Skhorn.py:27:1: W391 blank line at end of file
+challenges/codeeval/004/Skhorn.py:8:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/004/Skhorn.py:9:1: W293 blank line contains whitespace
+challenges/codeeval/004/Skhorn.py:9:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:9:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:10:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:10:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:11:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:11:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:12:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:12:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:13:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:13:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:14:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:14:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:15:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:15:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:16:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:16:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:17:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:17:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:18:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:18:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:19:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:19:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:20:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:20:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:21:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:21:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:22:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:22:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:23:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:23:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:24:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:24:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:26:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:26:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:27:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:27:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:28:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:28:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:29:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:29:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:30:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:31:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:32:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:32:1: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:33:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:33:1: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:34:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:34:1: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:35:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:35:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:36:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:36:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:37:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:37:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:38:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:38:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:39:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:39:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:40:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:40:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:41:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:41:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:42:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:42:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:43:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:43:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:45:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:45:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:46:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:46:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:47:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:47:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:48:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:48:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:49:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:49:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:50:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:50:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:51:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:51:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:52:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:52:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:53:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:53:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:54:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:54:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:55:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:55:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:56:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:56:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:57:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:57:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:58:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:58:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:59:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:59:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:60:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:60:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:61:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:61:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:62:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:62:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:63:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:63:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:64:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:64:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:66:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/004/Skhorn.py:66:2: W191 indentation contains tabs
+challenges/codeeval/004/Skhorn.py:74:1: W391 blank line at end of file
+challenges/codeeval/092/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/092/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:14:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/092/Skhorn.py:15:1: W293 blank line contains whitespace
+challenges/codeeval/092/Skhorn.py:18:23: W292 no newline at end of file
+challenges/codeeval/029/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/029/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:7:1: W293 blank line contains whitespace
+challenges/codeeval/029/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:8:2: E303 too many blank lines (2)
+challenges/codeeval/029/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:26:25: W291 trailing whitespace
+challenges/codeeval/029/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:29:1: W293 blank line contains whitespace
+challenges/codeeval/029/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:33:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:34:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:35:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:36:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:36:1: W293 blank line contains whitespace
+challenges/codeeval/029/Skhorn.py:37:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:38:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:39:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:40:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:41:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:43:1: W191 indentation contains tabs
+challenges/codeeval/029/Skhorn.py:43:1: W293 blank line contains whitespace
+challenges/codeeval/029/Skhorn.py:44:22: W292 no newline at end of file
+challenges/codeeval/020/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/020/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:18:1: W293 blank line contains whitespace
+challenges/codeeval/020/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/020/Skhorn.py:19:1: W293 blank line contains whitespace
+challenges/codeeval/020/Skhorn.py:19:1: W391 blank line at end of file
+challenges/codeeval/041/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/041/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/041/Skhorn.py:29:22: W292 no newline at end of file
+challenges/codeeval/003/Skhorn.py:8:1: E302 expected 2 blank lines, found 0
+challenges/codeeval/003/Skhorn.py:9:1: W293 blank line contains whitespace
+challenges/codeeval/003/Skhorn.py:9:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:9:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:10:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:10:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:11:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:11:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:12:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:12:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:13:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:13:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:14:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:14:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:15:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:15:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:16:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:16:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:17:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:17:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:18:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:18:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:19:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:19:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:20:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:20:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:21:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:21:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:22:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:22:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:24:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:24:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:25:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:25:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:26:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:26:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:27:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:27:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:28:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:29:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:30:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:31:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:32:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:32:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:33:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:33:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:34:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:34:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:35:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:35:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:36:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:36:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:37:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:37:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:38:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:38:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:39:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:39:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:41:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:41:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:42:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:42:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:44:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:44:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:45:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:45:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:46:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:46:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:47:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:47:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:48:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:48:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:49:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:49:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:50:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:50:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:51:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:51:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:52:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:52:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:53:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:53:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:54:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:54:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:55:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:55:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:56:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:56:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:57:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:57:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:58:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:58:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:60:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:60:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:61:2: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/003/Skhorn.py:61:2: W191 indentation contains tabs
+challenges/codeeval/003/Skhorn.py:69:1: W391 blank line at end of file
+challenges/codeeval/113/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/113/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:8:23: E703 statement ends with a semicolon
+challenges/codeeval/113/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:14:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:18:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:25:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/113/Skhorn.py:26:1: W293 blank line contains whitespace
+challenges/codeeval/113/Skhorn.py:29:20: W292 no newline at end of file
+challenges/codeeval/001/Skhorn.py:6:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:14:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/001/Skhorn.py:15:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:15:1: W293 blank line contains whitespace
+challenges/codeeval/001/Skhorn.py:15:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:16:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:16:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:17:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:17:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:18:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:18:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:19:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:19:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:20:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:20:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:21:1: E101 indentation contains mixed spaces and tabs
+challenges/codeeval/001/Skhorn.py:21:2: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:23:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:32:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:34:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:36:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:37:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:39:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:40:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:42:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:42:8: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:42:36: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:43:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:43:1: W293 blank line contains whitespace
+challenges/codeeval/001/Skhorn.py:44:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:46:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:46:10: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:46:39: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:48:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:50:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:50:10: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:50:38: E228 missing whitespace around modulo operator
+challenges/codeeval/001/Skhorn.py:52:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:54:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:55:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:56:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:56:1: W293 blank line contains whitespace
+challenges/codeeval/001/Skhorn.py:57:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:58:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:59:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:60:1: W191 indentation contains tabs
+challenges/codeeval/001/Skhorn.py:62:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/021/Skhorn.py:7:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:8:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:12:1: W293 blank line contains whitespace
+challenges/codeeval/021/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/021/Skhorn.py:24:17: W292 no newline at end of file
+challenges/codeeval/008/Skhorn.py:7:1: E303 too many blank lines (3)
+challenges/codeeval/008/Skhorn.py:9:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:10:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:11:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:12:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:13:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:15:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:16:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:17:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:19:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:20:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:20:1: W293 blank line contains whitespace
+challenges/codeeval/008/Skhorn.py:21:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:22:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:24:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:25:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:25:1: W293 blank line contains whitespace
+challenges/codeeval/008/Skhorn.py:26:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:27:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:28:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:29:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:30:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:31:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:32:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:33:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:34:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:35:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:38:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:38:4: E303 too many blank lines (2)
+challenges/codeeval/008/Skhorn.py:39:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:40:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:41:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:43:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:44:1: W191 indentation contains tabs
+challenges/codeeval/008/Skhorn.py:48:1: E303 too many blank lines (3)
+challenges/codeeval/008/Skhorn.py:49:1: W391 blank line at end of file
