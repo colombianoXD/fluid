@@ -1,7 +1,7 @@
 class Panacea
 
 	File.open(ARGV[0]).each_line do |line|
-
+ 
 		parts = line.split("|")
 		hex = parts[0].split(' ')
 		bin = parts[1].split(' ')
