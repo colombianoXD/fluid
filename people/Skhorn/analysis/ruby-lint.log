@@ -1,0 +1,14 @@
+Skhorn.rb: warning: line 8, column 38: shadowing outer local variable x
+Skhorn.rb: warning: line 10, column 31: shadowing outer local variable x
+Skhorn.rb: warning: line 11, column 31: shadowing outer local variable x
+Skhorn.rb: warning: line 25, column 1: unused local variable x
+Skhorn.rb: warning: line 6, column 9: unused local variable y
+Skhorn.rb: warning: line 8, column 40: shadowing outer local variable x
+Skhorn.rb: warning: line 9, column 39: shadowing outer local variable x
+Skhorn.rb: warning: line 13, column 22: shadowing outer local variable x
+Skhorn.rb: warning: line 20, column 1: unused local variable x
+Skhorn.rb: warning: line 20, column 1: unused local variable x
+Skhorn.rb: warning: line 6, column 7: unused local variable y
+Skhorn.rb: warning: line 47, column 38: shadowing outer local variable x
+Skhorn.rb: warning: line 48, column 21: shadowing outer local variable x
+Skhorn.rb: warning: line 56, column 1: unused local variable x

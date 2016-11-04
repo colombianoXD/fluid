@@ -1,3 +1,19 @@
+challenges/redtigers/04/palaxi0.py:4:7: E225 missing whitespace around operator
+challenges/redtigers/04/palaxi0.py:4:22: E231 missing whitespace after ':'
+challenges/redtigers/04/palaxi0.py:4:47: E261 at least two spaces before inline comment
+challenges/redtigers/04/palaxi0.py:4:48: E262 inline comment should start with '# '
+challenges/redtigers/04/palaxi0.py:4:80: E501 line too long (115 > 79 characters)
+challenges/redtigers/04/palaxi0.py:6:80: E501 line too long (81 > 79 characters)
+challenges/redtigers/04/palaxi0.py:9:17: E231 missing whitespace after ','
+challenges/redtigers/04/palaxi0.py:10:80: E501 line too long (144 > 79 characters)
+challenges/redtigers/04/palaxi0.py:10:129: E231 missing whitespace after ','
+challenges/redtigers/04/palaxi0.py:15:33: E231 missing whitespace after ','
+challenges/redtigers/04/palaxi0.py:17:17: E231 missing whitespace after ','
+challenges/redtigers/04/palaxi0.py:18:21: E203 whitespace before ':'
+challenges/redtigers/04/palaxi0.py:20:80: E501 line too long (157 > 79 characters)
+challenges/redtigers/04/palaxi0.py:20:142: E231 missing whitespace after ','
+challenges/redtigers/04/palaxi0.py:22:24: E225 missing whitespace around operator
+challenges/redtigers/04/palaxi0.py:26:23: E231 missing whitespace after ','
 challenges/codeeval/181/palaxi0.py:1:80: E501 line too long (100 > 79 characters)
 challenges/codeeval/181/palaxi0.py:2:8: F821 undefined name 'test'
 challenges/codeeval/181/palaxi0.py:5:7: E225 missing whitespace around operator
@@ -152,6 +168,8 @@ challenges/codeeval/014/palaxi0.py:5:14: E225 missing whitespace around operator
 challenges/codeeval/014/palaxi0.py:5:15: E222 multiple spaces after operator
 challenges/codeeval/014/palaxi0.py:5:80: E501 line too long (86 > 79 characters)
 challenges/codeeval/014/palaxi0.py:6:32: W292 no newline at end of file
+challenges/codeeval/012/palaxi0.py:13:1: W293 blank line contains whitespace
+challenges/codeeval/012/palaxi0.py:13:1: W391 blank line at end of file
 challenges/codeeval/222/palaxi0.py:13:1: W293 blank line contains whitespace
 challenges/codeeval/222/palaxi0.py:13:1: W391 blank line at end of file
 challenges/codeeval/211/palaxi0.py:13:27: E225 missing whitespace around operator
@@ -185,6 +203,7 @@ challenges/codeeval/113/palaxi0.py:7:39: E231 missing whitespace after ','
 challenges/codeeval/113/palaxi0.py:10:25: E231 missing whitespace after ','
 challenges/codeeval/113/palaxi0.py:11:80: E501 line too long (80 > 79 characters)
 challenges/codeeval/113/palaxi0.py:12:32: W292 no newline at end of file
+challenges/codeeval/069/palaxi0.py:6:80: E501 line too long (169 > 79 characters)
 challenges/codeeval/189/palaxi0.py:8:16: E225 missing whitespace around operator
 challenges/codeeval/189/palaxi0.py:9:25: E231 missing whitespace after ','
 challenges/codeeval/189/palaxi0.py:11:27: W292 no newline at end of file
@@ -218,3 +237,5 @@ challenges/codeeval/032/palaxi0.py:12:29: E225 missing whitespace around operato
 challenges/codeeval/032/palaxi0.py:13:26: E225 missing whitespace around operator
 challenges/codeeval/032/palaxi0.py:15:26: E225 missing whitespace around operator
 challenges/codeeval/032/palaxi0.py:16:22: W292 no newline at end of file
+challenges/codeeval/236/palaxi0.py:5:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/236/palaxi0.py:16:80: E501 line too long (92 > 79 characters)

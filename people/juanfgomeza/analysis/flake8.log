@@ -1,0 +1,14 @@
+challenges/codeeval/114/juanfgomeza.py:12:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/114/juanfgomeza.py:28:1: W293 blank line contains whitespace
+challenges/codeeval/114/juanfgomeza.py:32:17: E201 whitespace after '('
+challenges/codeeval/114/juanfgomeza.py:32:28: W291 trailing whitespace
+challenges/codeeval/114/juanfgomeza.py:33:28: E225 missing whitespace around operator
+challenges/codeeval/114/juanfgomeza.py:38:74: W291 trailing whitespace
+challenges/codeeval/114/juanfgomeza.py:39:1: W293 blank line contains whitespace
+challenges/codeeval/114/juanfgomeza.py:44:1: W391 blank line at end of file
+challenges/codeeval/001/juanfgomeza.py:3:1: E302 expected 2 blank lines, found 1
+challenges/codeeval/001/juanfgomeza.py:13:13: W291 trailing whitespace
+challenges/codeeval/001/juanfgomeza.py:15:23: W291 trailing whitespace
+challenges/codeeval/001/juanfgomeza.py:22:28: W291 trailing whitespace
+challenges/codeeval/001/juanfgomeza.py:24:1: W293 blank line contains whitespace
+challenges/codeeval/001/juanfgomeza.py:24:1: W391 blank line at end of file

@@ -32,6 +32,33 @@ _style()
   else
     echo "No hay archivos de Ruby"
   fi
+
+  local cfiles=$(find challenges -iname "$user".c)
+  if [ -n "$cfiles" ]; then
+    mkdir -p "$dir"
+    echo "Analizando con splint ..."
+    splint $(echo "$cfiles") > "$dir"/splint.log 2>&1
+  else
+    echo "No hay archivos de C"
+  fi
+
+  local jsfiles=$(find challenges -iname "$user".js)
+  if [ -n "$jsfiles" ]; then
+    mkdir -p "$dir"
+    echo "Analizando con gjslint ..."
+    gjslint $(echo "$rbfiles") > "$dir"/gjslint.log 2>&1
+  else
+    echo "No hay archivos de JavaScript"
+  fi
+
+  local shfiles=$(find challenges -iname "$user".sh)
+  if [ -n "$shfiles" ]; then
+    mkdir -p "$dir"
+    echo "Analizando con shellcheck ..."
+    gjslint $(echo "$shfiles") > "$dir"/shellcheck.log 2>&1
+  else
+    echo "No hay archivos de Shell"
+  fi
 }
 
 _langs()
