@@ -7,12 +7,12 @@ for test in test_cases:
     test =  test.replace('\n', '').lower()
     frequency = collections.Counter(test)
     values = []
-    for letter,n in frequency.iteritems():  #saving only the values of the letters
+    for letter,n in frequency.iteritems():
         if letter.isalpha():
             values.append(n)
     solve = 0
     beauty = 26
-    values.sort(reverse=True) #sorting descending 
+    values.sort(reverse=True)
     for i in values:
         solve+= beauty*i
         beauty= beauty-1
