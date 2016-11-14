@@ -1,8 +1,3 @@
-/*
-find_frequency function was originaly from 
-http://www.programmingsimplified.com/c-program-find-characters-frequency
-but modded to fit this challenge
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -17,8 +12,6 @@ void find_frequency(char s[], int count[]) {
       c++;
    }
 }
-
-//simple comparision function to get the letter frequency in descending order
 int comp (const void * elem1, const void * elem2) 
 {
     int f = *((int*)elem1);
@@ -27,7 +20,6 @@ int comp (const void * elem1, const void * elem2)
     if (f < s) return 1;
     return 0;
 }
-//as it doesnt really matter which letter is , we just take the frequency of the most used letter and *26 then the sencond most *25, etc
 int beauty(int count[]){
 	int beauty = 26;
 	int sum = 0;
