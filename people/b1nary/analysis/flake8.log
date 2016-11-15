@@ -1,0 +1,17 @@
+challenges/codeeval/easy/026/b1nary.py:3:23: W292 no newline at end of file
+challenges/codeeval/easy/031/b1nary.py:5:29: E231 missing whitespace after ','
+challenges/codeeval/easy/111/b1nary.py:5:11: E222 multiple spaces after operator
+challenges/codeeval/easy/083/b1nary.py:7:11: E222 multiple spaces after operator
+challenges/codeeval/easy/083/b1nary.py:10:15: E231 missing whitespace after ','
+challenges/codeeval/easy/083/b1nary.py:17:14: E225 missing whitespace around operator
+challenges/codeeval/easy/083/b1nary.py:18:15: E225 missing whitespace around operator
+challenges/codeeval/easy/083/b1nary.py:20:1: W293 blank line contains whitespace
+challenges/codeeval/easy/023/b1nary.py:3:17: E231 missing whitespace after ','
+challenges/codeeval/easy/023/b1nary.py:5:21: E231 missing whitespace after ','
+challenges/codeeval/easy/023/b1nary.py:6:15: E225 missing whitespace around operator
+challenges/codeeval/easy/023/b1nary.py:7:19: E225 missing whitespace around operator
+challenges/codeeval/easy/023/b1nary.py:8:22: E225 missing whitespace around operator
+challenges/codeeval/easy/023/b1nary.py:10:22: E225 missing whitespace around operator
+challenges/codeeval/easy/023/b1nary.py:12:18: E225 missing whitespace around operator
+challenges/codeeval/easy/023/b1nary.py:13:10: E225 missing whitespace around operator
+challenges/codeeval/easy/008/b1nary.py:10:1: W391 blank line at end of file
