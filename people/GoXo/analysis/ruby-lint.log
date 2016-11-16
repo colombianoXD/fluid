@@ -1,1 +1,1 @@
-GoXo.rb: warning: line 7, column 37: unused argument i
+./analysis.sh: line 31: ruby-lint: command not found
