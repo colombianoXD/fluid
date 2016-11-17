@@ -7,7 +7,7 @@ while read line || [[ -n "$line" ]]; do
 
 	len=${#line};
 	
-	for ((i=0; i<=$len; i++))
+	for ((i=0; i<=len; i++))
 	do
 		CH=${line:$i:${i+1}};
 
@@ -21,4 +21,4 @@ while read line || [[ -n "$line" ]]; do
 
 	echo
  
-done < $1
+done < 1
