@@ -447,7 +447,7 @@ PreCommit:
     include: '**/*.py'
 
   Pylint:
-    enabled: false
+    enabled: true
     description: 'Analyze with Pylint'
     required_executable: 'pylint'
     install_command: 'pip install pylint'
