@@ -90,7 +90,7 @@ CommitMsg:
     sample_message: 'DEFECT-1234 | Refactored Onboarding flow | John Doe'
 
   RussianNovel:
-    enabled: false
+    enabled: true
     description: 'Check length of commit message'
     quiet: true
 
@@ -140,7 +140,7 @@ PreCommit:
     pattern: '^[^@]+@.*$'
 
   AuthorName:
-    enabled: true
+    enabled: false
     description: 'Check for author name'
     requires_files: false
     required: true
