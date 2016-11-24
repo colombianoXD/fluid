@@ -1,1 +1,1 @@
-script: analysis.sh
+script: build.sh
