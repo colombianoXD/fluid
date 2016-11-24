@@ -1,1 +1,4 @@
-./analysis.sh: line 31: ruby-lint: command not found
+warning: parser/current is loading parser/ruby23, which recognizes
+warning: 2.3.2-compliant syntax, but you are running 2.3.1.
+warning: please see https://github.com/whitequark/parser#compatibility-with-ruby-mri.
+GoXo.rb: warning: line 7, column 37: unused argument i
