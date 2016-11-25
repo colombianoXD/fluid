@@ -135,12 +135,12 @@ PreCommit:
     enabled: true  # All custom hooks are disabled by default.
     description: Checking for length of lines  # Prints a description when your hook is run.
     max: 80  # Setting the max length to 89 chars. Accessed through the `config` attribute in our hook.
-    include: '**/*.asc'
     excludes: 
       - '**/*.rb'  # Rubocop is already checking for the length of lines in Ruby.
       - '**/*.gif' # However, we are interested in ensuring that the line of lines
       - '**/*.jpg' # in our HAML and YAML files follow the same rules as well.
       - '**/*.png'
+      - '**/*.bmp'
 
 
   AuthorEmail:
