@@ -2,7 +2,7 @@
 #
 # This is an opinionated list of which hooks are valuable to run and what their
 # out-of-the-box settings should be.
-#-------------------------------------------------------------------------------
+#------------------------------------------------------------------------------
 
 # Loads Bundler context from a Gemfile. If false, does nothing (default).
 #
@@ -14,8 +14,10 @@
 # This is useful if you want to:
 #
 #   - Enforce a specific version of Overcommit to use for all hook runs
-#     (or to use a version from the master branch that has not been released yet)
-#   - Enforce a specific version or unreleased branch is used for a gem you want
+#     (or to use a version from the master branch that has not
+# been released yet)
+#   - Enforce a specific version or unreleased branch 
+# is used for a gem you want
 #     to use in your git hooks
 #
 # WARNING: This makes your hook runs slower, but you can work around this!
@@ -24,14 +26,16 @@
 # as Bundler parses the Gemfile and checks that the dependencies are satisfied.
 # Thus for projects with many gems this can introduce a noticeable delay.
 #
-# The recommended workaround is to create a separate Gemfile in the root of your
+# The recommended workaround is to create a separate Gemfile 
+# in the root of your 
 # repository (call it `.overcommit_gems.rb`), and include only the gems that
 # your Overcommit hooks need in order to run. This significantly reduces the
 # startup delay in your hook runs. Make sure to commit both
 # `.overcommit_gems.rb` and the resulting `.overcommit_gems.rb.lock` file to
 # your repository, and then set the `gemfile` option below to the name you gave
 # the file.
-# (Generate lock file by running `bundle install --gemfile=.overcommit_gems.rb`)
+# (Generate lock file by running `bundle install
+#  --gemfile=.overcommit_gems.rb`)
 gemfile: false
 
 # Where to store hook plugins specific to a repository. These are loaded in
@@ -39,7 +43,7 @@ gemfile: false
 # to the root of the repository.
 plugin_directory: '.git-hooks'
 
-# Whether to hide hook output by default. This results in completely silent hook
+# Whether to hide hook output by default. This results in completely silenthook
 # runs except in the case of warning or failure.
 quiet: false
 
@@ -57,7 +61,8 @@ concurrency: '%{processors}'
 verify_signatures: true
 
 # Hooks that are run against every commit message after a user has written it.
-# These hooks are useful for enforcing policies on commit messages written for a
+# These hooks are useful for enforcing policies on commit messages
+# written for a
 # project.
 CommitMsg:
   ALL:
@@ -86,7 +91,8 @@ CommitMsg:
     enabled: false
     description: 'Check commit message matches expected pattern'
     pattern: '(.+)[|](.+)[|](.+)'
-    expected_pattern_message: '<Issue Id> | <Commit Message Description> | <Developer(s)>'
+    expected_pattern_message: '<Issue Id> | <Commit Message Description> 
+    | <Developer(s)>'
     sample_message: 'DEFECT-1234 | Refactored Onboarding flow | John Doe'
 
   RussianNovel:
@@ -133,12 +139,17 @@ PreCommit:
 
   LineLength:
     enabled: true  # All custom hooks are disabled by default.
-    description: Checking for length of lines  # Prints a description when your hook is run.
-    max: 80  # Setting the max length to 89 chars. Accessed through the `config` attribute in our hook.
+    description: Checking for length of lines  
+    # Prints a description when your hook is run.
+    max: 80  # Setting the max length to 89 chars. 
+    #Accessed through the `config` attribute in our hook.
     excludes: 
-      - '**/*.rb'  # Rubocop is already checking for the length of lines in Ruby.
-      - '**/*.gif' # However, we are interested in ensuring that the line of lines
-      - '**/*.jpg' # in our HAML and YAML files follow the same rules as well.
+      - '**/*.rb'  # Rubocop is already checking 
+      #for the length of lines in Ruby.
+      - '**/*.gif' # However, we are interested in ensuring 
+      #that the line of lines
+      - '**/*.jpg' # in our HAML and YAML files follow the 
+      #same rules as well.
       - '**/*.png'
       - '**/*.bmp'
 
