@@ -132,7 +132,7 @@ PreCommit:
     quiet: false
 
   LineLength:
-    enabled: false  # All custom hooks are disabled by default.
+    enabled: true  # All custom hooks are disabled by default.
     description: Checking for length of lines  # Prints a description when your hook is run.
     max: 80  # Setting the max length to 89 chars. Accessed through the `config` attribute in our hook.
     include: '**/*.asc'
