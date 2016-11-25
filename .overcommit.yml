@@ -282,7 +282,9 @@ PreCommit:
     description: 'Check for "token" strings'
     required_executable: 'grep'
     flags: ['-IEHnw']
-    keywords: ['BROKEN', 'BUG', 'ERROR', 'FIXME', 'HACK', 'NOTE', 'OPTIMIZE', 'REVIEW', 'TODO', 'WTF', 'XXX']
+    keywords: ['BROKEN', 'BUG', 'ERROR', 
+    'FIXME', 'HACK', 'NOTE', 'OPTIMIZE', 
+    'REVIEW', 'TODO', 'WTF', 'XXX']
 
   Foodcritic:
     enabled: false
@@ -457,7 +459,8 @@ PreCommit:
     required_executable: 'puppet-lint'
     install_command: 'gem install puppet-lint'
     flags:
-      - '--log-format="%{fullpath}:%{line}:%{column}:%{KIND}: %{message} (%{check})"'
+      - '--log-format="%{fullpath}:%{line}:
+        %{column}:%{KIND}: %{message} (%{check})"'
       - '--fail-on-warnings'
       - '--error-level=all'
     include: '**/*.pp'
@@ -926,7 +929,8 @@ PrePush:
   TestUnit:
     enabled: false
     description: 'Run Test::Unit test suite'
-    command: ['ruby', '-Ilib:test', '-rtest/unit', "-e 'exit! Test::Unit::AutoRunner.run'"]
+    command: ['ruby', '-Ilib:test', '-rtest/unit', 
+    "-e 'exit! Test::Unit::AutoRunner.run'"]
 
   Brakeman:
     enabled: false
