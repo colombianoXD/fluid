@@ -16,7 +16,7 @@
 #   - Enforce a specific version of Overcommit to use for all hook runs
 #     (or to use a version from the master branch that has not
 # been released yet)
-#   - Enforce a specific version or unreleased branch 
+#   - Enforce a specific version or unreleased branch
 # is used for a gem you want
 #     to use in your git hooks
 #
@@ -26,8 +26,8 @@
 # as Bundler parses the Gemfile and checks that the dependencies are satisfied.
 # Thus for projects with many gems this can introduce a noticeable delay.
 #
-# The recommended workaround is to create a separate Gemfile 
-# in the root of your 
+# The recommended workaround is to create a separate Gemfile
+# in the root of your
 # repository (call it `.overcommit_gems.rb`), and include only the gems that
 # your Overcommit hooks need in order to run. This significantly reduces the
 # startup delay in your hook runs. Make sure to commit both
@@ -71,10 +71,11 @@ CommitMsg:
 
   CapitalizedSubject:
     enabled: true
+    on_warn: fail
     description: 'Check subject capitalization'
 
   EmptyMessage:
-    enabled: false
+    enabled: true
     description: 'Check for empty commit message'
     quiet: true
 
@@ -84,14 +85,15 @@ CommitMsg:
     required: true
 
   HardTabs:
-    enabled: false
+    enabled: true
+    on_warn: fail
     description: 'Check for hard tabs'
 
   MessageFormat:
     enabled: false
     description: 'Check commit message matches expected pattern'
     pattern: '(.+)[|](.+)[|](.+)'
-    expected_pattern_message: '<Issue Id> | <Commit Message Description> 
+    expected_pattern_message: '<Issue Id> | <Commit Message Description>
     | <Developer(s)>'
     sample_message: 'DEFECT-1234 | Refactored Onboarding flow | John Doe'
 
@@ -113,8 +115,8 @@ CommitMsg:
   TextWidth:
     enabled: true
     description: 'Check text width'
-    max_subject_width: 80
-    max_body_width: 80
+    max_subject_width: 50
+    max_body_width: 63
 
   TrailingPeriod:
     enabled: true
@@ -138,18 +140,16 @@ PreCommit:
     quiet: false
 
   LineLength:
-    enabled: true  # All custom hooks are disabled by default.
-    description: Checking for length of lines  
-    # Prints a description when your hook is run.
-    max: 80  # Setting the max length to 89 chars. 
-    #Accessed through the `config` attribute in our hook.
-    excludes: 
-      - '**/*.rb'  # Rubocop is already checking 
-      #for the length of lines in Ruby.
-      - '**/*.gif' # However, we are interested in ensuring 
-      #that the line of lines
-      - '**/*.jpg' # in our HAML and YAML files follow the 
-      #same rules as well.
+    enabled: true
+    on_warn: fail
+    description: Checking for length of lines
+    max: 81
+    exclude:
+      - '**/*.js'
+      - '**/*.xml'
+      - '**/*.xsl'
+      - '**/*.gif'
+      - '**/*.jpg'
       - '**/*.png'
       - '**/*.bmp'
 
@@ -163,7 +163,7 @@ PreCommit:
     pattern: '^[^@]+@.*$'
 
   AuthorName:
-    enabled: false
+    enabled: true
     description: 'Check for author name'
     requires_files: false
     required: true
@@ -282,9 +282,9 @@ PreCommit:
     description: 'Check for "token" strings'
     required_executable: 'grep'
     flags: ['-IEHnw']
-    keywords: ['BROKEN', 'BUG', 'ERROR', 
-    'FIXME', 'HACK', 'NOTE', 'OPTIMIZE', 
-    'REVIEW', 'TODO', 'WTF', 'XXX']
+    keywords: ['BROKEN', 'BUG', 'ERROR',
+'FIXME', 'HACK', 'NOTE', 'OPTIMIZE',
+'REVIEW', 'TODO', 'WTF', 'XXX']
 
   Foodcritic:
     enabled: false
@@ -298,6 +298,15 @@ PreCommit:
     description: 'Check for commit to forbidden branch'
     quiet: true
     branch_patterns: ['master']
+
+  GjsLint:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with GjsLint'
+    required_executable: 'gjslint'
+    flags: ['']
+    install_command: 'npm install -g gjslint'
+    include: '**/*.js'
 
   GoLint:
     enabled: false
@@ -323,16 +332,18 @@ PreCommit:
 
   HardTabs:
     enabled: false
+    on_warn: fail
     description: 'Check for hard tabs'
     quiet: true
     required_executable: 'grep'
     flags: ['-IHn', "\t"]
 
   Hlint:
-    enabled: false
+    enabled: true
+    on_warn: fail
     description: 'Analyze with hlint'
     required_executable: 'hlint'
-    install_command: 'cabal install hlint'
+    install_command: 'sudo cabal install hlint'
     include: '**/*.hs'
 
   HtmlHint:
@@ -362,10 +373,11 @@ PreCommit:
       - '**/*.svg'
 
   JavaCheckstyle:
-    enabled: false
+    enabled: true
     description: 'Analyze with checkstyle'
     required_executable: 'checkstyle'
-    flags: ['-c', '/sun_checks.xml']
+    #flags: ['-c', '/usr/share/checkstyle/sun_checks.xml']
+    flags: ['-c', './.git-hooks/checkstyle/sun_checks.xml']
     include: '**/*.java'
 
   Jscs:
@@ -378,6 +390,7 @@ PreCommit:
 
   JsHint:
     enabled: false
+    on_warn: fail
     description: 'Analyze with JSHint'
     required_executable: 'jshint'
     flags: ['--verbose']
@@ -474,6 +487,7 @@ PreCommit:
 
   Pylint:
     enabled: true
+    on_warn: fail
     description: 'Analyze with Pylint'
     required_executable: 'pylint'
     install_command: 'pip install pylint'
@@ -484,7 +498,8 @@ PreCommit:
     include: '**/*.py'
 
   PythonFlake8:
-    enabled: false
+    enabled: true
+    on_warn: fail
     description: 'Analyze with flake8'
     required_executable: 'flake8'
     install_command: 'pip install flake8'
@@ -533,7 +548,7 @@ PreCommit:
       - '**/Rakefile'
 
   RubyLint:
-    enabled: false
+    enabled: true
     description: 'Analyze with ruby-lint'
     required_executable: 'ruby-lint'
     flags: ['--presenter=syntastic', '--levels=error,warning']
@@ -573,7 +588,8 @@ PreCommit:
     include: '**/*.js'
 
   ShellCheck:
-    enabled: false
+    enabled: true
+    on_warn: fail
     description: 'Analyze with ShellCheck'
     required_executable: 'shellcheck'
     flags: ['--format=gcc']
@@ -585,6 +601,17 @@ PreCommit:
     required_executable: 'slim-lint'
     install_command: 'gem install slim_lint'
     include: '**/*.slim'
+
+  Splint:
+    enabled: true
+    on_warn: fail
+    description: 'Analizando con splint'
+    required_executable: 'splint'
+    flags: ['-weak']
+    include:
+      - '**/*.c'
+      - '**/*.h'
+      - '**/*.lcl'
 
   Sqlint:
     enabled: false
@@ -610,7 +637,8 @@ PreCommit:
       include: '**/*.ts'
 
   TrailingWhitespace:
-    enabled: false
+    enabled: true
+    on_warn: fail
     description: 'Check for trailing whitespace'
     required_executable: 'grep'
     flags: ['-IHn', "[ \t]$"]
@@ -929,8 +957,8 @@ PrePush:
   TestUnit:
     enabled: false
     description: 'Run Test::Unit test suite'
-    command: ['ruby', '-Ilib:test', '-rtest/unit', 
-    "-e 'exit! Test::Unit::AutoRunner.run'"]
+    command: ['ruby', '-Ilib:test', '-rtest/unit',
+"-e 'exit! Test::Unit::AutoRunner.run'"]
 
   Brakeman:
     enabled: false
