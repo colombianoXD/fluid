@@ -336,7 +336,7 @@ PreCommit:
     description: 'Check for hard tabs'
     quiet: true
     required_executable: 'grep'
-    flags: ['-IHn', " \t"]
+    flags: ['-IHn', "\t"]
 
   Hlint:
     enabled: true
