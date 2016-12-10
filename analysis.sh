@@ -55,7 +55,7 @@ _style()
   if [ -n "$shfiles" ]; then
     mkdir -p "$dir"
     echo "Analizando con shellcheck ..."
-    gjslint $(echo "$shfiles") > "$dir"/shellcheck.log 2>&1
+    shellcheck $(echo "$shfiles") > "$dir"/shellcheck.log 2>&1
   else
     echo "No hay archivos de Shell"
   fi
