@@ -36,7 +36,8 @@ public final class Main {
 
         for (int j = k; j < n; j++) {
 
-            List<Integer> mSub = new ArrayList<Integer>(m.subList(j - k, j));
+            ArrayList<Integer> mSub =
+                new ArrayList<Integer>(m.subList(j - k, j));
             int min = 0;
             while (mSub.contains(min)) {
                min++;
