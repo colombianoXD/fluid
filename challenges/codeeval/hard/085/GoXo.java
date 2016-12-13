@@ -11,20 +11,23 @@ public final class Main {
     File filename = new File(args[0]);
     BufferedReader reader = new BufferedReader(new FileReader(filename));
     String line;
-    final int bNum = 3;
-    final int cNum = 4;
-    final int rNUM = 5;
+    final int nIdx = 0;
+    final int kIdx = 1;
+    final int aIdx = 2;
+    final int bIdx = 3;
+    final int cIdx = 4;
+    final int rIdx = 5;
 
     while ((line = reader.readLine()) != null) {
         String[] parts = line.split(",");
         ArrayList<Integer> m = new ArrayList<Integer>();
 
-        int n = Integer.parseInt(parts[0]);
-        int k = Integer.parseInt(parts[1]);
-        int a = Integer.parseInt(parts[2]);
-        int b = Integer.parseInt(parts[bNum]);
-        int c = Integer.parseInt(parts[cNum]);
-        int r = Integer.parseInt(parts[rNum]);
+        int n = Integer.parseInt(parts[nIdx]);
+        int k = Integer.parseInt(parts[kIdx]);
+        int a = Integer.parseInt(parts[aIdx]);
+        int b = Integer.parseInt(parts[bIdx]);
+        int c = Integer.parseInt(parts[cIdx]);
+        int r = Integer.parseInt(parts[rIdx]);
 
         m.add(a);
         for (int i = 1; i < k; i++) {
