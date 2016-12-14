@@ -9,22 +9,15 @@ def next_char(line2, copy_board2, idx2, kn2):
     kn2 = kn2 + 1
     if kn2 == len(line2):
         return True
+    direction = [1, -1, -5, 5]
 
-    if copy_board2[idx2+1] != 'x' and copy_board2[idx2+1] == line2[kn2]:
-        if next_char(line2, copy_board2, idx2+1, kn2):
-            return True
+    for dio in direction:
 
-    if copy_board2[idx2-1] != 'x' and copy_board2[idx2-1] == line2[kn2]:
-        if next_char(line2, copy_board2, idx2-1, kn2):
-            return True
+        if (copy_board2[idx2+dio] != 'x'
+                and copy_board2[idx2+dio] == line2[kn2]):
 
-    if copy_board2[idx2-5] != 'x' and copy_board2[idx2-5] == line2[kn2]:
-        if next_char(line2, copy_board2, idx2-5, kn2):
-            return True
-
-    if copy_board2[idx2+5] != 'x' and copy_board2[idx2+5] == line2[kn2]:
-        if next_char(line2, copy_board2, idx2+5, kn2):
-            return True
+            if next_char(line2, copy_board2, idx2+dio, kn2):
+                return True
 
     return False
 
@@ -32,15 +25,14 @@ def next_char(line2, copy_board2, idx2, kn2):
 with open(sys.argv[1], 'r') as test_cases:
 
     for test in test_cases:
+
         board = list("xxxxxABCExSFCSxADEExxxxx")
         line = test.strip()
-        first = line[0]
-        indices = [idx for idx, c in enumerate(board) if c == first]
+        indices = [idx for idx, c in enumerate(board) if c == line[0]]
 
-        for it in indices:
+        for idx in indices:
 
             copy_board = list(board)
-            idx = it
             res = True
             k = 0
             res = next_char(line, copy_board, idx, k)
