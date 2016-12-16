@@ -7,7 +7,6 @@ fs.readFileSync(process.argv[2]).toString().split('\n').
     var res = 'True';
 
     for (var i = 0; i < line.length; i++) {
-
          var ch = line[i];
 
          if ((ch == '(') || (ch == '{') || (ch == '[')) abriendo(ch);
@@ -18,7 +17,7 @@ fs.readFileSync(process.argv[2]).toString().split('\n').
          }
     }
 
-    if (bal != 0) {
+    if (bal !== 0) {
         res = 'False';
     }
     console.log(res);
@@ -31,6 +30,12 @@ fs.readFileSync(process.argv[2]).toString().split('\n').
     function cerrando(c) {
 
         bal -= 1;
+
+         if (bal < 0) {
+             res = 'False';
+             return 'break';
+         }
+
         if (control == 's') return 'continue';
         if (((c == ')') && (control != '(')) ||
             ((c == '}') && (control != '{')) ||
