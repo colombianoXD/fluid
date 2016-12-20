@@ -12,7 +12,6 @@ public final class Main {
         answer = new ArrayList<String>();
     }
 
-
     public static void main(final String[] args) throws IOException {
 
         File filename = new File(args[0]);
