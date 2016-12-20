@@ -8,8 +8,7 @@ import java.util.Collections;
 public final class Main {
     private static ArrayList<String> answer = new ArrayList<String>();;
 
-    private Main() {
-    }
+    private Main() { }
 
     public static void main(final String[] args) throws IOException {
 
