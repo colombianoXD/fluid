@@ -6,10 +6,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public final class Main {
-    private static ArrayList<String> answer;
+    private static ArrayList<String> answer = new ArrayList<String>();;
 
     private Main() {
-        answer = new ArrayList<String>();
     }
 
     public static void main(final String[] args) throws IOException {
