@@ -7,7 +7,6 @@ main = do
     contents <- readFile file
     let lista = listToDoub (lines contents)
     let ans = map degToTime lista
-    let doub = 0.05
     mapM_ putStrLn ans
     return()
 
