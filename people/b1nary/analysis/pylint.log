@@ -1,38 +1,339 @@
 No config file found, using default configuration
 ************* Module b1nary
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
-C:  3, 0: Final newline missing (missing-final-newline)
-C:  3, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
 C:  1, 0: Missing module docstring (missing-docstring)
-C:  2, 0: Invalid constant name "test_cases" (invalid-name)
+C:  6, 0: Exactly one space required after comparison
+        if len(test) <=1 :
+                     ^^ (bad-whitespace)
+C:  6, 0: No space allowed before :
+        if len(test) <=1 :
+                         ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                        ^ (bad-whitespace)
+C: 13, 0: Exactly one space required after comma
+                for j in range(len(word),i,-1):
+                                          ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around comparison
+                    if len(word)>1 and len(tmp)==1:
+                                ^ (bad-whitespace)
+C: 15, 0: Exactly one space required around assignment
+                    if len(word)>1 and len(tmp)==1:
+                                               ^^ (bad-whitespace)
+C: 17, 0: Exactly one space required after comma
+                    ltmp = len(re.findall(tmp,test))
+                                             ^ (bad-whitespace)
+C: 18, 0: Line too long (82/80) (line-too-long)
+C: 18, 0: Exactly one space required before comparison
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                                                                  ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                            if len(re.findall(tmp,test))>1 :
+                                                 ^ (bad-whitespace)
+C: 25, 0: Exactly one space required around comparison
+                            if len(re.findall(tmp,test))>1 :
+                                                        ^ (bad-whitespace)
+C: 25, 0: No space allowed before :
+                            if len(re.findall(tmp,test))>1 :
+                                                           ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Missing module docstring (missing-docstring)
+R:  1, 0: Similar lines in 8 files
+==b1nary:0
+==b1nary:0
+==b1nary:0
+==b1nary:0
+==b1nary:0
+==b1nary:0
+==b1nary:0
+==b1nary:0
+import sys
+import re
+
+with open(sys.argv[1], 'r') as test_cases:
+    for test in test_cases:
+        if len(test) <=1 :
+            continue
+        longest = ''
+        lsize = 0
+        substrings = []
+        for word in test.split(' '):
+            for i in range(len(word)):
+                for j in range(len(word),i,-1):
+                    tmp = word[i:j]
+                    if len(word)>1 and len(tmp)==1:
+                        continue
+                    ltmp = len(re.findall(tmp,test))
+                    if ltmp > lsize or (ltmp >= lsize and len(tmp)> len(longest)):
+                        for x in substrings:
+                            if tmp in x:
+                                break
+                        else:
+                            longest = tmp
+                            lsize = ltmp
+                            if len(re.findall(tmp,test))>1 :
+                                substrings.append(tmp)
+
+                        continue
+        if lsize <= 1:
+            print 'NONE'
+        else:
+            print longest (duplicate-code)
 
 
 Report
 ======
-22 statements analysed.
+225 statements analysed.
 
 Messages by category
 --------------------
@@ -40,13 +341,13 @@ Messages by category
 +-----------+-------+---------+-----------+
 |type       |number |previous |difference |
 +===========+=======+=========+===========+
-|convention |28     |NC       |NC         |
+|convention |112    |28       |+84.00     |
 +-----------+-------+---------+-----------+
-|refactor   |0      |NC       |NC         |
+|refactor   |1      |0        |+1.00      |
 +-----------+-------+---------+-----------+
-|warning    |0      |NC       |NC         |
+|warning    |0      |0        |=          |
 +-----------+-------+---------+-----------+
-|error      |0      |NC       |NC         |
+|error      |0      |0        |=          |
 +-----------+-------+---------+-----------+
 
 
@@ -54,23 +355,25 @@ Messages by category
 Messages
 --------
 
-+----------------------+------------+
-|message id            |occurrences |
-+======================+============+
-|superfluous-parens    |7           |
-+----------------------+------------+
-|missing-final-newline |7           |
-+----------------------+------------+
-|missing-docstring     |7           |
-+----------------------+------------+
-|invalid-name          |7           |
-+----------------------+------------+
++--------------------+------------+
+|message id          |occurrences |
++====================+============+
+|bad-whitespace      |88          |
++--------------------+------------+
+|trailing-whitespace |8           |
++--------------------+------------+
+|missing-docstring   |8           |
++--------------------+------------+
+|line-too-long       |8           |
++--------------------+------------+
+|duplicate-code      |1           |
++--------------------+------------+
 
 
 
 Global evaluation
 -----------------
-Your code has been rated at -2.73/10
+Your code has been rated at 4.98/10 (previous run: -2.73/10, +7.71)
 
 Statistics by type
 ------------------
@@ -78,13 +381,13 @@ Statistics by type
 +---------+-------+-----------+-----------+------------+---------+
 |type     |number |old number |difference |%documented |%badname |
 +=========+=======+===========+===========+============+=========+
-|module   |7      |NC         |NC         |0.00        |0.00     |
+|module   |8      |7          |+1.00      |0.00        |0.00     |
 +---------+-------+-----------+-----------+------------+---------+
-|class    |0      |NC         |NC         |0           |0        |
+|class    |0      |0          |=          |0           |0        |
 +---------+-------+-----------+-----------+------------+---------+
-|method   |0      |NC         |NC         |0           |0        |
+|method   |0      |0          |=          |0           |0        |
 +---------+-------+-----------+-----------+------------+---------+
-|function |0      |NC         |NC         |0           |0        |
+|function |0      |0          |=          |0           |0        |
 +---------+-------+-----------+-----------+------------+---------+
 
 
@@ -92,30 +395,30 @@ Statistics by type
 Duplication
 -----------
 
-+-------------------------+------+---------+-----------+
-|                         |now   |previous |difference |
-+=========================+======+=========+===========+
-|nb duplicated lines      |0     |NC       |NC         |
-+-------------------------+------+---------+-----------+
-|percent duplicated lines |0.000 |NC       |NC         |
-+-------------------------+------+---------+-----------+
++-------------------------+-------+---------+-----------+
+|                         |now    |previous |difference |
++=========================+=======+=========+===========+
+|nb duplicated lines      |224    |0        |+224.00    |
++-------------------------+-------+---------+-----------+
+|percent duplicated lines |87.500 |0.000    |+87.50     |
++-------------------------+-------+---------+-----------+
 
 
 
 Raw metrics
 -----------
 
-+----------+-------+------+---------+-----------+
-|type      |number |%     |previous |difference |
-+==========+=======+======+=========+===========+
-|code      |21     |75.00 |NC       |NC         |
-+----------+-------+------+---------+-----------+
-|docstring |0      |0.00  |NC       |NC         |
-+----------+-------+------+---------+-----------+
-|comment   |0      |0.00  |NC       |NC         |
-+----------+-------+------+---------+-----------+
-|empty     |7      |25.00 |NC       |NC         |
-+----------+-------+------+---------+-----------+
++----------+-------+-------+---------+-----------+
+|type      |number |%      |previous |difference |
++==========+=======+=======+=========+===========+
+|code      |248    |100.00 |21       |+227.00    |
++----------+-------+-------+---------+-----------+
+|docstring |0      |0.00   |0        |=          |
++----------+-------+-------+---------+-----------+
+|comment   |0      |0.00   |0        |=          |
++----------+-------+-------+---------+-----------+
+|empty     |0      |0.00   |7        |-7.00      |
++----------+-------+-------+---------+-----------+
 
 
 

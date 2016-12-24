@@ -1,0 +1,16 @@
+
+In challenges/codeeval/medium/016/b1nary.sh line 1:
+while read line || [[ -n "$line" ]]; do
+^-- SC2148: Tips depend on target shell and yours is unknown. Add a shebang.
+      ^-- SC2162: read without -r will mangle backslashes.
+
+
+In challenges/codeeval/medium/016/b1nary.sh line 3:
+    echo $binary | tr -cd '1' | wc -c
+         ^-- SC2086: Double quote to prevent globbing and word splitting.
+
+
+In challenges/codeeval/medium/016/b1nary.sh line 4:
+done < $1
+       ^-- SC2086: Double quote to prevent globbing and word splitting.
+
