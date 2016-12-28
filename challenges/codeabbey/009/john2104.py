@@ -1,20 +1,30 @@
-#http://www.wikihow.com/Find-the-Height-of-a-Triangle
-def calcS(a,b,c):
-	return (a+b+c)/2
-def calcSqrt(a,b,c,s):
-	return s*((s-a)*(s-b)*(s-c))
+#!/usr/bin/python
+'''CodeAbbey Triangles Result'''
+
+
+def calcsuma(sidea, sideb, sidec):
+    '''Returns the sum of the sides divided by 2'''
+    return (sidea + sideb + sidec)/2
+
+
+def calcsqrt(sidea, sideb, sidec, suma):
+    '''Returns the inside of the SQRT area formula'''
+    return suma * ((suma - sidea) * (suma - sideb) * (suma - sidec))
+
+
 def main():
-	nVal = raw_input()
-	response = ''
-	for i in range(int(nVal)):
-		a,b,c = raw_input().split()
-		
-		s = calcS(int(a),int(b),int(c))
-		sq = calcSqrt(int(a),int(b),int(c),s)
-		
-		if sq > 0:
-			response = response + '1 '
-		else:
-			response = response + '0 '
-	print response
+    '''Function main'''
+    nval = raw_input()
+    response = ''
+    for dummy in range(int(nval)):
+        sidea, sideb, sidec = raw_input().split()
+        suma = calcsuma(int(sidea), int(sideb), int(sidec))
+        sqrtres = calcsqrt(int(sidea), int(sideb), int(sidec), suma)
+        if sqrtres > 0:
+            response = response + '1 '
+        else:
+            response = response + '0 '
+    print response
+
+
 main()
