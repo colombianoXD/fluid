@@ -9,4 +9,3 @@ for i in $SOLVED; do
     echo $STATUS $url
   done
 done
-#find . -iname OTHERS.txt -exec cat {} \; | xargs curl -s -o /dev/null -w "%{http_code}"
