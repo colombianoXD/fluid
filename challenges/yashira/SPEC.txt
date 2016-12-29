@@ -9,3 +9,5 @@
 - media: 7.87%
 - dificultad: 54.17% 
 - diversion: 58.33%
+- wechall: https://www.wechall.net/site/details/13/Yashira
+- url: http://www.yashira.org/
