@@ -1,5 +1,5 @@
 #!/bin/bash
-SOLVED=$(find . -iname OTHERS.txt)
+SOLVED=$(find . -iname OTHERS.txt | sort)
 for i in $SOLVED; do
   CHALLENGE=$(dirname $i | cut -d"/" -f3-)
   echo "--- CHALLENGE: $CHALLENGE"
