@@ -1,3 +1,16 @@
+challenges/codeeval/hard/053/b1nary.py:6:24: E225 missing whitespace around operator
+challenges/codeeval/hard/053/b1nary.py:6:25: E203 whitespace before ':'
+challenges/codeeval/hard/053/b1nary.py:13:41: E231 missing whitespace after ','
+challenges/codeeval/hard/053/b1nary.py:13:43: E231 missing whitespace after ','
+challenges/codeeval/hard/053/b1nary.py:15:33: E225 missing whitespace around operator
+challenges/codeeval/hard/053/b1nary.py:15:48: E225 missing whitespace around operator
+challenges/codeeval/hard/053/b1nary.py:17:46: E231 missing whitespace after ','
+challenges/codeeval/hard/053/b1nary.py:18:67: E225 missing whitespace around operator
+challenges/codeeval/hard/053/b1nary.py:18:80: E501 line too long (82 > 79 characters)
+challenges/codeeval/hard/053/b1nary.py:25:50: E231 missing whitespace after ','
+challenges/codeeval/hard/053/b1nary.py:25:57: E225 missing whitespace around operator
+challenges/codeeval/hard/053/b1nary.py:25:59: E203 whitespace before ':'
+challenges/codeeval/hard/053/b1nary.py:27:1: W293 blank line contains whitespace
 challenges/codeeval/easy/026/b1nary.py:3:23: W292 no newline at end of file
 challenges/codeeval/easy/031/b1nary.py:5:29: E231 missing whitespace after ','
 challenges/codeeval/easy/111/b1nary.py:5:11: E222 multiple spaces after operator

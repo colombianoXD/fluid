@@ -1,20 +1,39 @@
 Splint 3.1.2 --- 03 May 2009
 
-challenges/codeeval/unknown/098/GoXo.c: (in function main)
-challenges/codeeval/unknown/098/GoXo.c:11:30:
+challenges/codeeval/unknown/012/GoXo.c: (in function main)
+challenges/codeeval/unknown/012/GoXo.c:9:30:
     Possibly null storage file passed as non-null param: fgets (..., file)
   A possibly null pointer is passed as a parameter corresponding to a formal
   parameter with no /*@null@*/ annotation.  If NULL may be used for this
   parameter, add a /*@null@*/ annotation to the function parameter declaration.
   (Use -nullpass to inhibit warning)
+   challenges/codeeval/unknown/012/GoXo.c:6:18: Storage file may become null
+challenges/codeeval/unknown/012/GoXo.c:12:21:
+    Variable len initialized to type size_t, expects short int: strlen(line)
+  To allow arbitrary integral types to match any integral type, use
+  +matchanyintegral.
+challenges/codeeval/unknown/012/GoXo.c:34:23:
+    Variable ans used before definition
+  An rvalue is used that may not be initialized to a value on some execution
+  path. (Use -usedef to inhibit warning)
+challenges/codeeval/unknown/012/GoXo.c:4:14: Parameter argc not used
+  A function parameter is not used in the body of the function. If the argument
+  is needed for type compatibility or future plans, use /*@unused@*/ in the
+  argument declaration. (Use -paramuse to inhibit warning)
+challenges/codeeval/unknown/098/GoXo.c:4:5:
+    Function main defined more than once
+  A function or variable is redefined. One of the declarations should use
+  extern. (Use -redef to inhibit warning)
+   challenges/codeeval/unknown/012/GoXo.c:37:1: Previous definition of main
+challenges/codeeval/unknown/098/GoXo.c: (in function main)
+challenges/codeeval/unknown/098/GoXo.c:11:30:
+    Possibly null storage file passed as non-null param: fgets (..., file)
    challenges/codeeval/unknown/098/GoXo.c:8:18: Storage file may become null
 challenges/codeeval/unknown/098/GoXo.c:15:16:
     Test expression for while not boolean, type char: *p
   Test expression type is not boolean. (Use -predboolothers to inhibit warning)
 challenges/codeeval/unknown/098/GoXo.c:25:24:
     Array element coord[0] used before definition
-  An rvalue is used that may not be initialized to a value on some execution
-  path. (Use -usedef to inhibit warning)
 challenges/codeeval/unknown/098/GoXo.c:25:33:
     Array element coord[3] used before definition
 challenges/codeeval/unknown/098/GoXo.c:25:47:
@@ -31,31 +50,20 @@ challenges/codeeval/unknown/098/GoXo.c:25:47:
     right operand): (pow((coord[0] - coord[3]), 2)) + (pow((coord[1] -
     coord[4]), 2))
 challenges/codeeval/unknown/098/GoXo.c:4:14: Parameter argc not used
-  A function parameter is not used in the body of the function. If the argument
-  is needed for type compatibility or future plans, use /*@unused@*/ in the
-  argument declaration. (Use -paramuse to inhibit warning)
-challenges/codeeval/unknown/012/GoXo.c:4:5:
-    Function main defined more than once
-  A function or variable is redefined. One of the declarations should use
-  extern. (Use -redef to inhibit warning)
-   challenges/codeeval/unknown/098/GoXo.c:30:1: Previous definition of main
-challenges/codeeval/unknown/012/GoXo.c: (in function main)
-challenges/codeeval/unknown/012/GoXo.c:9:30:
+challenges/codeeval/easy/232/GoXo.c:4:5: Function main defined more than once
+   challenges/codeeval/unknown/012/GoXo.c:37:1: Previous definition of main
+challenges/codeeval/easy/232/GoXo.c: (in function main)
+challenges/codeeval/easy/232/GoXo.c:9:30:
     Possibly null storage file passed as non-null param: fgets (..., file)
-   challenges/codeeval/unknown/012/GoXo.c:6:18: Storage file may become null
-challenges/codeeval/unknown/012/GoXo.c:12:21:
-    Variable len initialized to type size_t, expects short int: strlen(line)
-  To allow arbitrary integral types to match any integral type, use
-  +matchanyintegral.
-challenges/codeeval/unknown/012/GoXo.c:34:23:
-    Variable ans used before definition
-challenges/codeeval/unknown/012/GoXo.c:4:14: Parameter argc not used
-challenges/codeeval/easy/192/GoXo.c:3:5: Function main defined more than once
-   challenges/codeeval/unknown/098/GoXo.c:30:1: Previous definition of main
-challenges/codeeval/easy/192/GoXo.c: (in function main)
-challenges/codeeval/easy/192/GoXo.c:10:30:
-    Possibly null storage file passed as non-null param: fgets (..., file)
-   challenges/codeeval/easy/192/GoXo.c:4:18: Storage file may become null
-challenges/codeeval/easy/192/GoXo.c:12:13:
+   challenges/codeeval/easy/232/GoXo.c:6:18: Storage file may become null
+challenges/codeeval/easy/232/GoXo.c:12:19:
+    Variable len initialized to type arbitrary unsigned integral type, expects
+    int: (strlen(line) / 2) - 1
+challenges/codeeval/easy/232/GoXo.c:17:15:
+    Test expression for while not boolean, type char: *p
+challenges/codeeval/easy/232/GoXo.c:21:17: Assignment of long int to int:
+                                              nums[i] = strtol(p, &p, 10)
+  To ignore type qualifiers in type comparisons use +ignorequals.
+challenges/codeeval/easy/232/GoXo.c:28:12:
     Parse Error. (For help on parse errors, see splint -help parseerrors.)
 *** Cannot continue.
