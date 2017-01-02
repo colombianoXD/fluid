@@ -1,0 +1,23 @@
+
+In challenges/codeeval/medium/226/GoXo.sh line 1:
+while read line || [[ -n "$line" ]]; do
+^-- SC2148: Tips depend on target shell and yours is unknown. Add a shebang.
+      ^-- SC2162: read without -r will mangle backslashes.
+
+
+In challenges/codeeval/medium/121/GoXo.sh line 1:
+while read line || [[ -n "$line" ]]; do
+^-- SC2148: Tips depend on target shell and yours is unknown. Add a shebang.
+      ^-- SC2162: read without -r will mangle backslashes.
+
+
+In challenges/codeeval/unknown/015/GoXo.sh line 1:
+check=$(echo -n I | od -to2 | awk '{ print substr($2,6,1); exit}');
+^-- SC2148: Tips depend on target shell and yours is unknown. Add a shebang.
+
+
+In challenges/codeeval/unknown/236/GoXo.sh line 1:
+while read line || [[ -n "$line" ]]; do
+^-- SC2148: Tips depend on target shell and yours is unknown. Add a shebang.
+      ^-- SC2162: read without -r will mangle backslashes.
+

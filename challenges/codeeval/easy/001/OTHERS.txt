@@ -1,0 +1,3 @@
+https://github.com/mpillar/codeeval/tree/master/0-easy/fizz-buzz
+https://github.com/lexandro/codeeval/tree/master/0-Easy/FizzBuzz
+https://github.com/mpillar/codeeval/tree/master/0-easy/fizz-buzz
