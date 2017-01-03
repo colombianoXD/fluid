@@ -30,12 +30,10 @@ void findLetter(int[] asciivalues, int size, char c){
     bool found= false;
     int scode = 0;
     for (int i=0;i<asciivalues.length-size;i++){
-        string tmp = ""; //for debugging
         int n = asciivalues[i+size-1] - to!int(c);
         for (int j=i;j<i+size-1;j++){
             if (n<0)
                 break;
-            tmp~= to!char(asciivalues[j]-n); //for debugging
             if (!isAlpha(to!char(asciivalues[j]-n)))
                 break;
             if (j == i+size-2)
