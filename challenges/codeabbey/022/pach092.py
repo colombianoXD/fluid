@@ -1,13 +1,11 @@
-datos = [1, 1, 5, 3, 5, 4]
-cantidad = len(datos)
+datos = int(raw_input())
 respuesta = []
-a = 0
-while a < cantidad:
-    x, y, n = int(datos[a]), int(datos[a + 1]), int(datos[a + 2])
+for hojas in range(datos):
+    valores = map(int, raw_input().split())
+    x, y, n = int(valores[0]), int(valores[1]), int(valores[2])
     impresora_1 = (y * n / (x + y))
     impresora_2 = (x * n / (x + y))
     respuesta1 = int(max((impresora_1 + 1) * x, impresora_2 * y))
     respuesta2 = int(max(impresora_1 * x, (impresora_2 + 1) * y))
     respuesta.append(str(min(respuesta1, respuesta2)))
-    a += 3
-    print(' '.join(respuesta))
+print(' '.join(respuesta))
