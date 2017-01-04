@@ -1,0 +1,5 @@
+https://github.com/mpillar/codeeval/blob/master/1-moderate/card-number-validation/main.py
+https://github.com/vivekpabani/CodeEval/blob/master/moderate/card%20number%20validation/card_number_validation.py
+https://github.com/leaen/Codeeval-solutions/blob/master/card-number-validation.py
+https://github.com/StevenDunn/CodeEval/blob/master/CardNumberValidation/c/cnv.c
+https://github.com/aafful/CardValidation/blob/master/CardValidation.java
