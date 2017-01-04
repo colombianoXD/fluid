@@ -1,0 +1,4 @@
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.sh
+https://github.com/delynn/code-eval/blob/master/ruby/16-number-of-ones.rb
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.py
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.js
