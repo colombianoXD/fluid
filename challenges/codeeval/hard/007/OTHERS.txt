@@ -1,0 +1,3 @@
+https://github.com/mpillar/codeeval/blob/master/2-hard/prefix-expressions/main.py
+https://github.com/sds/codeeval/blob/master/hard/prefix-expressions/prefix-expressions.rb
+https://github.com/Brianjr0428/CodeEval/blob/master/Hard/Prefix%20expressions/prefix.java
