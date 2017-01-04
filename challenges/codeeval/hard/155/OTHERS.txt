@@ -1,0 +1,2 @@
+https://github.com/TheCK/codeChallenges/blob/master/codeEval/src/main/java/org/ck/codeEval/hard/asciiDecryption/Main.java
+https://github.com/mpillar/codeeval/blob/master/2-hard/ascii-decryption/main.py
