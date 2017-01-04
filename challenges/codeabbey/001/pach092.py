@@ -1,4 +1,3 @@
-a = 3
-b = 5
-suma = a + b
-print 'El resultado de sumar',a,'y',b,'es:',suma
+datos = raw_input().split()
+suma = int(datos[0]) + int(datos[1])
+print suma
