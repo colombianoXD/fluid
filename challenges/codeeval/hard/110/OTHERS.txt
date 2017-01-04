@@ -1,0 +1,3 @@
+https://github.com/mpillar/codeeval/blob/master/2-hard/text-to-number/main.py
+https://github.com/chris-roerig/code-eval/blob/master/text-to-number-v1.rb
+https://github.com/mgorgei/codeeval/blob/master/Hard/c110%20Text%20to%20Number.py
