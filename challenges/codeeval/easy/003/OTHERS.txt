@@ -1,1 +1,7 @@
-https://github.com/lexandro/codeeval/tree/master/0-Easy/PrimePalindrome
+https://github.com/lexandro/codeeval/blob/master/0-Easy/PrimePalindrome/src/main/java/Main.java
+https://gist.github.com/yuheiomori/11316963
+https://gist.github.com/fuzeman/5711942
+https://github.com/thiagoalessio/codeeval/blob/master/easy/prime-palindrome/solution.js
+https://github.com/thiagoalessio/codeeval/blob/master/easy/prime-palindrome/solution.py
+https://github.com/thiagoalessio/codeeval/blob/master/easy/prime-palindrome/solution.rb
+https://github.com/thiagoalessio/codeeval/blob/master/easy/prime-palindrome/solution.sh
