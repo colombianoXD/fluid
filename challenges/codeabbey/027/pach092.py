@@ -1,4 +1,5 @@
-numeros = [3, 1, 4, 1, 5, 9, 2, 6]
+datos = int(raw_input())
+numeros= [int(z) for z in raw_input().split()]
 def orden(cadena, pasa, descartado):
     respuesta = str(pasa), str(descartado) 
     arreglado = True
