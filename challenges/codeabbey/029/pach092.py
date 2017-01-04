@@ -1,4 +1,4 @@
-lista = list((int(i) for i in [50, 98, 17, 79]))
+lista = list((int(i) for i in raw_input().split()))
 cantidad = len(lista)
 informacion = dict()
 fin = len(lista)-1
