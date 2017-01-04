@@ -1,0 +1,4 @@
+https://github.com/mpillar/codeeval/blob/master/2-hard/distinct-subsequences/main.py
+https://github.com/mementum/codeeval/blob/master/03-hard/0069-distinct-subsequences/0069-distinct-subsequences.cpp
+https://github.com/mementum/codeeval/blob/master/03-hard/0069-distinct-subsequences/0069-distinct-subsequences.py
+https://github.com/jingcmu/codeeval/blob/master/DISTINCT%20SUBSEQUENCES.cpp
