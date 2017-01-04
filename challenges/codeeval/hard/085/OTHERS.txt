@@ -1,0 +1,4 @@
+https://github.com/mpillar/codeeval/blob/master/2-hard/find-min/main.py
+https://github.com/mementum/codeeval/blob/master/03-hard/0085-find-min/0085-find-min.cpp
+https://github.com/Brianjr0428/CodeEval/blob/master/Hard/Find%20Min/findMin.java
+https://github.com/stevengchan/programming-challenges/blob/master/CodeEval-Challenges/FindMin.java
