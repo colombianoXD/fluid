@@ -1,0 +1,5 @@
+https://github.com/mpillar/codeeval/blob/master/2-hard/palindromic-ranges/main.py
+https://github.com/jingcmu/codeeval/blob/master/PALINDROMIC%20RANGES.cpp
+https://github.com/sds/codeeval/blob/master/hard/pallindromic-ranges/pallindromic-ranges.rb
+https://github.com/mementum/codeeval/blob/master/03-hard/0047-palindromic-ranges/0047-palindromic-ranges.cpp
+https://github.com/mementum/codeeval/blob/master/03-hard/0047-palindromic-ranges/0047-palindromic-ranges.py
