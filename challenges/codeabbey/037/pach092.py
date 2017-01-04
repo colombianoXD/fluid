@@ -1,4 +1,4 @@
-datos = [800000, 6, 103]
+datos = raw_input().split()
 cantidad = len(datos)
 a = 0
 p = int(datos[0])
