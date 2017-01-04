@@ -1,0 +1,2 @@
+https://github.com/mementum/codeeval/blob/master/03-hard/0213-lakes-not-cakes/0213-lakes-not-cakes.py
+https://github.com/mementum/codeeval/blob/master/03-hard/0213-lakes-not-cakes/0213-lakes-not-cakes.cpp
