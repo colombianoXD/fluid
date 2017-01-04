@@ -1,0 +1,2 @@
+https://gist.github.com/yuheiomori/9926928
+https://github.com/fabriziocucci/CodeEval/blob/master/moderate/sudoku/java/src/main/java/Main.java
