@@ -1,4 +1,8 @@
-data1=[100, 8]
-data2=[15, 245]
-data3=[1945, 54]
-print 'La suma de',data1,'es',sum(data1),'La suma de',data2,'es',sum(data2),'La suma de',data3,'es',sum(data3)
+datos = int(raw_input())
+respuesta = []
+for suma in range(datos):
+    valores = map(int, raw_input().split())
+    a, b = valores[0], valores[1]
+    res = a + b
+    respuesta.append(str(res))
+print (' '.join(respuesta))
