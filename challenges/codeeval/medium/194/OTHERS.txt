@@ -1,0 +1,2 @@
+https://github.com/zhuli19901106/codeeval/blob/master/moderate/twenty-forty-eight(AC).py
+https://github.com/manzyuk/twenty-forty-eight/blob/master/twenty-forty-eight.hs
