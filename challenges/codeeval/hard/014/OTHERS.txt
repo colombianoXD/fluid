@@ -1,0 +1,6 @@
+https://github.com/FRodrigues42/codeeval-string-permutations/blob/master/string_permutations.py
+https://gist.github.com/yuheiomori/8555382
+https://github.com/sds/codeeval/blob/master/hard/string-permutations/string-permutations.rb
+https://github.com/mpillar/codeeval/blob/master/2-hard/string-permutations/Main.java
+https://github.com/Brianjr0428/CodeEval/blob/master/Hard/String%20Permutations/permutation.java
+https://github.com/stevengchan/programming-challenges/blob/master/CodeEval-Challenges/StringPermutations.java
