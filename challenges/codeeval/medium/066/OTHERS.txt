@@ -2,3 +2,5 @@ https://github.com/sds/codeeval/blob/master/moderate/pascals-triangle/pascals-tr
 https://github.com/mpillar/codeeval/blob/master/1-moderate/pascals-triangle/Main.java
 https://gist.github.com/yuheiomori/4cb5e60d23552103e38d
 https://gist.github.com/yuheiomori/30c4c2ce3b15cb4c0782
+https://github.com/pascal-bourut/codeeval-challenges/blob/master/moderate/66%20-%20Pascals%20triangle/66.js
+
