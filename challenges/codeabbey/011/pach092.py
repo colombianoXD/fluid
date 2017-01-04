@@ -1,6 +1,6 @@
 datos = int(raw_input())
 respuesta = []
-for raiz in range(datos):
+for sumatoria in range(datos):
     valores = map(int, raw_input().split())
     a, b, c = int(valores[0]), int(valores[1]), int(valores[2])
     total = ((a * b) + c)
