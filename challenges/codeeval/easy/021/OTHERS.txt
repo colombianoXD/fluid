@@ -1,0 +1,5 @@
+https://gist.github.com/yuheiomori/2563960
+https://github.com/thiagoalessio/codeeval/blob/master/easy/sum-of-digits/solution.py
+https://github.com/thiagoalessio/codeeval/blob/master/easy/sum-of-digits/solution.js
+https://github.com/thiagoalessio/codeeval/blob/master/easy/sum-of-digits/solution.rb
+https://github.com/thiagoalessio/codeeval/blob/master/easy/sum-of-digits/solution.sh
