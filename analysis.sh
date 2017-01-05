@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -e "\n###\n### Analizando elegancia de programas.\n###\n"
+
 #if [ -z "${1+x}" ]; then
 #  echo "Login no especificado."
 #  echo "Uso: $0 login"
