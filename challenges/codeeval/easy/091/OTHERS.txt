@@ -1,0 +1,3 @@
+https://github.com/mpillar/codeeval/blob/master/0-easy/simple-sorting/Main.java
+https://github.com/wolfbiter/codeeval/blob/master/simple-sorting.c
+https://gist.github.com/iamdustan/83d8f3c8759e31eb0f74
