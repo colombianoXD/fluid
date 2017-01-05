@@ -1,0 +1,4 @@
+https://github.com/mpillar/codeeval/blob/master/0-easy/armstrong-numbers/Main.java
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Armstrong%20Numbers/ArmstrongNumbers.py
+https://github.com/edeng/CodeEval/blob/master/Easy/ArmstrongNumbers.java
+https://github.com/joedicastro/code_eval/blob/master/easy/armstrong_numbers.py2
