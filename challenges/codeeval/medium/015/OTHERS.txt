@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/wtyurin/codeeval/master/src/main/java/com/vtyurin/solutions/Endianness.java
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/endianness.py
+https://raw.githubusercontent.com/DionysiosB/CodeEval/master/Endianness.cpp
+https://raw.githubusercontent.com/joshimoo/Challenges/master/CodeEval/Easy/Endianness/Endianness.cs
