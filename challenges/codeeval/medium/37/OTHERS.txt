@@ -1,2 +1,2 @@
-https://github.com/elbuo8/codeEval/blob/master/Pangrams.py
-https://github.com/einashaddad/codeeval/blob/master/pangrams.py
+https://raw.githubusercontent.com/elbuo8/codeEval/master/Pangrams.py
+https://raw.githubusercontent.com/einashaddad/codeeval/master/pangrams.py
