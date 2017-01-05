@@ -6,5 +6,5 @@ install:
   - "pip install pre-commit"
   - sudo apt-get install -y simhash
 script:
-  - bash similarity-all.sh
+  - bash -x ./similarity-all.sh
   - bash graphs.sh
