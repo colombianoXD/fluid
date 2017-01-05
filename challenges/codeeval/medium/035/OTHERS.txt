@@ -1,3 +1,3 @@
-https://github.com/sds/codeeval/blob/master/moderate/email-validation/email-validation.rb
-https://github.com/fabriziocucci/CodeEval/blob/master/moderate/email-validation/java/src/main/java/Main.java
-https://github.com/stackptr/exercises/blob/master/CodeEval/035-email-validation.js
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/email-validation/email-validation.rb
+https://raw.githubusercontent.com/fabriziocucci/CodeEval/master/moderate/email-validation/java/src/main/java/Main.java
+https://raw.githubusercontent.com/stackptr/exercises/master/CodeEval/035-email-validation.js
