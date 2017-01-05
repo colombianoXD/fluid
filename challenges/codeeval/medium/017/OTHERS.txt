@@ -1,2 +1,2 @@
-https://github.com/TheCK/codeChallenges/blob/master/codeEval/src/main/java/org/ck/codeEval/medium/sumOfIntegers/Main.java
-https://github.com/mpillar/codeeval/blob/master/1-moderate/sum-of-integers/Main.java
+https://raw.githubusercontent.com/TheCK/codeChallenges/master/codeEval/src/main/java/org/ck/codeEval/medium/sumOfIntegers/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/sum-of-integers/Main.java
