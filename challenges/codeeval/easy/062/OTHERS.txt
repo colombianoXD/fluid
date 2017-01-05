@@ -1,0 +1,5 @@
+https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/cs.cs
+https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/go.go
+https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/js.js
+https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/bash.bash
+https://gist.github.com/yuheiomori/7382941
