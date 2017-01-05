@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Reverse%20W
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.py
 https://gist.githubusercontent.com/yuheiomori/f880d78af267591c8a19/raw/c856d67635f5057210c08e82ed59ce2c0c8212a1/main.py
 https://raw.githubusercontent.com/ssmehta/programming-challanges/master/codeeval/008_reverse-words.py
-https://raw.githubusercontent.com/ssmehta/programming-challanges/master/codeeval/008_reverse-words.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/reverse_words.py2
 https://gist.githubusercontent.com/yuheiomori/11392218/raw/5304e3289e7ed3c2d6a9f2ea1fcb1476d257abf6/main.c
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/reverse-words/cs.cs
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.js
