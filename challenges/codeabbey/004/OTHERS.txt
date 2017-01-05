@@ -1,1 +1,1 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id004-Minimum_of_Two.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id004-Minimum_of_Two.py
