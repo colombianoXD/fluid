@@ -1,1 +1,3 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id032-Josephus_Problem.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id032-Josephus_Problem.py
+https://gist.githubusercontent.com/cmatthews85/fddb42b00a9ab64d9fbc/raw/2e08d0f31e75e8aa4ca36b4550195e55bcb19031/josephus_problem.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Josephus%20Problem
