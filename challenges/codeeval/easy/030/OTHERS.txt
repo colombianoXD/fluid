@@ -1,0 +1,4 @@
+https://gist.github.com/yuheiomori/2639626
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Set%20Intersection/SetIntersection.py
+https://github.com/sds/codeeval/blob/master/easy/set-intersection/set-intersection.rb
+https://github.com/mpillar/codeeval/blob/master/0-easy/set-intersection/Main.java
