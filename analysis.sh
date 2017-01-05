@@ -16,65 +16,60 @@ _style()
   local pyfiles=$(find challenges -iname "$user".py)
   if [ -n "$pyfiles" ]; then
     mkdir -p "$dir"
-    echo "Analizando con flake8 ..."
+    echo -n " flake8"
     flake8 $(echo "$pyfiles") > "$dir"/flake8.log 2>&1
-    echo "Analizando con pylint ..."
+    echo -n " pylint"
     pylint $(echo "$pyfiles") > "$dir"/pylint.log 2>&1
-  else
-    echo "No hay archivos de Python"
   fi
 
   local rbfiles=$(find challenges -iname "$user".rb)
   if [ -n "$rbfiles" ]; then
     mkdir -p "$dir"
-    echo "Analizando con ruby-lint ..."
+    echo -n " ruby-lint"
     ruby-lint $(echo "$rbfiles") > "$dir"/ruby-lint.log 2>&1
-  else
-    echo "No hay archivos de Ruby"
   fi
 
   local cfiles=$(find challenges -iname "$user".c)
   if [ -n "$cfiles" ]; then
     mkdir -p "$dir"
-    echo "Analizando con splint ..."
+    echo -n " splint"
     splint $(echo "$cfiles") > "$dir"/splint.log 2>&1
-  else
-    echo "No hay archivos de C"
   fi
 
   local jsfiles=$(find challenges -iname "$user".js)
   if [ -n "$jsfiles" ]; then
     mkdir -p "$dir"
-    echo "Analizando con gjslint ..."
+    echo -n " gjslint"
     gjslint $(echo "$rbfiles") > "$dir"/gjslint.log 2>&1
-  else
-    echo "No hay archivos de JavaScript"
   fi
 
   local shfiles=$(find challenges -iname "$user".sh)
   if [ -n "$shfiles" ]; then
     mkdir -p "$dir"
-    echo "Analizando con shellcheck ..."
+    echo -n " shellcheck"
     shellcheck $(echo "$shfiles") > "$dir"/shellcheck.log 2>&1
-  else
-    echo "No hay archivos de Shell"
   fi
 }
 
 _langs()
 {
   local user="$1"
-  find . -iname "$user".* -exec basename {} \; | sort | uniq | cut -d. -f2
+  LANGS=$(find . -iname "$user".* -exec basename {} \; | sort | uniq | cut -d. -f2)
+  echo $LANGS
 }
 
 USERS=$(find challenges -type f | grep -i -v "LINK\|DATA\|OTHERS\|LANG\|SPEC" | rev | cut -d"/" -f1 | rev | cut -d"." -f1 | sort | uniq)
 
-echo "--> Usuarios:" $USERS
+echo -e "> Usuarios:" $USERS "\n"
 
 for u in $USERS; do
-  echo "--> Lenguajes de "$u":"
+  echo -n "--> Lenguajes de "$u": "
   _langs "$u"
 
-  echo "--> Comenzando analisis de programas"
+  echo -n "    Analizando con:"
   _style "$u"
+  echo ""
 done
+
+echo -e "\nTamaño en KB de los logs de errores de cada persona"
+du -s artifacts/people/* | sort -n
