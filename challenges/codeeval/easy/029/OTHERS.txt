@@ -1,0 +1,4 @@
+https://github.com/mpillar/codeeval/blob/master/0-easy/unique-elements/Main.java
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Unique%20Elements%20(Java)/src/Main.java
+https://gist.github.com/yuheiomori/28636a87dc2c65c42554
+https://github.com/WillBrennan/CodeEval/blob/master/python/Unique%20Elements.py
