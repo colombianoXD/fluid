@@ -1,17 +1,17 @@
 #!/bin/bash
 
-if [ -z "${1+x}" ]; then
-  echo "Login no especificado."
-  echo "Uso: $0 login"
-  exit -1
-else
-  login="$1"
-fi
+#if [ -z "${1+x}" ]; then
+#  echo "Login no especificado."
+#  echo "Uso: $0 login"
+#  exit -1
+#else
+#  login="$1"
+#fi
 
 _style()
 {
   local user="$1"
-  local dir=people/"$user"/analysis
+  local dir=artifacts/people/"$user"/analysis
 
   local pyfiles=$(find challenges -iname "$user".py)
   if [ -n "$pyfiles" ]; then
@@ -67,8 +67,14 @@ _langs()
   find . -iname "$user".* -exec basename {} \; | sort | uniq | cut -d. -f2
 }
 
-echo "Lenguajes de "$login":"
-_langs "$login"
+USERS=$(find challenges -type f | grep -i -v "LINK\|DATA\|OTHERS\|LANG\|SPEC" | rev | cut -d"/" -f1 | rev | cut -d"." -f1 | sort | uniq)
 
-echo "Comenzando analisis de programas"
-_style "$login"
+echo "--> Usuarios:" $USERS
+
+for u in $USERS; do
+  echo "--> Lenguajes de "$u":"
+  _langs "$u"
+
+  echo "--> Comenzando analisis de programas"
+  _style "$u"
+done
