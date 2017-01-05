@@ -1,4 +1,7 @@
-lista = list((int(i) for i in raw_input().split()))
+datos = raw_input()
+datos = int(datos)
+a= [int(x) for x in raw_input().split()]
+lista = list((int(i) for i in a))
 cantidad = len(lista)
 informacion = dict()
 fin = len(lista)-1
