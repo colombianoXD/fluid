@@ -1,0 +1,3 @@
+https://github.com/sds/codeeval/blob/master/easy/query-board/query-board.rb
+https://github.com/thiagoalessio/codeeval/blob/master/easy/query-board/solution.rb
+https://gist.github.com/UberMouse/5711602
