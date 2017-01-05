@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/erdennis13/code-eval-scripts/master/lettercase-percentage-ratio.rb
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Easy/c147%20Lettercase%20Percentage%20Ratio.py
