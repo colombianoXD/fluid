@@ -1,0 +1,9 @@
+https://github.com/edeng/CodeEval/blob/master/Easy/Fibonacci.java
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Fibonacci%20Series/FibonacciSeries.py
+https://gist.github.com/yuheiomori/2571467
+https://gist.github.com/nich0s/8551905
+https://gist.github.com/yuheiomori/7227865
+https://github.com/sds/codeeval/blob/master/easy/fibonacci-series/fibonacci-series.rb
+https://github.com/Schonge/CodeEval-Solutions/blob/master/Code%20Eval/Code%20Eval/com/jconnolly/codeeval/easy/FibonacciSeries.java
+https://github.com/mirandaio/codeeval/blob/master/easy/FibonacciSeries/Main.java
+https://github.com/mpillar/codeeval/blob/master/0-easy/fibonacci-series/Main.java
