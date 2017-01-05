@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/read-more/js.js
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/read-more/go.go
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/read-more/rb.rb
