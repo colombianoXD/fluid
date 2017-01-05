@@ -1,7 +1,10 @@
 language: python
 python:
   - "2.7"
+sudo: required
 install:
   - "pip install pre-commit"
+  - sudo apt-get install -y simhash
 script:
-  - git diff-tree --no-commit-id --name-only -r $TRAVIS_COMMIT | xargs pre-commit run --files
+  - bash similarity-all.sh
+  - bash graphs.sh
