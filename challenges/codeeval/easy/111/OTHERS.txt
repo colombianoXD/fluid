@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/longest-word/cs.cs
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/longest-word/js.js
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/longest_word.py2

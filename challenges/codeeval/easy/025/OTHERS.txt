@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/yuheiomori/2600311/raw/ec91df4b2955ac5d701cdcc833ad5ca5f75d75d5/odd_numbers.py
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/OddNumbers.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/OddNumbers.py

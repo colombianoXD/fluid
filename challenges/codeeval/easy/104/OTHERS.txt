@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.sh
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/word_to_digit.py2

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/trailing-string/trailing-string.rb
+https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Trailing%20String.py
