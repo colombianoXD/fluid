@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/working-experience/js.js
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/working_experience.py2
