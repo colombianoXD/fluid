@@ -1,0 +1,3 @@
+https://github.com/sds/codeeval/blob/master/easy/capitalize-words/capitalize-words.rb
+https://github.com/moogar0880/CodeEval/blob/master/Python/capitalize.py
+https://gist.github.com/laurenngo/8e0b4277a8109bb65faf
