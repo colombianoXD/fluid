@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/multiply-lists/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/multiply-lists/main.cpp
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/multiply_lists.py2
