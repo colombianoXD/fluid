@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/EvenNumbers.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/EvenNumbers.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/even_numbers.py2
