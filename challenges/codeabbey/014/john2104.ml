@@ -1,18 +1,23 @@
-let x =Scanf.scanf "%d "(fun x -> x);;
-let total = ref x in
+open Num
+let x =Scanf.scanf "%d "(fun x ->  x);;
+let y = num_of_int x;;
+let total = ref y in
 let endloop = ref false in
 while not !endloop do
 
   let (a,b) = Scanf.scanf "%s %d "(fun a b -> (a,b)) in
+  let nume = num_of_int b in
   if a="%" then
     begin
     endloop := true;
-    total := !total mod b;
+    total := mod_num !total nume;
     end
   else
     if a="*" then
-      total := !total * b
+      total := !total */ num_of_int b
     else
-      total := !total + b
+      total := !total +/ num_of_int b
 done;
-Printf.printf "\n\n%d \n\n" !total
+let meh = string_of_num !total in
+Printf.printf "%s" meh
+;;
