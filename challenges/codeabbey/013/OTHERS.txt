@@ -1,1 +1,1 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id013-Weighted_sum_of_digits.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id013-Weighted_sum_of_digits.py
