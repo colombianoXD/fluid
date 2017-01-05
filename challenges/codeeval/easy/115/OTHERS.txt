@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/mixed-content/Main.java
+https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Mixed%20Content.py

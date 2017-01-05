@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/hidden-digits/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/hidden-digits/solution.rb
+https://gist.githubusercontent.com/yuheiomori/8277417/raw/587594fb29bd8a55c18a9941d6e2ab452dabea18/main.go
