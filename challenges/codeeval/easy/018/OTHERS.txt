@@ -1,0 +1,7 @@
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.rb
+https://gist.github.com/yuheiomori/11415221
+https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.java
+https://github.com/edeng/CodeEval/blob/master/Easy/MultiplesOfANumber.py
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.js
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.sh
+https://github.com/thiagoalessio/codeeval/blob/master/easy/multiples-of-a-number/solution.py
