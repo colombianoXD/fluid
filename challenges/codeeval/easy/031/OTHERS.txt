@@ -1,0 +1,4 @@
+https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.java
+https://github.com/edeng/CodeEval/blob/master/Easy/RightmostChar.py
+https://github.com/joedicastro/code_eval/blob/master/easy/rightmost_char.py2
+https://github.com/sds/codeeval/blob/master/easy/rightmost-char/rightmost-char.rb
