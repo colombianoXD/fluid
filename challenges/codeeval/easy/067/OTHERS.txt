@@ -1,0 +1,3 @@
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Hex%20to%20Decimal/HexToDecimal.py
+https://github.com/WillBrennan/CodeEval/blob/master/python/Hex%20to%20Decimal.py
+https://github.com/sds/codeeval/blob/master/easy/hex-to-decimal/hex-to-decimal.rb
