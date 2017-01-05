@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -e "\n###\n### Totales del repositorio.\n###\n"
+
 echo "Total de retos unicos:"
 find challenges -type f | grep -v txt | rev | cut -d/ -f2- | rev | sort | uniq | wc -l
 
