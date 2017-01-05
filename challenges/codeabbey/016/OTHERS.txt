@@ -1,1 +1,1 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id016-Average_of_an_array.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id016-Average_of_an_array.py
