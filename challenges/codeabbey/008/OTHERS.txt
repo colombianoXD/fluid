@@ -1,1 +1,1 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id008-Arithmetic_Progression.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id008-Arithmetic_Progression.py
