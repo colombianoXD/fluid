@@ -1,0 +1,5 @@
+https://github.com/thiagoalessio/codeeval/blob/master/easy/sum-of-integers-from-file/solution.py
+https://github.com/delynn/code-eval/blob/master/ruby/24-sum-of-integers-from-file.rb
+https://github.com/amunozdelvillar/codeEval/blob/master/Sum%20of%20Integers%20From%20File
+https://github.com/mpillar/codeeval/blob/master/0-easy/sum-of-integers-in-a-file/Main.java
+https://github.com/mpillar/codeeval/blob/master/0-easy/sum-of-integers-in-a-file/main.cpp
