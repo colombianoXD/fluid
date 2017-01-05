@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/mth-to-last-element/Main.java
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/mth-to-last-element/mth-to-last-element.rb
