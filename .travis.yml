@@ -1,14 +1,7 @@
-language: ruby
-rvm: 2.2
-before_install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y checkstyle
-install: 
-  - "gem install overcommit"
-script: 
-  - git config --global user.name "Fluid LA"
-  - git config --global user.email "fluidtest@la.com"
-  - "overcommit --sign"
-  - "overcommit --sign pre-commit"
-  - "cd challenges"
-  - "overcommit --run"
+language: python
+python:
+  - "2.7"
+install:
+  - "pip install pre-commit"
+script:
+  - git diff-tree --no-commit-id --name-only -r $TRAVIS_COMMIT | xargs pre-commit run --files
