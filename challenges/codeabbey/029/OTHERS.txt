@@ -1,1 +1,1 @@
-https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id029-Sort_with_Indexes.py
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id029-Sort_with_Indexes.py
