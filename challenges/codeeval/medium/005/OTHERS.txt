@@ -1,3 +1,3 @@
-https://github.com/mpillar/codeeval/blob/master/1-moderate/detecting-cycles/Main.java
-https://gist.github.com/yuheiomori/2669971
-https://github.com/sds/codeeval/blob/master/moderate/detecting-cycles/detecting-cycles.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/detecting-cycles/Main.java
+https://gist.githubusercontent.com/yuheiomori/2669971/raw/bfcdd8892875c2049485d855e2f6b461784dd65a/detecting_cycles.py
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/detecting-cycles/detecting-cycles.rb
