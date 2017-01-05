@@ -1,5 +1,5 @@
-https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/cs.cs
-https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/go.go
-https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/js.js
-https://github.com/mneudert/codeeval/blob/master/easy/n-mod-m/bash.bash
-https://gist.github.com/yuheiomori/7382941
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/cs.cs
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/go.go
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/js.js
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/bash.bash
+https://gist.githubusercontent.com/yuheiomori/7382941/raw/2cc0ebc6ecc4ca07b50b8dee4d47c0f9c6132c26/n_mod_m.py
