@@ -1,16 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pkg42.blackjackcounting;
-
 import java.util.Scanner;
 
-/**
- *
- * @author LUIFRAN
- */
 public class BlackJackCounting {
 
     private static String[] naipes;
@@ -31,7 +20,7 @@ public class BlackJackCounting {
         int valor=0,suma = 0;
         boolean ACE=false;
             
-        while(i<num) //for(i=0; i<num; i++)
+        while(i<num) 
         {
             linea = sc.nextLine();
             
@@ -147,7 +136,7 @@ public class BlackJackCounting {
                 
             }
             
-        }//while(linea != null);
+        }
         
     }
     

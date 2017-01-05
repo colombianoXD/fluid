@@ -1,17 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package pkg69.fibonaccidivisibility;
-
 import java.math.BigInteger;
 import java.util.Scanner;
 
-/**
- *
- * @author LUIFRAN
- */
 public class FibonacciDivisibility {
 
     private static BigInteger[] fib = new BigInteger[10000];

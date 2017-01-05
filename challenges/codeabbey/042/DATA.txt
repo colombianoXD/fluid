@@ -1,4 +1,3 @@
-Digite los valores de entrada
 24
 9 9
 J 6
