@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/morse-code/Main.java
+https://raw.githubusercontent.com/lucasrangit/CodeEval/master/morse_code.py
