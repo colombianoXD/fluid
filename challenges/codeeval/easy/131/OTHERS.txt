@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/main.py
+https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Split%20The%20Number/SplitTheNumber.py
+https://raw.githubusercontent.com/NanoDano/codeeval/master/split-the-number/split-the-number.rb

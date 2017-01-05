@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/juggling-with-zeros/main.py
+https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Juggling%20with%20Zeros/JugglingWithZeros.py
