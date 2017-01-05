@@ -1,2 +1,2 @@
-https://github.com/mpillar/codeeval/blob/master/1-moderate/magic-numbers/main.py
-https://github.com/ferhatelmas/algo/blob/master/codeEval/medium/magic_numbers.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/magic-numbers/main.py
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/magic_numbers.py
