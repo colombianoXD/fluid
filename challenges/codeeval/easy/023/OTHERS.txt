@@ -1,0 +1,8 @@
+https://github.com/mneudert/codeeval/blob/master/easy/multiplication-tables/c.c
+https://github.com/mneudert/codeeval/blob/master/easy/multiplication-tables/cpp.cpp
+https://github.com/mneudert/codeeval/blob/master/easy/multiplication-tables/go.go
+https://github.com/sds/codeeval/blob/master/easy/multiplication-tables/multiplication-tables.rb
+https://github.com/mneudert/codeeval/blob/master/easy/multiplication-tables/cs.cs
+https://github.com/mpillar/codeeval/blob/master/0-easy/multiplication-tables/Main.java
+https://github.com/paulinar/code-eval-challenges/blob/master/easy/multTable.java
+https://github.com/edeng/CodeEval/blob/master/Easy/MultiplicationTable.java
