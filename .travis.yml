@@ -31,6 +31,6 @@ script:
 addons:
 #  srcclr: true
   artifacts:
-#    debug: true
+    debug: true
     paths:
     - ./artifacts
