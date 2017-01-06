@@ -1,6 +1,6 @@
 language: python
 
-cache: 
+cache:
   pip: true
   directories:
     - build
