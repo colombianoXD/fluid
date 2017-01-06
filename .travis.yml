@@ -5,6 +5,9 @@ python:
 
 sudo: required
 
+before_install:
+  - sudo apt-get update -qq
+
 install:
   - pip install pre-commit gitinspector
     # flake8 ruby-lint gjslint shellcheck
