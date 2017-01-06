@@ -1,5 +1,9 @@
 #!/bin/bash
+
+echo -e "\n###\n### Accesibilidad de soluciones externas.\n###\n"
+
 SOLVED=$(find . -iname OTHERS.txt | sort)
+
 for i in $SOLVED; do
   CHALLENGE=$(dirname $i | cut -d"/" -f3-)
   echo "--- CHALLENGE: $CHALLENGE"
