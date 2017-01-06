@@ -27,12 +27,24 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - cp static/*.html static/*.js artifacts/
+#  - cp static/*.html static/*.js artifacts/
+
+deploy:
+  on: true
+  provider: s3
+  bucket: travisatfluid
+  access_key_id: $S3_KEY
+  secret_access_key: $S3_SECRET
+  local_dir: static
+  skip_cleanup: true
+  cache_control: "max-age=0"
 
 addons:
 #  srcclr: true
   artifacts:
     debug: true
     bucket: travisatfluid
+    access_key_id: $S3_KEY
+    secret_access_key: $S3_SECRET
     paths:
     - ./artifacts
