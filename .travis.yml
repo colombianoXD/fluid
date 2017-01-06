@@ -3,8 +3,8 @@ language: python
 cache: 
   pip: true
   directories:
-    - $HOME/.cache/pip
     - artifacts
+    - ~/.cabal
 
 python:
   - "2.7"
@@ -15,6 +15,7 @@ before_install:
   - sudo apt-get update -qq
 
 install:
+  - cabal install shellcheck
   - pip install pre-commit gitinspector
     # flake8 ruby-lint gjslint shellcheck
   - sudo apt-get install -y simhash tree pylint splint gitstats
