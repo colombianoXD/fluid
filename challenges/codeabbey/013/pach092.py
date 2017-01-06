@@ -1,7 +1,8 @@
 datos = int(raw_input())
-numeros = map(int,raw_input().split())
+numeros = raw_input().split()
 for a in numeros:
     suma = 0
-    for (indice,valor) in enumerate(str(a)):
-        suma += (indice + 1) * int(valor)
-    print "%d " %suma
+    for (a, n) in enumerate(a):
+        a += 1
+        suma += int(n) * a
+    print suma, ''
