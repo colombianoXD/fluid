@@ -23,7 +23,7 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - echo "http://travisatfluid.s3-website-us-east-1.amazonaws.com/training/$TRAVIS_BUILD_NUMBER/$TRAVIS_JOB_NUMBER/people/"
+  - ./url.sh
 
 addons:
   artifacts:
