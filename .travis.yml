@@ -3,11 +3,12 @@ python:
   - "2.7"
 sudo: required
 install:
-  - "pip install pre-commit"
-  - sudo apt-get install -y simhash tree
+  - pip install pre-commit gitinspector
+    # flake8 ruby-lint gjslint shellcheck
+  - sudo apt-get install -y simhash tree pylint splint gitstats
 script:
-  - bash nodata.sh
-  - bash analysis.sh
-  - bash others.sh
-  - bash total.sh
-  - bash reports.sh
+  - ./nodata.sh
+  - ./analysis.sh
+  - ./others.sh
+  - ./total.sh
+  - ./reports.sh
