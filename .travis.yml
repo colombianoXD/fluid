@@ -1,14 +1,36 @@
 language: python
+
+cache: 
+  pip: true
+  directories:
+    - artifacts
+    - ~/.cabal
+
 python:
   - "2.7"
+
 sudo: required
+
+before_install:
+  - sudo apt-get update -qq
+
 install:
+# flake8 ruby-lint gjslint cabal-install
+  - sudo apt-get install simhash tree pylint splint gitstats
   - pip install pre-commit gitinspector
-    # flake8 ruby-lint gjslint shellcheck
-  - sudo apt-get install -y simhash tree pylint splint gitstats
+#  - cabal update
+#  - cabal install shellcheck
+
 script:
   - ./nodata.sh
   - ./analysis.sh
   - ./others.sh
   - ./total.sh
   - ./reports.sh
+
+addons:
+#  srcclr: true
+  artifacts:
+#    debug: true
+    paths:
+    - ./artifacts
