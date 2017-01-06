@@ -17,8 +17,9 @@ before_install:
 install:
 # flake8 ruby-lint gjslint shellcheck
   - sudo apt-get install simhash tree pylint splint gitstats cabal-install
-  - cabal install shellcheck
   - pip install pre-commit gitinspector
+  - cabal update
+  - cabal install shellcheck
 
 script:
   - ./nodata.sh
