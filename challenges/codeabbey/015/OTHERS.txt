@@ -1,1 +1,4 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id015-Maximum_of_array.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Maximum%20of%20array%20.cpp
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Maximum%20of%20Array/src/Main.java
+https://raw.githubusercontent.com/AssumeACanOpener/CodeAbbey/master/maximum_of_array.rb
