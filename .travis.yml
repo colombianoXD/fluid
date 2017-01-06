@@ -18,12 +18,12 @@ install:
   - pip install pre-commit gitinspector
 
 script:
+  - ./url.sh
   - ./nodata.sh
   - ./analysis.sh
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - ./url.sh
 
 addons:
   artifacts:
