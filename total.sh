@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -en "travis_fold:start:total\r"
+
 echo -e "\n###\n### Totales del repositorio.\n###\n"
 
 echo "Total de retos unicos:"
@@ -16,3 +18,5 @@ find challenges -type f | grep -v txt | grep -v codeeval | wc -l
 
 echo "Total de articulos:"
 tree -L 2 articles | wc -l
+
+echo -en "travis_fold:end:total\r"

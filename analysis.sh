@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -en "travis_fold:start:analysis\r"
+
 echo -e "\n###\n### Analizando elegancia de programas.\n###\n"
 
 #if [ -z "${1+x}" ]; then
@@ -75,3 +77,5 @@ done
 
 echo -e "\nTamaño en KB de los logs de errores de cada persona"
 du -s build/people/* | sort -n
+
+echo -en "travis_fold:end:analysis\r"
