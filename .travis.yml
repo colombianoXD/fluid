@@ -18,13 +18,13 @@ install:
   - pip install pre-commit gitinspector
 
 script:
+  - git diff --name-only HEAD $(git merge-base HEAD master) | xargs pre-commit run --files
   - ./url.sh
   - ./nodata.sh
   - ./analysis.sh
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - git diff --name-only HEAD $(git merge-base HEAD master) | xargs pre-commit run --files
 
 addons:
   artifacts:
