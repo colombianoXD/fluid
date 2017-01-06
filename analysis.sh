@@ -2,7 +2,7 @@
 
 echo -en "travis_fold:start:analysis\r"
 
-echo -e "\n###\n### Analizando elegancia de programas.\n###\n"
+echo "### Analisis sintactico"
 
 #if [ -z "${1+x}" ]; then
 #  echo "Login no especificado."

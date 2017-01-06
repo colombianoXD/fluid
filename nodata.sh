@@ -2,7 +2,7 @@
 
 echo -en "travis_fold:start:nodata\r"
 
-echo -e "\n###\n### Retos de programación sin set de datos.\n###\n"
+echo "### Retos de programación sin set de datos"
 
 find challenges/codeeval challenges/codeabbey \
 	-type d '!' \

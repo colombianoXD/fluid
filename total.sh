@@ -2,7 +2,7 @@
 
 echo -en "travis_fold:start:total\r"
 
-echo -e "\n###\n### Totales del repositorio.\n###\n"
+echo "### Totales del repositorio"
 
 echo "Total de retos unicos:"
 find challenges -type f | grep -v txt | rev | cut -d/ -f2- | rev | sort | uniq | wc -l

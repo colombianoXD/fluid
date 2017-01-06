@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -en "travis_fold:start:others\r"
-echo -e "\n###\n### Accesibilidad de soluciones externas.\n###\n"
+echo "### Accesibilidad de soluciones externas"
 
 SOLVED=$(find . -iname OTHERS.txt | sort)
 
