@@ -3,8 +3,7 @@ language: python
 cache: 
   pip: true
   directories:
-    - artifacts
-    - ~/.cabal
+    - build
 
 python:
   - "2.7"
@@ -31,4 +30,4 @@ addons:
     debug: true
     bucket: travisatfluid
     paths:
-    - ./artifacts
+    - ./build
