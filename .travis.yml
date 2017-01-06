@@ -33,5 +33,6 @@ addons:
 #  srcclr: true
   artifacts:
     debug: true
+    bucket: travisatfluid
     paths:
     - ./artifacts
