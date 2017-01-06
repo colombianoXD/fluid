@@ -15,11 +15,8 @@ before_install:
   - sudo apt-get update -qq
 
 install:
-# flake8 ruby-lint gjslint cabal-install
   - sudo apt-get install simhash tree pylint splint gitstats
   - pip install pre-commit gitinspector
-#  - cabal update
-#  - cabal install shellcheck
 
 script:
   - ./nodata.sh
@@ -27,24 +24,10 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-#  - cp static/*.html static/*.js artifacts/
 
 addons:
-#  srcclr: true
   artifacts:
     debug: true
     bucket: travisatfluid
-    key: $S3_KEY
-    secret: $S3_SECRET
     paths:
     - ./artifacts
-
-deploy:
-  on: true
-  provider: s3
-  bucket: travisatfluid
-  access_key_id: $S3_KEY
-  secret_access_key: $S3_SECRET
-  local_dir: static
-  skip_cleanup: true
-  cache_control: "max-age=0"
