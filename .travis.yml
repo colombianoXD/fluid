@@ -3,8 +3,7 @@ language: python
 cache: 
   pip: true
   directories:
-    - artifacts
-    - ~/.cabal
+    - build
 
 python:
   - "2.7"
@@ -15,13 +14,11 @@ before_install:
   - sudo apt-get update -qq
 
 install:
-# flake8 ruby-lint gjslint cabal-install
   - sudo apt-get install simhash tree pylint splint gitstats
   - pip install pre-commit gitinspector
-#  - cabal update
-#  - cabal install shellcheck
 
 script:
+  - ./url.sh
   - ./nodata.sh
   - ./analysis.sh
   - ./others.sh
@@ -29,8 +26,8 @@ script:
   - ./reports.sh
 
 addons:
-#  srcclr: true
   artifacts:
-#    debug: true
+    debug: true
+    bucket: travisatfluid
     paths:
-    - ./artifacts
+    - ./build

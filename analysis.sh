@@ -1,6 +1,8 @@
 #!/bin/bash
 
-echo -e "\n###\n### Analizando elegancia de programas.\n###\n"
+echo -en "travis_fold:start:analysis\r"
+
+echo "### Analisis sintactico"
 
 #if [ -z "${1+x}" ]; then
 #  echo "Login no especificado."
@@ -13,43 +15,43 @@ echo -e "\n###\n### Analizando elegancia de programas.\n###\n"
 _style()
 {
   local user="$1"
-  local dir=artifacts/people/"$user"/analysis
+  local dir=build/people/"$user"
 
   local pyfiles=$(find challenges -iname "$user".py)
   if [ -n "$pyfiles" ]; then
     mkdir -p "$dir"
     echo -n " flake8"
-    flake8 $(echo "$pyfiles") > "$dir"/flake8.log 2>&1
+    command -v flake8 >/dev/null && (flake8 $(echo "$pyfiles")) > "$dir"/flake8.log 2>&1
     echo -n " pylint"
-    pylint $(echo "$pyfiles") > "$dir"/pylint.log 2>&1
+    command -v pylint >/dev/null && (pylint $(echo "$pyfiles")) > "$dir"/pylint.log 2>&1
   fi
 
   local rbfiles=$(find challenges -iname "$user".rb)
   if [ -n "$rbfiles" ]; then
     mkdir -p "$dir"
     echo -n " ruby-lint"
-    ruby-lint $(echo "$rbfiles") > "$dir"/ruby-lint.log 2>&1
+    command -v ruby-lint >/dev/null && (ruby-lint $(echo "$rbfiles")) > "$dir"/ruby-lint.log 2>&1
   fi
 
   local cfiles=$(find challenges -iname "$user".c)
   if [ -n "$cfiles" ]; then
     mkdir -p "$dir"
     echo -n " splint"
-    splint $(echo "$cfiles") > "$dir"/splint.log 2>&1
+    command -v splint >/dev/null && (splint $(echo "$cfiles")) > "$dir"/splint.log 2>&1
   fi
 
   local jsfiles=$(find challenges -iname "$user".js)
   if [ -n "$jsfiles" ]; then
     mkdir -p "$dir"
     echo -n " gjslint"
-    gjslint $(echo "$rbfiles") > "$dir"/gjslint.log 2>&1
+    command -v gjslint >/dev/null && (gjslint $(echo "$rbfiles")) > "$dir"/gjslint.log 2>&1
   fi
 
   local shfiles=$(find challenges -iname "$user".sh)
   if [ -n "$shfiles" ]; then
     mkdir -p "$dir"
     echo -n " shellcheck"
-    shellcheck $(echo "$shfiles") > "$dir"/shellcheck.log 2>&1
+    command -v shellcheck >/dev/null && (shellcheck $(echo "$shfiles")) > "$dir"/shellcheck.log 2>&1
   fi
 }
 
@@ -74,4 +76,6 @@ for u in $USERS; do
 done
 
 echo -e "\nTamaño en KB de los logs de errores de cada persona"
-du -s artifacts/people/* | sort -n
+du -s build/people/* | sort -n
+
+echo -en "travis_fold:end:analysis\r"

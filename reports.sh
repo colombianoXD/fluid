@@ -1,17 +1,18 @@
 #!/bin/bash
 
-echo -e "\n###\n### Generando reportes (gitstats) del repositorio.\n###\n"
+echo -en "travis_fold:start:gitstats_html\r"
+echo "### Reportes gitstats html del repositorio"
+mkdir -p build/gitstats
+gitstats . build/gitstats 2> build/gitstats/errno.log
+echo -en "travis_fold:end:gitstats_html\r"
 
-sudo apt-get install -y gitstats
-gitstats . artifacts/gitstats 2>>artifacts/gitstats/errno.log
+echo -en "travis_fold:start:gitinspector_html\r"
+echo "### Reportes gitinspector html del repositorio"
+mkdir -p build/gitinspector
+gitinspector -T -m -F html > build/gitinspector/index.html
+echo -en "travis_fold:end:gitinspector_html\r"
 
-echo -e "\n###\n### Generando reportes (gitinspector html) del repositorio.\n###\n"
-
-sudo -H pip install gitinspector
-mkdir -p artifacts/gitinspector
-
-gitinspector -T -m -F html > artifacts/gitinspector/index.html
-
-echo -e "\n###\n### Generando reportes (gitinspector text) del repositorio.\n###\n"
-
+echo -en "travis_fold:start:gitinspector\r"
+echo "### Reportes gitinspector text del repositorio"
 gitinspector -T -m
+echo -en "travis_fold:end:gitinspector\r"

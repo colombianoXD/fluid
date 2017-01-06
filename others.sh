@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo -e "\n###\n### Accesibilidad de soluciones externas.\n###\n"
+echo -en "travis_fold:start:others\r"
+echo "### Accesibilidad de soluciones externas"
 
 SOLVED=$(find . -iname OTHERS.txt | sort)
 
@@ -13,3 +14,5 @@ for i in $SOLVED; do
     echo $STATUS $url
   done
 done
+
+echo -en "travis_fold:end:others\r"
