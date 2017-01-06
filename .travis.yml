@@ -20,5 +20,5 @@ script:
   - ./total.sh
   - ./reports.sh
 
-addons:
-  srcclr: true
+#addons:
+#  srcclr: true
