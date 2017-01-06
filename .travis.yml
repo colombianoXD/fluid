@@ -6,4 +6,7 @@ install:
   - "pip install pre-commit"
   - sudo apt-get install -y simhash
 script:
-  - sudo bash graphs.sh
+  - bash nodata.sh
+  - bash analysis.sh
+  - bash others.sh
+  - bash total.sh
