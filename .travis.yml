@@ -10,3 +10,4 @@ script:
   - bash analysis.sh
   - bash others.sh
   - bash total.sh
+  - bash report.sh
