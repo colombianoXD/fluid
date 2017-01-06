@@ -15,10 +15,10 @@ before_install:
   - sudo apt-get update -qq
 
 install:
+    # flake8 ruby-lint gjslint shellcheck
+  - sudo apt-get install simhash tree pylint splint gitstats cabal
   - cabal install shellcheck
   - pip install pre-commit gitinspector
-    # flake8 ruby-lint gjslint shellcheck
-  - sudo apt-get install -y simhash tree pylint splint gitstats cabal
 
 script:
   - ./nodata.sh
