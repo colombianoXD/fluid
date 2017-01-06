@@ -27,7 +27,7 @@ script:
 
 addons:
   artifacts:
-    debug: true
+    debug: false
     bucket: travisatfluid
     paths:
     - ./build
