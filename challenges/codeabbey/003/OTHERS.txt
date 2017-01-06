@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id003-Sums_in_loop.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Sums%20in%20Loop.cpp
