@@ -44,7 +44,7 @@ addons:
   artifacts:
     debug: true
     bucket: travisatfluid
-    access_key_id: $S3_KEY
-    secret_access_key: $S3_SECRET
+#    access_key_id: $S3_KEY
+#    secret_access_key: $S3_SECRET
     paths:
     - ./artifacts
