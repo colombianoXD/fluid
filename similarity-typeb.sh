@@ -7,7 +7,7 @@ pushd . > /dev/null
 CHALL="$1"
 cd "$CHALL"
 
-MIN=${2:-70}
+MIN=${2:-60}
 
 OTHERS=$(cat OTHERS.txt)
 
