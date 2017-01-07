@@ -18,7 +18,8 @@ install:
   - pip install pre-commit gitinspector
 
 script:
-  - git diff --name-only HEAD $(git merge-base HEAD master) | tee /dev/stdout | xargs pre-commit run --files
+#  - git diff --name-only HEAD $(git merge-base HEAD master) | tee /dev/stdout | xargs pre-commit run --files
+  - ./precommit.sh
   - ./url.sh
   - ./nodata.sh
   - ./analysis.sh
