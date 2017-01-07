@@ -1,8 +1,10 @@
-datos = int(raw_input())
-respuesta = []
-for redondeo in range(datos):
-    valores = map(int, raw_input().split())
-    a, b = valores[0], valores[1]
-    res = (str(int(round(float("%.02f" % (float(a) / float(b)))))))
-    respuesta.append(res)
-print (' '.join(respuesta))
+#!/usr/bin/env python
+"""This script divides the values of each string and returns
+the rounded answer to the nearest value"""
+DATOS = int(raw_input())
+for redondeo in range(DATOS):
+    valores = raw_input().split()
+    a, b = float(valores[0]), float(valores[1])
+    res = a / b
+    respuesta = round(res)
+    print int(respuesta), ''

@@ -1,18 +1,21 @@
-datos = raw_input()
-numeros = list(map(int, datos.split()))
-a = numeros[:-1]
-numerodatos = len(a)
-pasa = 0
-for i in range(numerodatos - 1):
-    if a[i] > a[i + 1]:
-        temporal = a[i + 1]
-        a[i + 1] = a[i]
-        a[i] = temporal
-        pasa += 1
-resultado = 0
-limite = 10000007
-for n in range(numerodatos):
-        resultado = (resultado + a[n])* 113
-        if resultado > limite:
-            resultado = resultado % limite
-print pasa, resultado 
+#!/usr/bin/env python
+"""This script calculates the number of performed
+swaps and checksum of the array after processing."""
+DATOS = raw_input()
+NUMEROS = list(map(int, DATOS.split()))
+A = NUMEROS[:-1]
+NUMERODATOS = len(A)
+PASA = 0
+for i in range(NUMERODATOS - 1):
+    if A[i] > A[i + 1]:
+        temporal = A[i + 1]
+        A[i + 1] = A[i]
+        A[i] = temporal
+        PASA += 1
+RESULTADO = 0
+LIMITE = 10000007
+for n in range(NUMERODATOS):
+    RESULTADO = (RESULTADO + A[n]) * 113
+    if RESULTADO > LIMITE:
+        RESULTADO = RESULTADO % LIMITE
+print PASA, RESULTADO

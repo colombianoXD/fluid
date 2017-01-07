@@ -1,12 +1,11 @@
-datos = int(raw_input())
-respuesta = []
-for sumatoria in range(datos):
-    valores = map(int, raw_input().split())
+#!/usr/bin/env python
+"""This script calculates the sums of given digits."""
+DATOS = int(raw_input())
+for sumatoria in range(DATOS):
+    valores = raw_input().split()
     a, b, c = int(valores[0]), int(valores[1]), int(valores[2])
-    total = ((a * b) + c)
-    total = list(str(total))
+    total = list(str(((a * b) + c)))
     suma = 0
     for resultado in total:
         suma += int(resultado)
-    respuesta.append(str(suma))
-print(' '.join(respuesta))
+    print suma, ''
