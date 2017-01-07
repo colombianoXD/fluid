@@ -1,13 +1,13 @@
-datos = eval(raw_input())
-while 1 == 1:    
-    cadena = raw_input().split()
-    operador = cadena[0]
-    numero = int(cadena[1])
-    if operador == '%':
-        respuesta = datos % numero
-        print (respuesta)
+datos=eval(raw_input())
+while(1==1):    
+    cadena=raw_input().split()
+    operador=cadena[0]
+    numero=int(cadena[1])
+    if(operador=='%'):
+        ans=datos%numero
+        print(ans)
         break
-    elif operador == '*':
-        datos = datos * numero
+    elif(operador=='*'):
+        datos=datos*numero
     else:
-        datos = datos + numero
+        datos=datos+numero
