@@ -1,10 +1,10 @@
-datos = int(raw_input())
-respuesta = []
-for progresion in range(datos):
+#!/usr/bin/env python
+"""This script calculates the sum of first members of arithmetic sequence."""
+DATOS = int(raw_input())
+for progresion in range(DATOS):
     valores = map(int, raw_input().split())
-    x, y, z = int(valores[0]), int(valores[1]), int(valores[2])
+    a, b, n = int(valores[0]), int(valores[1]), int(valores[2])
     total = 0
-    for b in range(z):
-        total = (x + (y * b)) + total
-    respuesta.append(str(total))
-print (' '.join(respuesta))
+    for x in range(n):
+        total = (a + (b * x)) + total
+    print total, ''

@@ -1,17 +1,26 @@
-datos = int(raw_input())
-numeros= [int(z) for z in raw_input().split()]
+#!/usr/bin/env python
+"""This script calculates number of passes
+perfromed and total number of swaps made."""
+DATOS = int(raw_input())
+NUMEROS = [int(z) for z in raw_input().split()]
+
+
 def orden(cadena, pasa, descartado):
-    respuesta = str(pasa), str(descartado) 
+    """This def calculates the swaps and passes from the array"""
+    respuesta = str(pasa), str(descartado)
     arreglado = True
     pasa += 1
-    for a in range(len(cadena) - 1):
-        x = cadena[a]
-        y = cadena[a + 1]
-        if x > y:
+    for ___a___ in range(len(cadena) - 1):
+        ___x___ = cadena[___a___]
+        ___y___ = cadena[___a___ + 1]
+        if ___x___ > ___y___:
             arreglado = False
-            cadena[a], cadena[a + 1] = cadena[a + 1], cadena[a]
+            cadena[___a___], cadena[___a___ + 1] =\
+                cadena[___a___ + 1], cadena[___a___]
             descartado += 1
     if arreglado is False:
         respuesta = orden(cadena, pasa, descartado)
     return respuesta
-print ('%s %s') % orden(numeros, 1, 0)
+
+
+print ('%s %s') % orden(NUMEROS, 1, 0)
