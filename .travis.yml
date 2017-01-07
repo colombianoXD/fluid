@@ -11,14 +11,13 @@ python:
 sudo: required
 
 before_install:
-  - sudo apt-get update -qq
+  - sudo apt-get update
 
 install:
   - sudo apt-get install simhash tree pylint splint gitstats
   - pip install pre-commit gitinspector
 
 script:
-#  - git diff --name-only HEAD $(git merge-base HEAD master) | tee /dev/stdout | xargs pre-commit run --files
   - ./precommit.sh
   - ./url.sh
   - ./nodata.sh
