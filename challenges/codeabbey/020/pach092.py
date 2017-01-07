@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""This script counts the number of vowels in each line, separated by spaces."""
+"""This script counts the number of
+vowels in each line, separated by spaces."""
 DATOS = int(raw_input())
 VOCALES = list("aeiouy")
 for pasos in range(DATOS):
