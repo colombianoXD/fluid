@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""This script calculates minumum printing times for each of testcases, separated by spaces."""
+"""This script calculates minumum printing times
+for each of testcases, separated by spaces."""
 DATOS = int(raw_input())
 RESPUESTA = []
 for hojas in range(DATOS):
