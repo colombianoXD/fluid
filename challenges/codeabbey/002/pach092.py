@@ -1,8 +1,6 @@
-datos = int(raw_input())
-respuesta = []
-for suma in range(datos):
-    valores = map(int, raw_input().split())
-    a, b = valores[0], valores[1]
-    res = a + b
-    respuesta.append(str(res))
-print (' '.join(respuesta))
+datos=raw_input()
+valores=raw_input().split()
+suma=0
+for(sumatoria)in(valores):
+    suma+=int(sumatoria)
+print suma
