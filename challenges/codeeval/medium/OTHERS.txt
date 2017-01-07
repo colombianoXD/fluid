@@ -1,0 +1,3 @@
+https://github.com/sds/codeeval/blob/master/moderate/flavius-josephus/flavius-josephus.rb
+https://github.com/yanz67/CodeEval/blob/master/FLAVIUS%20JOSEPHUS.py
+https://github.com/bmouler/CodeEval-Solutions/blob/master/CodeEval%20-%20Flavius%20Josephus/FlaviusJosephus.py

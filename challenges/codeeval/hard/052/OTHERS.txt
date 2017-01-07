@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/habhab93/CodeEval-Text-Dollar/master/Main.java
+https://raw.githubusercontent.com/rohitsinha54/Text-Dollar/master/src/com/rohitsinha/codingchallenge/TextDollarApp.java
+https://raw.githubusercontent.com/sds/codeeval/master/hard/text-dollar/text-dollar.rb
+https://raw.githubusercontent.com/jtibbertsma/code-eval/master/text-dollar/dollar.rb

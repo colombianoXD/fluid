@@ -1,0 +1,33 @@
+-   repo: https://github.com/pre-commit/pre-commit.git
+    sha: bbf1f62ed686a3e321280703a227fbd957e76151
+    hooks:
+    -   id: validate_config
+    -   id: validate_manifest
+-   repo: git://github.com/pre-commit/pre-commit-hooks
+    sha: 18d7035de5388cc7775be57f529c154bf541aab9
+    hooks:
+    -   id: trailing-whitespace
+    -   id: check-docstring-first
+    -   id: check-added-large-files
+    -   id: check-ast
+    -   id: check-json
+    -   id: check-case-conflict
+    -   id: check-merge-conflict
+    -   id: check-symlinks
+    -   id: detect-private-key
+    -   id: check-xml
+    -   id: check-yaml
+    -   id: debug-statements
+    -   id: name-tests-test
+    -   id: flake8
+-   repo: git://github.com/pre-commit/mirrors-pylint
+    sha: 29c787c152552c93bdc59c45c23a155cb0570feb
+    hooks:
+    -   id: pylint
+-   repo: git://github.com/Lucas-C/pre-commit-hooks
+    sha: 0f5055d31f39ea3ac1f5335a0cca320200cd0c51
+    hooks:
+    -   id: forbid-crlf
+    -   id: forbid-html-img-without-alt-text
+    -   id: forbid-non-std-html-attributes
+    -   id: detect-missing-css-classes

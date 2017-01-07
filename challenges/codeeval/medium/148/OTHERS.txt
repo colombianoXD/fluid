@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/joedicastro/code_eval/master/moderate/color_code_converter.py2
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/color-code-converter/main.py

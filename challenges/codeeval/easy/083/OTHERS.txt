@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/beautiful-strings/Main.java
+https://raw.githubusercontent.com/sds/codeeval/master/easy/beautiful-strings/beautiful-strings.rb
