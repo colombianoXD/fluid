@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""This script shows initial indexes of the array members after they are reordered by sorting."""
+"""This script shows initial indexes of the array
+members after they are reordered by sorting."""
 DATOS = int(raw_input())
 A = [int(x) for x in raw_input().split()]
 LISTA = list((int(i) for i in A))
