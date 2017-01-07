@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-"""This script calculates N-th member's value for each test-case, separated by spaces."""
+"""This script calculates N-th member's value
+for each test-case, separated by spaces."""
 DATOS = int(input())
 for lineal in range(DATOS):
     valores = raw_input().split()
