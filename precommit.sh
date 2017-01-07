@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -en "travis_fold:start:#precommit\r"
+echo -en "travis_fold:start:precommit\r"
 
 CHANGED=$(git diff --name-only HEAD $(git merge-base HEAD master))
 
@@ -13,4 +13,4 @@ else
   echo "Omitiendo ejecución de precommit."
 fi
 
-echo -en "travis_fold:end:#precommit\r"
+echo -en "travis_fold:end:precommit\r"
