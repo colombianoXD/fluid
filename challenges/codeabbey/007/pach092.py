@@ -1,5 +1,7 @@
-celcius=raw_input().split()
-fahrenheit=0
-for(temperatura)in celcius[1:]:
-    fahrenheit=int(round((float(temperatura)-32)*5/9))
-    print(str(fahrenheit)+' ')
+#!/usr/bin/env python
+"""This script does the conversion from fahrenheit to celsius"""
+CELSIUS = raw_input().split()
+FAHRENHEIT = 0
+for temperatura in CELSIUS[1:]:
+    FAHRENHEIT = int(round((float(temperatura)-32)*5/9))
+    print FAHRENHEIT, ''
