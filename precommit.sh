@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 CHANGED=$(git diff --name-only HEAD $(git merge-base HEAD master))
 
