@@ -1,8 +1,6 @@
-datos = raw_input().split()
-cantidad = len(datos)
-a = 0
-p = int(datos[0])
-i = (int(datos[1]) / 100.0) / 12
-m = int(datos[2])
-mensualidad = p*(i*(1+i)**m)/((1+i)**m-1)
-print(round(mensualidad))
+#!/usr/bin/env python
+"""This script calculates the required monthly payment M rounded up."""
+DATOS = raw_input().split()
+P, i, M = int(DATOS[0]), (int(DATOS[1]) / 100.0) / 12, int(DATOS[2])
+MENSUALIDAD = P*(i*(1+i)**M)/((1+i)**M-1)
+print round((MENSUALIDAD))

@@ -1,12 +1,11 @@
-datos = int(raw_input())
-respuesta = []
-for raiz in range(datos):
-    valores = map(int, raw_input().split())
-    a , b = int(valores[0]), int(valores[1])
-    r = 1.00
+#!/usr/bin/env python
+"""This script calculates the square root with a precision of 1e-7 or better"""
+DATOS = int(raw_input())
+for raiz in range(DATOS):
+    valores = raw_input().split()
+    a, b = int(valores[0]), int(valores[1])
+    r = float(1)
     for ecuaciones in range(b):
         d = a / r
-        abs(r - d)
         r = (r + d)/2
-    respuesta.append(str(r))
-print(' '.join(respuesta))
+    print r, ''
