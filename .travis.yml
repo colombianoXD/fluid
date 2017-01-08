@@ -11,15 +11,17 @@ python:
 sudo: required
 
 before_install:
-  - sudo apt-get update -qq
+  - sudo apt-get update
 
 install:
   - sudo apt-get install simhash tree pylint splint gitstats
   - pip install pre-commit gitinspector
 
 script:
-  - bash precommit.sh
+  - ./precommit.sh
   - ./url.sh
+#  - ./similarity.sh typea
+#  - ./similarity.sh typeb
   - ./nodata.sh
   - ./analysis.sh
   - ./others.sh
@@ -28,7 +30,7 @@ script:
 
 addons:
   artifacts:
-    debug: true
+    debug: false
     bucket: travisatfluid
     paths:
     - ./build
