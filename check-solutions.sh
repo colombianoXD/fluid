@@ -1,18 +1,17 @@
-#!/bin/bash -x
+#!/bin/bash
 
 FILES=$(find . -iname *.feature)
 
 # apt-get install cucumber
 echo "### Verificación sintactica"
-#cucumber -f progress -q -m -s $FILES
-cucumber $FILES
+cucumber -f progress -q -m -s $FILES
 RESULT=$?
-test $RESULT -ne 0 && exit 1 || exit 0
+test $RESULT -ne 0 && exit 1 
 
 # apt-get install aspell aspell-es
 echo ""
 echo "### Verificación ortografica"
-WORDS=$(aspell -l es list < $FILES)
+WORDS=$(aspell --home-dir=conf --personal=ignore.txt -l es list < $FILES)
 if [ -z "$WORDS" ]; then
   echo "Sin errores de ortografia."
   RESULT=0
