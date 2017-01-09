@@ -4,7 +4,8 @@ FILES=$(find . -iname *.feature)
 
 # apt-get install cucumber
 echo "### Verificación sintactica"
-cucumber -f progress -q -m -s $FILES
+#cucumber -f progress -q -m -s $FILES
+cucumber $FILES
 RESULT=$?
 test $RESULT -ne 0 && exit 1 
 
@@ -20,5 +21,4 @@ else
   echo "$WORDS"
   RESULT=1
 fi
-
-test $RESULT -ne 0 && exit 1 || exit 0
+test $RESULT -ne 0 && exit 1 
