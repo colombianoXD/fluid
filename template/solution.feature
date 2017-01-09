@@ -12,10 +12,10 @@ Característica: Resolver reto X
     Y he instalado el software C versión D
     Y tengo acceso a internet
     Y he resuelto el reto X-1
-    Y referenciandome en la solución H
+    Y a partir de la solución H
 
   Escenario: Primer intento fallido
-    Dado estoy uenticado con mi usuario U
+    Dado estoy autenticado con mi usuario U
     Cuando ...
     Y ...
     Y ...
