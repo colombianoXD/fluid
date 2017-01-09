@@ -1,11 +1,10 @@
-#!/bin/bash -x
+#!/bin/bash
 
 FILES=$(find . -iname *.feature)
 
 # apt-get install cucumber
 echo "### Verificación sintactica"
-#cucumber -f progress -q -m -s $FILES
-cucumber $FILES
+cucumber -f progress -q -m -s $FILES
 RESULT=$?
 test $RESULT -ne 0 && exit 1 
 
