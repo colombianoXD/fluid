@@ -27,7 +27,7 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - cd template && ./check-solution.sh solution.feature && cd ..
+  - ./check-solutions.sh
 
 addons:
   artifacts:
