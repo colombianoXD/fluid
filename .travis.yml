@@ -20,6 +20,7 @@ install:
 script:
   - ./precommit.sh
   - ./url.sh
+  - ./check-solutions.sh
 #  - ./similarity.sh typea
 #  - ./similarity.sh typeb
   - ./nodata.sh
@@ -27,7 +28,6 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
-  - ./check-solutions.sh
 
 addons:
   artifacts:
