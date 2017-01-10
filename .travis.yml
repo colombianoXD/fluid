@@ -14,12 +14,14 @@ before_install:
   - sudo apt-get update
 
 install:
-  - sudo apt-get install simhash tree pylint splint gitstats
+  - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es
+  - gem install cucumber
   - pip install pre-commit gitinspector
 
 script:
   - ./precommit.sh
   - ./url.sh
+  - ./check-solutions.sh
 #  - ./similarity.sh typea
 #  - ./similarity.sh typeb
   - ./nodata.sh

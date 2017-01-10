@@ -1,5 +1,3 @@
-# http://www.wechall.net/challenge/training/prime_factory/index.php
-
 from math import sqrt
 from itertools import count, islice
 
