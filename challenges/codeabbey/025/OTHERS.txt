@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id025-Linear_Congruential_Generator.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Linear%20Congruential%20Generator.cpp

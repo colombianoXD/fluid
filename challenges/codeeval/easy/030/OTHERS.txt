@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/2639626/raw/ae06a708ccaff5263a128be6c9715976052453aa/set_intersection.py
+https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Set%20Intersection/SetIntersection.py
+https://raw.githubusercontent.com/sds/codeeval/master/easy/set-intersection/set-intersection.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/set-intersection/Main.java

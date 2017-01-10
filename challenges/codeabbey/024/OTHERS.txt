@@ -1,0 +1,2 @@
+https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id024-Neumanns_Random_Generator.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Neumann's%20Random%20Generator.cpp

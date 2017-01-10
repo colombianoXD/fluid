@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Compressed%20Sequence.py
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Compressed%20Sequence.cpp
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/compressed-sequence/js.js
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/compressed-sequence/Main.java
+https://gist.githubusercontent.com/yuheiomori/8627352/raw/cdea57cea4afdf85c02fe68069eb17897e0a576f/main.go
+https://raw.githubusercontent.com/zhuli19901106/codeeval/master/easy/compressed-sequence(AC).py
+https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py2
+https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py3
