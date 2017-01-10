@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/elbuo8/codeEval/master/FileSize.py
+https://raw.githubusercontent.com/amoerie/code-eval/master/CodeEval/FileSize.cs
+https://gist.githubusercontent.com/ianpugh/871a8e39d0c9adc4ad2a/raw/4240f2b46667720d3133e49fa6bc46fe6598f5e5/filesize.cs

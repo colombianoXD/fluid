@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/easy/calculate-distance/calculate-distance.rb
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/calculate_distance.py2

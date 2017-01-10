@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/lowest_unique_number.py2
+https://gist.githubusercontent.com/yuheiomori/8049532/raw/374f660d75070304885bab9e7f0a1b501a56435a/main.go

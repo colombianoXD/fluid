@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id008-Arithmetic_Progression.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Arithmetic%20Progression%20.cpp

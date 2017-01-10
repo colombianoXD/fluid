@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/lost-in-translation/main.py
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Lost%20In%20Translation%20.rb
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c121%20Lost%20in%20Translation.py

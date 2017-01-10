@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/jingcmu/codeeval/master/PENULTIMATE%20WORD.java
+https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Penultimate%20Word/PenultimateWord.py

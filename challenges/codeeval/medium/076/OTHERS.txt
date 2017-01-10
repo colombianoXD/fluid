@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/9424169/raw/4572b3969459575f89927cc9442f9b5e802b9ae7/main.py
+https://raw.githubusercontent.com/jingcmu/codeeval/master/STRING%20ROTATION.cpp
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/string-rotation/string-rotation.rb
+https://gist.githubusercontent.com/yuheiomori/9446255/raw/d03c7e2218878bfcefba8cd9354e39493cb23c61/main.go

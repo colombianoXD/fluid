@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/minimum-coins/minimum-coins.rb
+https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Minimum%20Coins.py
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Minimum%20Coins.cpp

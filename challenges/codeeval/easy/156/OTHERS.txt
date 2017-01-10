@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/roller-coaster/main.py
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/RollerCoaster.java
+https://raw.githubusercontent.com/lpeterse/codeeval/master/rollercoaster/rollercoaster.hs
+https://raw.githubusercontent.com/mirandaio/codeeval/master/easy/RollerCoaster/Main.java

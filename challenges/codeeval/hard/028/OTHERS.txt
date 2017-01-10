@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/hard/string-searching/string-searching.rb
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0028-string-searching/0028-string-searching.py

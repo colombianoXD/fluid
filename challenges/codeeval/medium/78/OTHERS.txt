@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/yuheiomori/9926928/raw/6f52469c80120cecca59542a1a9bc24e6144a803/main.py
+https://raw.githubusercontent.com/fabriziocucci/CodeEval/master/moderate/sudoku/java/src/main/java/Main.java
