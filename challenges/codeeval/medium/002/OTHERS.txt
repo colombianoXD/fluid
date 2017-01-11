@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/yuheiomori/2664672/raw/ff25b67806bc1152987e56eda91fe95b09e6b843/longest_lines.py
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/longest-lines/longest-lines.rb
