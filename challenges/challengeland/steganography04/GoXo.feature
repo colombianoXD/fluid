@@ -24,12 +24,8 @@ Característica: resolver reto 4
   Escenario: Último intento fallido
     Dada una imagen tipo .jpeg
     Cuando examino esta imagen con el software foremost
-    Y utilizo el comando:
-    [source, bash]
-    ----
-    foremost -i image4.jpg -o out
-    ----
-    Y veo que en la carpeta *out* la misma imagen pero de un tamaño mas reducido
+    Y utilizo el comando: foremost -i image4.jpg -o out
+    Y veo que en la carpeta out la misma imagen pero de un tamaño mas reducido
     Entonces no resuelvo el reto
     Pero concluyo que el cambio del tamaño indica que la imagen original
       tiene datos Hexadecimales de más
