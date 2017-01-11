@@ -1,0 +1,12 @@
+*******  http://hax.tor.hu/level8/	
+	
+a="00 b1 a5 93 a5 e2 a5 f6 a5 c6 a5 b6 a5 11 a5 f3 a5 32 a5"
+a=a.split(" ")
+b=""
+for i in range(len(a)):
+    if i%2!=0:
+        b+=chr(int(hex(int(a[i],16)^int("A5",16)).replace("0x","").zfill(2)[::-1],16))
+print b
+
+x-http-forwarded-for: 188.142.192.35
+referer: www.netpincer.hu
