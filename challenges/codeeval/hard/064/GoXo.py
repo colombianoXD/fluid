@@ -18,6 +18,7 @@ def pos(num):
     STEP_LIST[num] = pos(num - 1) + pos(num - 2)
     return STEP_LIST[num]
 
+
 with open(sys.argv[1], 'r') as test_cases:
 
     for test in test_cases:
