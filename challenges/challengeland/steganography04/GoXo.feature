@@ -27,13 +27,12 @@ Característica: resolver reto 4
     Y utilizo el comando: foremost -i image4.jpg -o out
     Y veo que en la carpeta out la misma imagen pero de un tamaño mas reducido
     Entonces no resuelvo el reto
-    Pero concluyo que el cambio del tamaño indica que la imagen original
-      tiene datos Hexadecimales de más
+    Pero concluyo que la imagen original contiene datos Hexadecimales de más
 
   Escenario: Solución exitosa
     Dadas dos imagenes tipo .jpeg: la original y la extraída con foremost
     Cuando comparo con el editor hexadecimal 010 Editor las dos imágenes
     Y veo que en la imagen original hay un bloque de información en hexadecimal
-      que no está en la imagen extraída
+    Y este bloque no está en la imagen extraída
     Y busco por palabras legibles en este bloque de información
     Entonces encontraré la solución de este reto

@@ -21,8 +21,7 @@ Característica: resolver reto 1
     Y no paso la imagen por ningún filtro
     Entonces el texto del captcha no es tan exacto
     Y no podré pasar el reto
-    Pero concluyo que debo hacerle un tratamiento a la imagen antes de utilizar
-      pytesser
+    Pero concluyo que debo hacerle un tratamiento a la imagen antes de pytesser
 
   Escenario: Último intento fallido
     Dado un captcha alfanúmerico
@@ -32,11 +31,10 @@ Característica: resolver reto 1
     Entonces el error del pytesser disminuye bastante al pasar la imagen a texto
     Y no puedo pasar el reto
     Pero concluyo que debo implementar un ciclo infinito con muchos intentos
-      hasta que uno de resultado por probabilidad
+    Y por probabilidad el resultado dará eventualmente
 
   Escenario: Solución exitosa
     Dado un captcha alfanúmerico tratado exitosamente por varios filtros
     Cuando utilizo un bucle infinito que intente resolver cada nuevo captcha
     Y por probabilidad uno de los captchas me debe dar correcto
-    Entonces eventualmente solucionaré este reto (Ver implementación del
-      código en python en el archivo GoXo.asc)
+    Entonces eventualmente solucionaré este reto (Ver código en GoXo.asc)
