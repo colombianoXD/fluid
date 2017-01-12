@@ -161,14 +161,14 @@ public final class Main {
     return "1-" + Integer.toString(high);
   }
 
-  private static int checkTwins(final HashMap<Character,String> hand,
+  private static int checkTwins(final HashMap<Character, String> hand,
                                 final int n) {
     int ret = 0;
     int max = 0;
     for (Character num : hand.keySet()) {
       if (hand.get(num).length() == n) {
         ret = cardN.get(num);
-        if (ret > max){
+        if (ret > max) {
           max = ret;
         }
       }
@@ -219,7 +219,7 @@ public final class Main {
     String canvas = "23456789TJQKA2345";
     for (int i = 0; i < 13; i++) {
 
-      char[] current = canvas.substring(i, i+5).toCharArray();
+      char[] current = canvas.substring(i, i + 5).toCharArray();
 
       for (int j = 0; j < 5; j++) {
         if (hand.containsKey(current[j])) {
@@ -229,7 +229,7 @@ public final class Main {
           break;
         }
       }
-    if (ret == true) break;
+      if (ret) { break; }
     }
     return ret;
   }
@@ -240,7 +240,7 @@ public final class Main {
     String current = entry.getValue();
 
     for (String set : hand.values()) {
-        if (!set.equals(current)){
+        if (!set.equals(current)) {
           return false;
         }
     }
