@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/yuheiomori/2760155/raw/fb8c3ce59b7b75f322ce6c2ff476aa9d76e9f94f/double_square.py
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/double-squares/double-squares.rb
