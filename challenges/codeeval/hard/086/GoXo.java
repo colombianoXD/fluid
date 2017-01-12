@@ -117,10 +117,10 @@ public final class Main {
 
     if (type == 5) {
 
-      if ((sameSuit)&&(royal(hand))) {
-        return "10-"+ Integer.toString(high);
+      if ((sameSuit) && (royal(hand))) {
+        return "10-" + Integer.toString(high);
       }
-      if ((sameSuit)&&(straight(hand))) {
+      if ((sameSuit) && (straight(hand))) {
         return "9-" + Integer.toString(high);
       }
       if (straight(hand)) {
@@ -128,19 +128,19 @@ public final class Main {
       }
     }
 
-    if(type == 4) {
+    if (type == 4) {
       int pair = checkTwins(hand, 2);
       return "2-" + Integer.toString(pair) + removeTwins(hand, 2);
     }
 
-    if(type == 3){
+    if (type == 3) {
       int third = checkTwins(hand, 3);
 
       if (third != 0) {
         return "4-" + Integer.toString(third) + removeTwins(hand, 3);
       } else {
         int pairs = checkTwins(hand, 2);
-        return "3-" + Integer.toString(pairs) + removeTwins(hand,2);
+        return "3-" + Integer.toString(pairs) + removeTwins(hand, 2);
       }
     }
 
@@ -161,7 +161,8 @@ public final class Main {
     return "1-" + Integer.toString(high);
   }
 
-  private static int checkTwins(HashMap<Character,String> hand, int n) {
+  private static int checkTwins(final HashMap<Character,String> hand,
+                                final int n) {
     int ret = 0;
     int max = 0;
     for (Character num : hand.keySet()) {
@@ -175,7 +176,8 @@ public final class Main {
     return max;
   }
 
-  private static String removeTwins(HashMap<Character, String> hand, int n) {
+  private static String removeTwins(final HashMap<Character, String> hand,
+                                    final int n) {
       String ret = "";
 
       for (Character num : hand.keySet()) {
@@ -186,7 +188,7 @@ public final class Main {
       return ret;
   }
 
-  private static int highCard(HashMap<Character, String> hand) {
+  private static int highCard(final HashMap<Character, String> hand) {
     int ret = 0;
 
     for (Character num : hand.keySet()) {
@@ -199,7 +201,7 @@ public final class Main {
     return ret;
   }
 
-  private static boolean royal(HashMap<Character, String> hand) {
+  private static boolean royal(final HashMap<Character, String> hand) {
 
     Character[] royal = {'T', 'J', 'Q', 'K', 'A'};
 
@@ -211,7 +213,7 @@ public final class Main {
     return true;
   }
 
-  private static boolean straight(HashMap<Character, String> hand) {
+  private static boolean straight(final HashMap<Character, String> hand) {
 
     boolean ret = false;
     String canvas = "23456789TJQKA2345";
@@ -232,7 +234,7 @@ public final class Main {
     return ret;
   }
 
-  private static boolean sameSuit(HashMap<Character, String> hand) {
+  private static boolean sameSuit(final HashMap<Character, String> hand) {
 
     HashMap.Entry<Character, String> entry = hand.entrySet().iterator().next();
     String current = entry.getValue();
