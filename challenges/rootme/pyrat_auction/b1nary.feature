@@ -7,12 +7,29 @@ Característica: resolver reto realistic
 
   Antecedentes:
     Dado un link a un sitio web simple
+    Y he resuelto retos de web server
     
   Escenario: Explorando el sitio
     Dada una url
     Cuando cuando veo un parámetro que hace referencia a una página en la url
     Y lo cambio por index.php
     Entonces puedo ver el error típico de Local File Inclusion
+
+  Escenario: Primer intento fallido
+    Dada una url vulnerable a LFI
+    Cuando intento buscar archivos como passwd
+    Y recibo errores de que el archivo no existe
+    Y veo que el sistema solo me permite abrir archivos en el mismo directorio
+    Entonces no resuelvo el reto
+    Pero concluyó que la contraseña debe estar en uno de los archivos del directorio
+
+  Escenario: Último intento fallido
+    Dada una url vulnerable a LFI
+    Cuando intento utilizar los wrappers de php
+    Y trato de ejecutar un shell
+    Y veo el mensaje de error que dice que los wrappers de php están deshabilitados
+    Entonces no resuelvo el reto
+    Pero concluyo que debo utilizar los filtros de php para leer los archivos
 
   Escenario: Obteniendo el codigo fuente
     Dada una url vulnerable a LFI
@@ -24,6 +41,5 @@ Característica: resolver reto realistic
     Dados los códigos fuentes de las páginas
     Cuando leo detalladamente el código fuente de index.php
     Y veo que se importa una configuración de config.php
-    Y utilizó nuevamente los filtros de php para leer el código fuente
-      de config.php
+    Y utilizó nuevamente los filtros de php para leer el código fuente de config.php
     Entonces encuentro la contraseña
