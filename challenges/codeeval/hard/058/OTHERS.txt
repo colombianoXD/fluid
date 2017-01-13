@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/giladbu/Levenshtein-Distance/master/levenshtein_distance.java
+https://raw.githubusercontent.com/giladbu/Levenshtein-Distance/master/faster_levenshtein_distance.rb
+https://raw.githubusercontent.com/sds/codeeval/master/hard/levenshtein-distance/levenshtein-distance.rb
+https://raw.githubusercontent.com/rickychang/code-eval-scala/master/levenshtein-distance/src/main/scala/Main.scala
