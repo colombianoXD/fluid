@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/stack-implementation/stack-implementation.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/stack-implementation/Main.java
+https://raw.githubusercontent.com/ssmehta/programming-challanges/master/codeeval/009_stack-implementation.py
+https://raw.githubusercontent.com/mneudert/codeeval/master/moderate/stack-implementation/php.php
+https://gist.githubusercontent.com/yuheiomori/7509609/raw/df69115eeff10d9d0873f72da2abee33687f09cf/main.go
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/stack-implementation.py
