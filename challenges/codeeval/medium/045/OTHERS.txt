@@ -1,1 +1,2 @@
 https://gist.githubusercontent.com/yuheiomori/2778634/raw/3112d11a3ac1291bb207b889899709c6ddd26a48/reverse_and_add.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/reverse-and-add/main.cpp
