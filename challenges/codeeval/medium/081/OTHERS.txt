@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/sum-to-zero/sum-to-zero.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/max-range-sum/main.py
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Sum%20to%20Zero.cpp
+https://gist.githubusercontent.com/yuheiomori/13227f62caa54ecdeb9d/raw/246edbcda8610dd2ed0e15786393cf4511473527/main.py
