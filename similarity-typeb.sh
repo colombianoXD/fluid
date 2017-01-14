@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -x
 
 trap '' 2
 
@@ -7,7 +7,7 @@ pushd . > /dev/null
 CHALL="$1"
 cd "$CHALL"
 
-MIN=${2:-60}
+MIN=${2:-70}
 
 OTHERS=$(cat OTHERS.txt)
 
