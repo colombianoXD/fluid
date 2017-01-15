@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/yuheiomori/2765371/raw/bed0a59d1ed7e0bd0e946920aac3a35372a1745f/number_pairs.py
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/number-pairs/number-pairs.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/number-pairs/Main.java

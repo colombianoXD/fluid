@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/counting-primes/counting-primes.rb
+https://gist.githubusercontent.com/yuheiomori/9848625/raw/b018063a4bd9279b2e9e5ec0ecaaadd69556cfa3/main.py
+https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Counting%20Primes/CountingPrimes.py
+https://raw.githubusercontent.com/graemeboy/codeeval-javascript/master/counting-primes/countingprimes.js

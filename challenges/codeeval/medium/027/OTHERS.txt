@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/7690365/raw/0094ab2ff4330ef266dc063d9dbd12fd9aa2b804/main.go
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/decimal-to-binary/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/decimal-to-binary/main.cpp
+https://raw.githubusercontent.com/graemeboy/codeeval-javascript/master/counting-primes/countingprimes.js
