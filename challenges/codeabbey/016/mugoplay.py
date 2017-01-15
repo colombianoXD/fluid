@@ -22,7 +22,7 @@ def main():
             len_v = len(vec)
             accum += float(val)
         prom = round(accum/len_v)
-        print(int(prom))
+        print int(prom)
 
 
 main()
