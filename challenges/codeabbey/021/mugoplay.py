@@ -30,7 +30,7 @@ def main():
             vector_counter[int(num)-1] = acum
     for resp in vector_counter:
         resp = int(resp)
-        print(resp)
+        print resp
 
 
 if __name__ == "__main__":
