@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/robot-movements/main.py
+https://raw.githubusercontent.com/sds/codeeval/master/hard/robot-movements/robot-movements.rb
