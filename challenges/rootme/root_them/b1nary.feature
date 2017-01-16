@@ -8,6 +8,7 @@ Característica: resolver reto
   Antecedentes:
     Dado una maquina virtual en una dirección dns
     Y mis conocimientos adquiridos en retos previos
+    Y tengo instalado el kali linux 2.0
     
   Escenario: Explorando la máquina virtual
     Dado una máquina en una dirección dns
