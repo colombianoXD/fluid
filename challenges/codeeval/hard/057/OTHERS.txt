@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/hard/spiral-printing/spiral-printing.rb
+https://raw.githubusercontent.com/xmunoz/codeeval/master/hard/spiral_printing/spiral_printing.py

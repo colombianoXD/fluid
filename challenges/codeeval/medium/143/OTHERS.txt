@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/the-ministry-of-truth/main.py
