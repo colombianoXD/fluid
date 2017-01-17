@@ -17,9 +17,9 @@ def modulus_calculation(bin_ex_1, fst_modulus_1, input_v):
     return fst_modulus_1
 
 
-def create_members(file):
+def create_members(file_in):
     """Creando miembros de la ecuacion"""
-    with open(file, "r") as input_list:
+    with open(file_in, "r") as input_list:
         for lst in input_list.readlines():
             lst = lst.strip()
             input_vector = lst.split(" ")
