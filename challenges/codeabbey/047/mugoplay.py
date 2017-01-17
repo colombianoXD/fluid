@@ -24,21 +24,21 @@ CAESAR_DIC_REV_1 = ({
 })
 
 
-def decrypt(string, n_factor_1):
+def decrypt(string_1, n_factor_1):
     """Desencriptando las cadenas"""
-    num_string = ""
-    for str_chr in string:
-        reverse = 0
-        if str_chr == " ":
-            num_string += str_chr
+    num_string_1 = ""
+    for str_chr_1 in string_1:
+        reverse_1 = 0
+        if str_chr_1 == " ":
+            num_string_1 += str_chr_1
         else:
-            reverse = CAESAR_DIC_REV_1[str_chr]-n_factor_1
-            if reverse > 0:
-                num_string += CAESAR_DIC_1[reverse]
+            reverse_1 = CAESAR_DIC_REV_1[str_chr_1]-n_factor_1
+            if reverse_1 > 0:
+                num_string_1 += CAESAR_DIC_1[reverse_1]
             else:
-                reverse = 26+reverse
-                num_string += CAESAR_DIC_1[reverse]
-    print num_string+". "
+                reverse_1 = 26+reverse_1
+                num_string_1 += CAESAR_DIC_1[reverse_1]
+    print num_string_1+". "
 
 
 def main():
