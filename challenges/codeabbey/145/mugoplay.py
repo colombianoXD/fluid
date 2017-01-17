@@ -1,20 +1,20 @@
 """Modular Exponentiation """
 
 
-def modulus_calculation(bin_ex, fst_modulus, input_vector):
+def modulus_calculation(bin_ex_1, fst_modulus_1, input_vector_1):
     """Calculo del modulo"""
-    counter = 1
-    len_bin = len(bin_ex)
+    counter_1 = 1
+    len_bin_1 = len(bin_ex_1)
 
-    while counter < len_bin:
-        if bin_ex[counter] == "1":
-            fst_modulus = (
-                (fst_modulus**2)*(int(input_vector[0]))) % int(input_vector[2])
+    while counter_1 < len_bin_1:
+        if bin_ex_1[counter_1] == "1":
+            fst_modulus_1 = (
+                (fst_modulus_1**2)*(int(input_vector_1[0]))) % int(input_vector_1[2])
         else:
-            fst_modulus = ((fst_modulus)**2) % int(input_vector[2])
-        counter += 1
+            fst_modulus = ((fst_modulus_1)**2) % int(input_vector_1[2])
+        counter_1 += 1
 
-    return fst_modulus
+    return fst_modulus_1
 
 
 def create_members(file):
