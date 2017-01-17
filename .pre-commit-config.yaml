@@ -29,7 +29,7 @@
     hooks:
     -   id: forbid-crlf
 #    -   id: forbid-html-img-without-alt-text
-    -   id: forbid-non-std-html-attributes
+#    -   id: forbid-non-std-html-attributes
     -   id: detect-missing-css-classes
 -   repo: git://github.com/pre-commit/mirrors-eslint
     sha: HEAD
