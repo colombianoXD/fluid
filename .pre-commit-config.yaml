@@ -24,13 +24,13 @@
     sha: HEAD
     hooks:
     -   id: pylint
--   repo: git://github.com/Lucas-C/pre-commit-hooks
-    sha: HEAD
-    hooks:
-    -   id: forbid-crlf
+#-   repo: git://github.com/Lucas-C/pre-commit-hooks
+#    sha: HEAD
+#    hooks:
+#    -   id: forbid-crlf
 #    -   id: forbid-html-img-without-alt-text
-    -   id: forbid-non-std-html-attributes
-    -   id: detect-missing-css-classes
+#    -   id: forbid-non-std-html-attributes
+#    -   id: detect-missing-css-classes
 -   repo: git://github.com/pre-commit/mirrors-eslint
     sha: HEAD
     hooks:
