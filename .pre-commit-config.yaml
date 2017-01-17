@@ -31,3 +31,31 @@
     -   id: forbid-html-img-without-alt-text
     -   id: forbid-non-std-html-attributes
     -   id: detect-missing-css-classes
+-   repo: git://github.com/pre-commit/mirrors-eslint
+    sha: 3f5585a65eeec878e779a5630628db158ba3dab1
+    hooks:
+    -   id: eslint
+-   repo: git://github.com/pre-commit/mirrors-jshint
+    sha: e72140112bdd29b18b0c8257956c896c4c3cebcb
+    hooks:
+    -   id: jshint
+-   repo: git@github.com:hootsuite/pre-commit-php.git
+    sha: 1.1.0
+    hooks:
+    -   id: php-lint
+    -   id: php-unit
+    -   id: php-cs
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+    -   id: php-cbf
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+-   repo: https://bitbucket.org/SamWhited/go-pre-commit.git
+    sha: HEAD
+    hooks:
+    -   id: gofmt
+    -   id: gobuild
+-   repo: https://github.com/jordant/rubocop-pre-commit-hook.git
+    sha: HEAD
+    hooks:
+    -   id: check-rubocop
