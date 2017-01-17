@@ -1,2 +1,7 @@
 https://raw.githubusercontent.com/sds/codeeval/master/moderate/jolly-jumpers/jolly-jumpers.rb
 https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/jolly-jumpers/Main.java
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/jolly_jumpers.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/jolly_jumpers.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/jolly_jumpers.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/jolly_jumpers.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/jolly_jumpers.rb
