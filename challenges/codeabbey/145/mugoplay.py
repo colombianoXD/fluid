@@ -1,18 +1,17 @@
 """Modular Exponentiation """
 
 
-def modulus_calculation(bin_ex_1, fst_modulus_1, input_vector_1):
+def modulus_calculation(bin_ex_1, fst_modulus_1, input_v):
     """Calculo del modulo"""
     counter_1 = 1
     len_bin_1 = len(bin_ex_1)
 
     while counter_1 < len_bin_1:
         if bin_ex_1[counter_1] == "1":
-            fst_modulus_1 = ((
-                (fst_modulus_1**2)*(int(input_vector_1[0]))) %
-                int(input_vector_1[2]))
+            fst_modulus_1 = (
+                (fst_modulus_1**2)*(int(input_v[0]))) % int(input_v[2])
         else:
-            fst_modulus_1 = ((fst_modulus_1)**2) % int(input_vector_1[2])
+            fst_modulus_1 = ((fst_modulus_1)**2) % int(input_v[2])
         counter_1 += 1
 
     return fst_modulus_1
