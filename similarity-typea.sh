@@ -7,7 +7,7 @@ pushd . > /dev/null
 CHALL="$1"
 cd "$CHALL"
 
-MIN=${2:-5}
+MIN=${2:-6}
 INDEX=$(for i in $(seq $MIN 9); do echo -n \\.$i\\\|;done; echo -n 1\\.0)
 
 OTHERS=$(cat OTHERS.txt)
