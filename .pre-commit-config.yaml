@@ -39,7 +39,7 @@
     sha: HEAD
     hooks:
     -   id: jshint
--   repo: https://github.com/hootsuite/pre-commit-php.git
+-   repo: git://github.com/hootsuite/pre-commit-php
     sha: HEAD
     hooks:
     -   id: php-lint
@@ -55,7 +55,7 @@
     hooks:
     -   id: gofmt
     -   id: gobuild
--   repo: https://github.com/jordant/rubocop-pre-commit-hook.git
+-   repo: git://github.com/jordant/rubocop-pre-commit-hook
     sha: HEAD
     hooks:
     -   id: check-rubocop

@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 trap '' 2
 
