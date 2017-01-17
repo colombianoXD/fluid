@@ -1,5 +1,5 @@
 """Caesar Shift Cipher """
-CAESAR_DIC = ({
+CAESAR_DIC_1 = ({
     1: "A", 2: "B", 3: "C", 4: "D", 5: "E",
     6: "F", 7: "G", 8: "H", 9: "I", 10: "J",
     11: "K", 12: "L", 13: "M", 14: "N", 15: "O",
@@ -8,7 +8,7 @@ CAESAR_DIC = ({
     26: "Z"
 })
 
-CAESAR_DIC_REV = ({
+CAESAR_DIC_REV_1 = ({
     "A": 1, "B": 2, "C": 3, "D": 4, "E": 5,
     "F": 6, "G": 7, "H": 8, "I": 9, "J": 10,
     "K": 11, "L": 12, "M": 13, "N": 14, "O": 15,
@@ -26,12 +26,12 @@ def decrypt(string, n_factor_1):
         if str_chr == " ":
             num_string += str_chr
         else:
-            reverse = CAESAR_DIC_REV[str_chr]-n_factor_1
+            reverse = CAESAR_DIC_REV_1[str_chr]-n_factor_1
             if reverse > 0:
-                num_string += CAESAR_DIC[reverse]
+                num_string += CAESAR_DIC_1[reverse]
             else:
                 reverse = 26+reverse
-                num_string += CAESAR_DIC[reverse]
+                num_string += CAESAR_DIC_1[reverse]
     print num_string+". "
 
 
