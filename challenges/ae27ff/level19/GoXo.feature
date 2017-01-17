@@ -11,6 +11,8 @@ Característica: resolver reto 19
     Y tengo el sistema operativo Ubuntu 14.04
     Y tengo a la mano un decodificador de Base32
     Y se encuentra en https://emn178.github.io/online-tools/base32_decode.html
+    Y tengo a la mano un decodificador de cifrado por desplazamiento (rot)
+    Y se encuentra en http://www.xarg.org/tools/caesar-cipher/
     Y tengo acceso a internet
 
   Escenario: Primer intento fallido
@@ -30,7 +32,7 @@ Característica: resolver reto 19
     Pero me doy cuenta de la posible utilizacion de un cifrado rot a la pista
 
   Escenario: Solución exitosa
-    Dada un pista cifrada con Base32 y rot
+    Dada una pista cifrada con Base32 y rot
     Cuando utilizo todos los 26 rot posibles a la pista
     Y descifro cada una de los textos del rot con Base32
     Entonces descifro la pista
