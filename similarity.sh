@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 TYPE=${1:-typea}
 
