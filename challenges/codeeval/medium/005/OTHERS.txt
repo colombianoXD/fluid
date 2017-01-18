@@ -3,3 +3,5 @@ https://gist.githubusercontent.com/yuheiomori/2669971/raw/bfcdd8892875c2049485d8
 https://raw.githubusercontent.com/sds/codeeval/master/moderate/detecting-cycles/detecting-cycles.rb
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/cpp/DetectingCycles.cpp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/c/dc.c
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-1.php
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-2.bash
