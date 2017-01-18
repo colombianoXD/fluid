@@ -9,7 +9,7 @@ Característica: encontrar el comentario
     Dado un una página web
     Y una descripción del reto que sugiere que la contraseña esta en un comentario
  
-  Escenario; Intento fallido
+  Escenario: Intento fallido
     Dada una página
     Cuando veo el código fuente con view-source
     Y no encuentro ningun comentario
