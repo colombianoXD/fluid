@@ -6,7 +6,7 @@ Característica: descifrar el mensaje
   Con mi usuario b1nary
 
   Antecedentes:
-    Dado un una página web
+    Dada una página web
     Y una descripción del reto
  
   Escenario: Solucion
