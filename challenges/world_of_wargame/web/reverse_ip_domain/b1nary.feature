@@ -12,7 +12,7 @@ Característica: ingresar un dominio que apunte a la misma ip
   Escenario: Solucion
     Dada una página
     Cuando hago ping al sitio
-            Y obtengo la ip del sitio
-            Y utilizo esta ip en una página de reverse dns lookup
+    Y obtengo la ip del sitio
+    Y utilizo esta ip en una página de reverse dns lookup
     Y encuentro una lista de sitios
     Entonces obtengo la solución
