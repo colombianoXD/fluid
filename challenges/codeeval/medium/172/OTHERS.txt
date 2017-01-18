@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/card-number-va
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/CardNumberValidation/c/cnv.c
 https://raw.githubusercontent.com/aafful/CardValidation/master/CardValidation.java
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Card-Number-Validation/solution-rev-1.php
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Card-Number-Validation/solution-rev-2.bash
