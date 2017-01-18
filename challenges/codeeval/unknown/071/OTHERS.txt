@@ -1,1 +1,5 @@
 https://raw.githubusercontent.com/sds/codeeval/master/moderate/reverse-groups/reverse-groups.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/reverse_groups.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/reverse_groups.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/reverse_groups.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/reverse_groups.rb
