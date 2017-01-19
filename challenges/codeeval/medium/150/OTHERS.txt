@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/roman-and-arabic/main.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c150%20Roman%20Arabic.py
+https://raw.githubusercontent.com/NanoDano/codeeval/master/_roman-and-arabic/roman-and-arabic.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/roman_and_arabic.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/roman_and_arabic.hs
+https://github.com/nikai3d/ce-challenges/blob/master/moderate/roman_and_arabic.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/roman_and_arabic.rb
