@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/predict-the-number/main.py
+https://gist.githubusercontent.com/fintara/8526152/raw/09df53989242dc249186940235ded52f59459c8e/PredictTheNumber.php

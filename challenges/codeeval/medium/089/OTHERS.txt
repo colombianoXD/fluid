@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/pass-triangle/pass-triangle.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/pass-triangle/Main.java

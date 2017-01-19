@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/hard/longest-common-subsequence/longest-common-subsequence.rb
+https://raw.githubusercontent.com/rbarril75/CodeEval/master/Longest%20Common%20Subsequence/LCS.java

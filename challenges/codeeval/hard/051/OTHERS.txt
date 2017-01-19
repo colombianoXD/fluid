@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/hard/closest-pair/closest-pair.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/closest-pair/Main.java
