@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Wc_Baconian {
 
     
@@ -212,4 +211,6 @@ public class Wc_Baconian {
     
     
 }
+
+
 

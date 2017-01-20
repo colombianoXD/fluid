@@ -10,8 +10,8 @@ public class Wc_Root13 {
         System.out.println(Root13(cadena));
         
     }
-    
-    
+  
+  
     private static String Root13(String cadena)
     {
         String cad = "";
@@ -55,6 +55,5 @@ public class Wc_Root13 {
         
         return cad;
     }
-    
-    
+        
 }
