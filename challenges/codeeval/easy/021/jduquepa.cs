@@ -1,63 +1,25 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace ConsoleApplication1
 {
-    class Primes_DigitSumiAlsoPrime
+    class SumOfDigits
     {
-        public static void Main2(String[] Args)
+        public static void Main1(string[] Args)
         {
-            int cant = 0;
-
-            for (int i = 1000000; i > 0; i++)
-            {
-                if (EsPrimo(i))
+            int suma;
+            using (StreamReader reader = new StreamReader(Args[0]))
+                while (!reader.EndOfStream)
                 {
-                    Char[] StrI = i.ToString().ToCharArray();
-                    int intSuma = 0;
-                    foreach (char ch in StrI)
+                    string strLinea = reader.ReadLine();
+                    if (null == strLinea)
+                        continue;
+                    suma = 0;
+                    foreach (char Char in strLinea.ToCharArray())
                     {
-                        int digit = int.Parse(ch.ToString());
-                        intSuma += digit;
-
+                        suma += (int.Parse("" + Char));
                     }
-                    if (EsPrimo(intSuma))
-                    {
-                        System.Console.WriteLine(i.ToString());
-                        cant++;
-                    }
-
+                    System.Console.WriteLine(suma);
                 }
-                if (cant > 2)
-                {
-                    break;
-                }
-            }
-            System.Console.Read();
-        }
-
-        static Boolean EsPrimo(int numero)
-        {
-            int a = 0, i;
-            for (i = 1; i <= numero; i++)
-            {
-                if (numero % i == 0)
-                {
-                    a++;
-                }
-            }
-            if (a != 2)
-            {
-                return false;
-            }
-            else
-            {
-                return true;
-            }
-
         }
     }
 }
