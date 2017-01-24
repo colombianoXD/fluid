@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/code_combinations.py
-https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/code_combinations.py2
-https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/code_combinations.rb
