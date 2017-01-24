@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/mneudert/codeeval/master/easy/reverse-words/cs
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.js
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.rb
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.sh
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/reversewords/reverse_words.lua
