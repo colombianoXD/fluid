@@ -9,7 +9,7 @@ main = do
     mapM_ (putStrLn . eachElem) split
 
 eachElem :: [String] -> String
-eachElem lista = unwords (map swapBounds lista) 
+eachElem lista = unwords (map swapBounds lista)
 
 swapBounds :: [a] -> [a]
 swapBounds xs = let len = length xs
