@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/alternative-reality/main.py
+https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-alternative-reality/0223-alternative-reality.cpp
+https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-alternative-reality/0223-alternative-reality.py
