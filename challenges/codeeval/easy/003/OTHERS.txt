@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/prime-palin
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/prime-palindrome/solution.py
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/prime-palindrome/solution.rb
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/prime-palindrome/solution.sh
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/primepalindrome/prime_palindrome_main.lua
