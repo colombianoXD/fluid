@@ -6,3 +6,4 @@ https://gist.githubusercontent.com/yuheiomori/8627352/raw/cdea57cea4afdf85c02fe6
 https://raw.githubusercontent.com/zhuli19901106/codeeval/master/easy/compressed-sequence(AC).py
 https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py2
 https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py3
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/compressed-sequence.lua

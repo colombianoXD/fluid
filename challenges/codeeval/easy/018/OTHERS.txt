@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplesOfANumber.
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.js
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.sh
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.py
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/multiples/multiples.lua

@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/fizz-buzz/cs.cs
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/fizz-buzz/js.js
 https://gist.githubusercontent.com/fuzeman/5711801/raw/dc56b9133263dc113e4791825d2a5ba3a807d829/fizzbuzz.cs
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/fizzbuzz/fizz_buzz_main.lua
