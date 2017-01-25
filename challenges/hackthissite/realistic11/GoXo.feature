@@ -24,7 +24,7 @@ Característica: resolver reto 11
     Y veo el directorio de la página con archivos cruciales
     Y veo directorios cruciales como: /client_http_docs, /bs.dbase y /admin
     Pero no paso el reto ya que no tengo las credenciales para ingresar a /admin
-  
+
   Escenario: Segundo intento fallido - Escalando privilegios
     Dado un sitio web con unos cuantos directorios cruciales encontrados
     Y cuando ingreso a /client_http_docs/therightwayradio/
@@ -37,7 +37,7 @@ Característica: resolver reto 11
     Y accedo como el usuario con el id=0
     Pero es un usuario común y corriente y no tengo privilegios
     Y no paso el reto
-    
+
   Escenario: Tercer intento fallido - Escalando privilegios
     Dada la página /therightwayradio e ingresado como usuario con id=0
     Y vemos que existe un link mod en la parte superior derecha, ingresamos
@@ -66,14 +66,14 @@ Característica: resolver reto 11
     Entonces se develan los usuarios y contraseñas de los usuarios principales
     Y puedo ingresar a /admin como wonderdiet:suckereveryminute (uno de tantos)
     Pero no paso el reto ya que la consola de administración presenta problemas
-    
+
   Escenario: Solución exitosa - consola de administración
     Dada una consola de administración
     Y tengo acceso con el usuario wonderdiet:suckereveryminute
     Y veo que la consola ha sido modificada para solo permitir enlistar
     Y descargar archivos
     Cuando intento descargar una imagen
-    Y veo como la url cambia 
+    Y veo como la url cambia
     Y es /d.pl?file=/var/www/budgetserv/html/client_http_docs/wonderdiet/mc.gif
     Entonces puedo cambiar el parametro de file con el directorio que necesito
     Y es file=/var/www/budgetserv/html/client_http_docs/space46/src.tar.gz
