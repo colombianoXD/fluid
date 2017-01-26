@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/bats-challenge/main.py
+https://raw.githubusercontent.com/elack33/CodeEval/master/Python/Bats%20Challenge/bats.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c146%20Bat%20Challenge.py

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/jolly-jumpers/jolly-jumpers.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/jolly-jumpers/Main.java

@@ -1,10 +1,10 @@
 -   repo: https://github.com/pre-commit/pre-commit.git
-    sha: bbf1f62ed686a3e321280703a227fbd957e76151
+    sha: HEAD
     hooks:
     -   id: validate_config
     -   id: validate_manifest
 -   repo: git://github.com/pre-commit/pre-commit-hooks
-    sha: 18d7035de5388cc7775be57f529c154bf541aab9
+    sha: HEAD
     hooks:
     -   id: trailing-whitespace
     -   id: check-docstring-first
@@ -21,13 +21,41 @@
     -   id: name-tests-test
     -   id: flake8
 -   repo: git://github.com/pre-commit/mirrors-pylint
-    sha: 29c787c152552c93bdc59c45c23a155cb0570feb
+    sha: HEAD
     hooks:
     -   id: pylint
--   repo: git://github.com/Lucas-C/pre-commit-hooks
-    sha: 0f5055d31f39ea3ac1f5335a0cca320200cd0c51
+#-   repo: git://github.com/Lucas-C/pre-commit-hooks
+#    sha: HEAD
+#    hooks:
+#    -   id: forbid-crlf
+#    -   id: forbid-html-img-without-alt-text
+#    -   id: forbid-non-std-html-attributes
+#    -   id: detect-missing-css-classes
+-   repo: git://github.com/pre-commit/mirrors-eslint
+    sha: HEAD
     hooks:
-    -   id: forbid-crlf
-    -   id: forbid-html-img-without-alt-text
-    -   id: forbid-non-std-html-attributes
-    -   id: detect-missing-css-classes
+    -   id: eslint
+-   repo: git://github.com/pre-commit/mirrors-jshint
+    sha: HEAD
+    hooks:
+    -   id: jshint
+-   repo: git://github.com/hootsuite/pre-commit-php
+    sha: HEAD
+    hooks:
+    -   id: php-lint
+    -   id: php-unit
+    -   id: php-cs
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+    -   id: php-cbf
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+-   repo: https://bitbucket.org/SamWhited/go-pre-commit.git
+    sha: HEAD
+    hooks:
+    -   id: gofmt
+    -   id: gobuild
+-   repo: git://github.com/jordant/rubocop-pre-commit-hook
+    sha: HEAD
+    hooks:
+    -   id: check-rubocop

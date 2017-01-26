@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-prim
 https://raw.githubusercontent.com/sds/codeeval/master/easy/sum-of-primes/sum-of-primes.rb
 https://raw.githubusercontent.com/jasonhartley/coding-challenges/master/CodeEval/SumOfPrimes/src/Main.java
 https://raw.githubusercontent.com/arnabkd/codeeval-challenges/master/sum-of-primes/Main.java
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/sumofprimes/sum_of_primes.lua

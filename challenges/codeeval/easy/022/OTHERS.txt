@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/sds/codeeval/master/easy/fibonacci-series/fibo
 https://raw.githubusercontent.com/Schonge/CodeEval-Solutions/master/Code%20Eval/Code%20Eval/com/jconnolly/codeeval/easy/FibonacciSeries.java
 https://raw.githubusercontent.com/mirandaio/codeeval/master/easy/FibonacciSeries/Main.java
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/fibonacci-series/Main.java
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/fibonacci-series.lua
