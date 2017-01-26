@@ -1,0 +1,1 @@
+Scrip de promp accesible dando esc y revisando codigo fuente de la pagina.
