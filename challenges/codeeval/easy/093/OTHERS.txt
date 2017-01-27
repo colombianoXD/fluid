@@ -1,4 +1,5 @@
 https://github.com/sds/codeeval/blob/master/easy/capitalize-words/capitalize-words.rb
 https://github.com/moogar0880/CodeEval/blob/master/Python/capitalize.py
-https://gist.github.com/laurenngo/8e0b4277a8109bb65faf
+https://gist.githubusercontent.com/laurenngo/8e0b4277a8109bb65faf/raw/3f98760bf7a16dce734af056e225d72d9bae4f20/cap_words.js
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/Capitalize-Words/solution-rev-2.bash
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/capitalize_words.php

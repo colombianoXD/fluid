@@ -7,3 +7,4 @@ https://gist.githubusercontent.com/yuheiomori/11443072/raw/9fd79880fb0abf2c1a469
 https://raw.githubusercontent.com/sds/codeeval/master/easy/bit-positions/bit-positions.rb
 https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Bit%20Positions/BitPositions.py
 https://raw.githubusercontent.com/NanoDano/codeeval/master/bit-positions/bit-positions.c
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/bit_positions.php
