@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/cpp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/c/dc.c
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-1.php
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-2.bash
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/detecting_cycles.php
