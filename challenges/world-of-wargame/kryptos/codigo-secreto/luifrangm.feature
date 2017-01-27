@@ -3,7 +3,7 @@
 Característica: descifrar el mensaje
   Del sitio world of wargame
   De la categoría kryptos
-  Con mi usuario b1nary
+  Con mi usuario luifrangm
 
   Antecedentes:
     Dado estoy registrado en el sitio world of wargame
