@@ -31,7 +31,7 @@ Característica: resolver reto 14
     Entonces podré ver el código que generan
     Y veo que existe una función isadmin() para acreditar las credenciales
     Pero no encuentro las credenciales para ingresar
-    Y no paso el reto 
+    Y no paso el reto
 
   Escenario: Último intento fallido
     Dado un error explotado en la página news
@@ -45,10 +45,9 @@ Característica: resolver reto 14
     Y como estamos en un servidor 'cgi' el asterisco es bien interpretado
     Entonces efectivamente nos muestra las credenciales del administrador
     Pero no pasamos el reto
-    
+
   Escenario: Solución exitosa
     Dadas unas credenciales de administrador
     Cuando me dirijo a la pagina de 'login'
     Y logro ingresar estas credenciales
     Entonces podré pasar este reto
-
