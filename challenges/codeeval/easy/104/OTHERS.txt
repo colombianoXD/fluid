@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-dig
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.rb
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.sh
 https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/word_to_digit.py2
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/word_to_digit.php
