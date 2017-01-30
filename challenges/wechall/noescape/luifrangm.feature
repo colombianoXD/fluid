@@ -20,4 +20,3 @@ Característica: Obtener la bandera
 	Y se crea una consulta asi: barack`= 111,`bill`= `bill
 	Entonces esto permite asignar 111 votos de una vez
 	Y el reto es solucionado.
-	
