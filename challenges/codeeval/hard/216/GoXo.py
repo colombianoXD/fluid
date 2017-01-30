@@ -2,9 +2,8 @@
 import sys
 
 
-VAL = {0: '', 1: 'grant', 2: 'write', 3: 'write, grant',
-        4: 'read', 5: 'read, grant', 6: 'read, write',
-        7: 'read, write, grant'}
+VAL = {0: '', 1: 'grant', 2: 'write', 3: 'write, grant', 4: 'read',
+       5: 'read, grant', 6: 'read, write', 7: 'read, write, grant'}
 
 
 def parse_simple(mat, parts):
