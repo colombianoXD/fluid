@@ -43,7 +43,6 @@ public final class Main {
       } else if (card2[1].equals(trump)) {
           System.out.println(pair[1]);
       } else {
-
         if (card1[0].equals(card2[0])) {
           System.out.println(parts[0].trim());
         } else {
