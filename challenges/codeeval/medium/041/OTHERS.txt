@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_ab
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.go
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.hs
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.pl
