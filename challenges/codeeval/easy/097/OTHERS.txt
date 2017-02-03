@@ -1,2 +1,3 @@
 https://github.com/thiagoalessio/codeeval/blob/master/easy/find-a-writer/solution.js
 https://github.com/thiagoalessio/codeeval/blob/master/easy/find-a-writer/solution.rb
+https://raw.githubusercontent.com/dkandel/codeeval-solutions/master/findthewriter.cs
