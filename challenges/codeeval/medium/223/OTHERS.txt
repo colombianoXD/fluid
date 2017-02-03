@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-altern
 https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-alternative-reality/0223-alternative-reality.py
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.c
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.hs
