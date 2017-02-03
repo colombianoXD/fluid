@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/array_
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.r
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.rb
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.c
