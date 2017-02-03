@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.r
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.rb
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.hs
