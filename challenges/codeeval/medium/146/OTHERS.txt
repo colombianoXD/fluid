@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.c
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.go
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.hs
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.pl
