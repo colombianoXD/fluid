@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/balanced-sm
 https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c84%20Balanced%20Smileys.py
 https://raw.githubusercontent.com/adamgriffis/code-eval-solutions/master/balanced-smileys/test.rb
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.pl
