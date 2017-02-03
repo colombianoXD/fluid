@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternat
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.hs
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.lua
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.pl
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.r
