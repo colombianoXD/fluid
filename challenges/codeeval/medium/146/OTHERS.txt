@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.hs
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.lua
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.pl
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.r
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.rb
