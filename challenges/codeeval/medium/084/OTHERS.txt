@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c84%20Balanced%
 https://raw.githubusercontent.com/adamgriffis/code-eval-solutions/master/balanced-smileys/test.rb
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.lua
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.pl
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.r
