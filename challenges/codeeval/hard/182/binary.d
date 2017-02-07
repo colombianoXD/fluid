@@ -12,6 +12,7 @@ bool isinCurrent(char c, string current){
 }
 string longest(char[][] matrix, int i, int j, string current, ref string longst){
 	string tmp = current;
+	//writeln(tmp);
 	if (i-1 >= 0){  //up
 		if (!isinCurrent(matrix[i-1][j],current)){
 			string tmp2 = tmp ~ matrix[i-1][j];
@@ -44,8 +45,11 @@ string longest(char[][] matrix, int i, int j, string current, ref string longst)
 				longst = tmp2;
 		}
 	}
+	//writeln(longst);
 	return tmp;
 }
+
+
 void main(string[] args)
 {
 	auto file = File(args[1]);
@@ -69,6 +73,9 @@ void main(string[] args)
     			string test = longest(matrix,i,j,tmpinit,longst);
     		}
     	}
-    	writeln(longst.length);
+    	if (longst.length == 0)
+    		writeln(1);
+    	else
+    	    writeln(longst.length);
     }
 }
