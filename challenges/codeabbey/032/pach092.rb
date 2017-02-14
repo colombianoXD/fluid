@@ -1,9 +1,5 @@
-=begin
-This script contain the number of person who will remain at the end. Initial
-numbering starts from 1.
-=end
 datos = gets
-datos = datos.split(" ").map(&:to_i)
+datos = datos.split(' ').map(&:to_i)
 n = datos[0]
 k = datos[1]
 datos = []
