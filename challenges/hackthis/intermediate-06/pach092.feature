@@ -15,7 +15,7 @@ Característica: Resolver reto 6
     Dado que se indica en la información que el formulario no usa SQL
     Entonces en la sección pista dan información sobre XML
     Y busco información sobre inyección XML
-    Y digito en el input un código de inyección
+    Y digito en el campo de usuario un código de inyección
     Entonces no resuelvo el reto
     Pero concluyo que se debe realizar por inyección de XML
 
