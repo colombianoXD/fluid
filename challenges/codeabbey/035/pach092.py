@@ -1,14 +1,14 @@
 """This script contains number of years to
 wait for each case, separated by spaces."""
-CANTIDAD = int(raw_input())
-RESPUESTA = ''
-for a in range(CANTIDAD):
-    datos = raw_input().split()
-    s, r, p = datos[0], datos[1], datos[2]
+AMOUNT = int(raw_input())
+ANSWER = ''
+for a in range(AMOUNT):
+    data = raw_input().split()
+    s, r, p = data[0], data[1], data[2]
     total = round(float(s), 2)
-    contador = 0
+    counter = 0
     while total < round(float(r), 2):
         total = round((total * (1 + (float(p) / 100))), 2)
-        contador += 1
-    RESPUESTA = RESPUESTA + '%d ' % contador
-print RESPUESTA
+        counter += 1
+    ANSWER = ANSWER + '%d ' % counter
+print ANSWER

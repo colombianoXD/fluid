@@ -1,10 +1,10 @@
 """This script contains the number of person who will
 remain at the end. Initial numbering starts from 1."""
-DATOS = raw_input().split(' ')
-N, K = int(DATOS[0]), int(DATOS[1])
-RESULTADO = 0
+DATA = raw_input().split(' ')
+N, K = int(DATA[0]), int(DATA[1])
+ANSWER = 0
 i = 1
 while i <= N:
-    RESULTADO = (RESULTADO + K) % i
+    ANSWER = (ANSWER + K) % i
     i += 1
-print RESULTADO + 1
+print ANSWER + 1

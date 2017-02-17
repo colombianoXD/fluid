@@ -1,14 +1,14 @@
 """This script contains number of iterations for
 sequences with such initial values to come to the loop."""
-CANTIDAD = int(input())
-DATOS = map(int, raw_input().split())
-RESPUESTA = ''
-for numero in DATOS:
+AMOUNT = int(input())
+DATA = map(int, raw_input().split())
+ANSWER = ''
+for number in DATA:
     loop = []
-    iteraciones = 0
-    while numero not in loop:
-        loop.append(numero)
-        numero = ((numero ** 2) / 100) % 10000
-        iteraciones += 1
-    RESPUESTA += str(iteraciones) + ' '
-print RESPUESTA
+    iterations = 0
+    while number not in loop:
+        loop.append(number)
+        number = ((number ** 2) / 100) % 10000
+        iterations += 1
+    ANSWER += str(iterations) + ' '
+print ANSWER
