@@ -1,15 +1,15 @@
 """This script contains names of stocks which
 are volatile enough by Paul's criteria"""
-CANTIDAD = int(input())
-for a in range(CANTIDAD):
-    valor = raw_input().split()
-    nombre_valor = valor[0]
-    del valor[0]
-    valor = [int(precio) for precio in valor]
-    promedio_valor = sum(valor) / len(valor)
-    desviacion = 0
-    for precio in valor:
-        desviacion += (precio - promedio_valor)**2
-    desviacion = (desviacion/len(valor))**0.5
-    if desviacion >= 4*promedio_valor/100:
-        print nombre_valor, ' '
+AMOUNT = int(input())
+for a in range(AMOUNT):
+    stock = raw_input().split()
+    stock_name = stock[0]
+    del stock[0]
+    stock = [int(price) for price in stock]
+    average_value = sum(stock) / len(stock)
+    desv = 0
+    for price in stock:
+        desv += (price - average_value)**2
+    desv = (desv / len(stock)) ** 0.5
+    if desv >= 4 * average_value / 100:
+        print stock_name, ''
