@@ -30,7 +30,7 @@ Característica: Resolver reto 6
     Dado un código numérico
     Entonces busco su equivalente en ASCII
     Y copio el código generado
-    entonces no resuelvo el reto
+    Entonces no resuelvo el reto
     Pero concluyo que está en base 16
 
   Escenario: Solución exitosa
