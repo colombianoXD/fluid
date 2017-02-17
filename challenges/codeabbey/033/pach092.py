@@ -1,15 +1,15 @@
 """This script contains message with corrupted bytes removed, highest bits
 cleared - and represented as characters rather than numbers."""
-DATOS = raw_input().split(" ")
-RESPUESTA = []
-for a in DATOS:
-    binario = '{0:08b}'.format(int(a))
-    texto = []
-    for b in binario:
-        texto.append(int(b))
-    es_texto = sum(texto)
-    if es_texto % 2 == 0:
-        if binario[0] == "1":
-            binario = "0" + binario[1:8]
-        RESPUESTA.append(chr(int(binario, 2)))
-print ''.join(RESPUESTA)
+DATA = raw_input().split(" ")
+ANSWER = []
+for a in DATA:
+    binary = '{0:08b}'.format(int(a))
+    text = []
+    for b in binary:
+        text.append(int(b))
+    is_text = sum(text)
+    if is_text % 2 == 0:
+        if binary[0] == "1":
+            binary = "0" + binary[1:8]
+        ANSWER.append(chr(int(binary, 2)))
+print ''.join(ANSWER)
