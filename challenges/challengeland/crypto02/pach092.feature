@@ -2,7 +2,7 @@
 
 Característica: Resolver Crypto 2
   Del sitio challengeland
-  De la categoría Recon
+  De la categoría Crypto
   Con mi usuario pacho92
 
   Antecedentes:
