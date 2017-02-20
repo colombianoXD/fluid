@@ -15,5 +15,5 @@ Característica: Resolver Recon 2
     Dado una imagen de un niño
     Entonces utilizo la herramienta google imágenes
     Y me arroja un resultado
-    Entonces escribo el resultado en minuscula
+    Entonces escribo el resultado en minúscula
     Entonces paso el reto
