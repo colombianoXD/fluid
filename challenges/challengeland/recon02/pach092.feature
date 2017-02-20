@@ -12,7 +12,8 @@ Característica: Resolver Recon 2
     Y he resuelto el reto Recon 2
 
   Escenario: Solución exitosa
-    Dado una imagen
-    Entonces la busco por google imágenes
-    Entonces me arroja un resultado
+    Dado una imagen de un niño
+    Entonces utilizo la herramienta google imágenes
+    Y me arroja un resultado
+    Entonces escribo el resultado en minuscula
     Entonces paso el reto
