@@ -13,6 +13,6 @@ Característica: Resolver Recon 1
 
   Escenario: Solución exitosa
     Dado una imagen
-    Entonces la busco por google imagenes
+    Entonces la busco por google imágenes
     Entonces me arroja un resultado
     Entonces paso el reto
