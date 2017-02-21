@@ -1,3 +1,4 @@
+#language: es
 
 Característica: Challengeland - Main 8
  *Como usuario de wechall y Hackthis
