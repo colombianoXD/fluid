@@ -1,5 +1,4 @@
 amount = io.read("*n")
-answer = {}
 for i = 1, amount do
     x1, y1 = io.read("*n", "*n")
     x2, y2 = io.read("*n", "*n")
