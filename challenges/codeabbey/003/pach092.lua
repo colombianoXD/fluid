@@ -5,4 +5,4 @@ for i = 1, amount do
     b = io.read("*n")
     table.insert(answer, a + b)
 end
-print(table.concat(answer," "))
+io.write(table.concat(answer," "))
