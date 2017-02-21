@@ -1,3 +1,5 @@
+#language: es
+
 Característica: Hackthis - Basic 1
  *Como usuario de wechall y Hackthis
  *Yo quiero resolver el reto Basic 1
