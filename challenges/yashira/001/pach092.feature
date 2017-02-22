@@ -11,7 +11,7 @@ Característica: Resolver reto 1
     Y tengo acceso a internet
     Y he resuelto el reto Cracking 1
 
-  Escenario: Solución fallida
+  Escenario: Solución exitosa
     Dado un hash
     Entonces por medio de una herramienta online descifro el hash
     Y copio la contraseña
