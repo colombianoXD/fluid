@@ -1,3 +1,5 @@
+# language: es
+
 Característica: Resolver reto 260
   Del sitio yashira
   De la categoría Cracking
