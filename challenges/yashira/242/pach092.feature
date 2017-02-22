@@ -9,7 +9,7 @@ Característica: Resolver reto 242
     Dado que estoy registrado en el sitio yashira
     Y tengo el sistema operativo Windows versión 10
     Y tengo acceso a internet
-    Y he resuelto el reto Lenguajes Diseño Web 67
+    Y he resuelto el reto Lenguajes Diseño Web 242
 
   Escenario: Solución fallida
     Dado un script
