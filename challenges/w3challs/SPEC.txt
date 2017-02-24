@@ -6,7 +6,7 @@
 - usuarios: 17968
 - vinculados: 422
 - retos: 86
-- media: 	10.36%
+- media: 10.36%
 - dificultad: 78.57%
 - diversion: 87.50%
 - wechall: http://www.wechall.net/site/details/48/W3Challs

@@ -3,7 +3,7 @@
 - clasificacion: si
 - puntuaciont: 19154
 - puntuacionb: 10000
-- usuarios: 	28084
+- usuarios: 28084
 - vinculados: 350
 - retos: 28
 - media: 20.99%

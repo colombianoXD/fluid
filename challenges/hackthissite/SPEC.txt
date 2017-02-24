@@ -8,6 +8,6 @@
 - retos: 37
 - media: 20.00%
 - dificultad: 63.23%
-- diversion: 	67.65%
+- diversion: 67.65%
 - wechall: http://www.wechall.net/site/details/18/HackThisSite
 - url: https://www.hackthissite.org/
