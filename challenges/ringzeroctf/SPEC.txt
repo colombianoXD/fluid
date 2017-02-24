@@ -1,11 +1,11 @@
 - idioma: en
 - actualizacion: no
 - clasificacion: si
-- puntuaciont: 	31343
+- puntuaciont: 31343
 - puntuacionb: 10000
 - usuarios: 15050
 - vinculados: 205
-- retos: 		254
+- retos: 254
 - media: 8.30%
 - dificultad: 50.00%
 - diversion: 50.00%
