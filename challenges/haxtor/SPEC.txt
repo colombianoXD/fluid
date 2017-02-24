@@ -5,7 +5,7 @@
 - puntuacionb: 10000
 - usuarios: 19558
 - vinculados: 599
-- retos: 	50
+- retos: 50
 - media: 48.97%
 - dificultad: 68.75%
 - diversion: 80.00%
