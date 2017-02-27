@@ -4,20 +4,20 @@ are some primes sorted in non-decreasing order."""
 AMOUNT = input()
 
 
-def operacion():
-    """This def makes the operations"""
-    numbers = int(raw_input())
-    __a__ = 2
-    while numbers != 1:
-        if numbers % __a__ == 0:
-            numbers = numbers / __a__
-            if numbers == 1:
-                print str(__a__) + " "
+def operation():
+    """This def makes the operatio for the MCM"""
+    testnumbers = int(raw_input())
+    __firstinteger__ = 2
+    while testnumbers != 1:
+        if testnumbers % __firstinteger__ == 0:
+            testnumbers = testnumbers / __firstinteger__
+            if testnumbers == 1:
+                print str(__firstinteger__) + " "
             else:
-                print str(__a__) + "*"
+                print str(__firstinteger__) + "*"
         else:
-            __a__ += 1
+            __firstinteger__ += 1
 
 
 for x in range(0, int(AMOUNT)):
-    operacion()
+    operation()
