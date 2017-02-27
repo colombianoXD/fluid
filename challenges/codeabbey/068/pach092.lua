@@ -1,7 +1,7 @@
 amount = io.read("*n")
-answer = {}
+distance_bike1 = {}
 for i = 1, amount do
-    d, a, b = io.read("*n", "*n", "*n")
-    table.insert(answer, (a * (d / (a + b))))
+    distance, bike1, bike2 = io.read("*n", "*n", "*n")
+    table.insert(distance_bike1, (bike1 * (distance / (bike1 + bike2))))
 end
-io.write(table.concat(answer, " "))
+io.write(table.concat(distance_bike1, " "))
