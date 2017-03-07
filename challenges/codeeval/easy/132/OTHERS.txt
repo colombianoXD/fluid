@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/TheMajorElement.jav
 https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/the_major_element.py2
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/Main.java
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/132%20-%20The%20major%20element/132.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/132%20-%20The%20major%20element/132.php

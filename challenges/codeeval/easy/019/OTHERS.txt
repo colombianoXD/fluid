@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/sds/codeeval/master/easy/bit-positions/bit-pos
 https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Bit%20Positions/BitPositions.py
 https://raw.githubusercontent.com/NanoDano/codeeval/master/bit-positions/bit-positions.c
 https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/bit_positions.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/19%20-%20Bit%20positions/19.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/19%20-%20Bit%20positions/19.php

@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-wor
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.sh
 https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/reversewords/reverse_words.lua
 https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/Reverse.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/reverse-words/solution.php
