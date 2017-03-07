@@ -1,2 +1,3 @@
 http://sp4hack.blogspot.com.co/2012/10/we-chall-training-www-robots.html
 http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20WWW-Robots/README.md
