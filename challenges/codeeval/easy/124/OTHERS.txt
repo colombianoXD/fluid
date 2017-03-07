@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py2
 https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py3
 https://raw.githubusercontent.com/bmouler/CodeEval-Solutions/master/CodeEval%20-%20Road%20Trip/RoadTrip.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/RoadTrip.java

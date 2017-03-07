@@ -2,3 +2,4 @@ https://gist.githubusercontent.com/yuheiomori/2656552/raw/7609dfe2197ff5ef7ac0fb
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/happy-numbers/Main.java
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/js.js
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/php.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/HappyNumbers.java

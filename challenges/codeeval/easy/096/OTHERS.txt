@@ -4,3 +4,4 @@ https://github.com/mneudert/codeeval/blob/master/easy/swap-case/cs.cs
 https://github.com/mneudert/codeeval/blob/master/easy/swap-case/go.go
 https://github.com/mneudert/codeeval/blob/master/easy/swap-case/js.js
 https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/SwapCase.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SwapCase.java
