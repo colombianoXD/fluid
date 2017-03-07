@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/c/sn.c
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/cpp/sn.cpp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/py2/sn.py
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/py3/sn.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SwapNumbers.java

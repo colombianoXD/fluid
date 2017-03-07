@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/arnabkd/codeeval-challenges/master/sum-of-prim
 https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/sumofprimes/sum_of_primes.lua
 https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sum_of_primes.php
 https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SumPrimes.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.php

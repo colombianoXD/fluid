@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/paulinar/code-eval-challenges/master/easy/mult
 https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplicationTable.java
 https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/MultiplicationTable.java
 http://stackoverflow.com/questions/23638798/python-and-codeeval-why-isnt-my-solution-to-this-multiplication-table-challeng
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/23%20-%20Multiplication%20Tables/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/23%20-%20Multiplication%20Tables/main.php

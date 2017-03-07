@@ -3,3 +3,5 @@ https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/happy-numbers/M
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/js.js
 https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/php.php
 https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/HappyNumbers.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/39%20-%20Happy%20numbers/39.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/39%20-%20Happy%20numbers/39.php

@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/c/oz
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/cpp/oz.cpp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/py2/oztz.py
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/py3/oz.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/OneZeroTwoZero.java

@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/text-to-number/main.py
 https://raw.githubusercontent.com/chris-roerig/code-eval/master/text-to-number-v1.rb
 https://raw.githubusercontent.com/mgorgei/codeeval/master/Hard/c110%20Text%20to%20Number.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Hard-Level/TextToNumber.java
