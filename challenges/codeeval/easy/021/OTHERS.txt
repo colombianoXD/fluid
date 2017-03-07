@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digi
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.rb
 https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.sh
 https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sum_of_digits.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SumDigits.java

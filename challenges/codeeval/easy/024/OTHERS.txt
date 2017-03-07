@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/amunozdelvillar/codeEval/master/Sum%20of%20Int
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/sum-of-integers-in-a-file/Main.java
 https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/sum-of-integers-in-a-file/main.cpp
 https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sum_of_integers_from_file.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/IntegerSum.java
