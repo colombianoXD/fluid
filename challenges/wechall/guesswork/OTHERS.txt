@@ -1,2 +1,3 @@
 http://sp4hack.blogspot.com.co/2012/11/we-chall-guesswork-exploit.html
 http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Guesswork/README.md
