@@ -1,2 +1,4 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id002-Sum_in_loop.py
 https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Sum%20in%20Loop.cpp
+http://codeevo.blogspot.com.co/2014/09/codeabbey-2.html
+https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
