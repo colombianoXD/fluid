@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Collatz
 https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2048/Problem%2048.cpp
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id048-Collatz_Sequence.py
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Collatz%20Sequence%20.cpp
+http://codeevo.blogspot.com.co/2014/09/codeabbey-48.html
