@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-2.bash
 https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-3.js
 https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/modulus.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/62%20-%20N%20Mod%20M/62.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/62%20-%20N%20Mod%20M/62.php
