@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/PHP_LFI.md
 http://sp4hack.blogspot.com.co/2012/10/we-chall-training-php-lfi.html
 http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20PHP%20LFI/README.md
