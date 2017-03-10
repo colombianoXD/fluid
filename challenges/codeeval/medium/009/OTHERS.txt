@@ -6,3 +6,5 @@ https://gist.githubusercontent.com/yuheiomori/7509609/raw/df69115eeff10d9d0873f7
 https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/stack-implementation.py
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StackImplementation/c/stack.c
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StackImplementation/cpp/StackImplementation.cpp
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/9%20-%20Stack%20implementation/9.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/9%20-%20Stack%20implementation/9.php

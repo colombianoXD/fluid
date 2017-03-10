@@ -1,3 +1,5 @@
 https://raw.githubusercontent.com/sds/codeeval/master/moderate/minimum-coins/minimum-coins.rb
 https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Minimum%20Coins.py
 https://raw.githubusercontent.com/pluralism/CodeEval/master/Minimum%20Coins.cpp
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/74%20-%20Minimum%20Coins/74.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/74%20-%20Minimum%20Coins/74.php
