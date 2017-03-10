@@ -9,3 +9,5 @@ https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_ab
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.hs
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.lua
 https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.pl
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/41%20-%20Array%20absurdity/41.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/41%20-%20Array%20absurdity/41.php
