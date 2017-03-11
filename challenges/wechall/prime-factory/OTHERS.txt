@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/PrimeFactory.md
 http://winkar.github.io/2015/01/24/wechall.html
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Prime%20Factory/prime.py
-https://lc4t.me/wechall/
 https://raw.githubusercontent.com/arma26/challenge/master/wechall.py
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Prime-Factory/Solution.py

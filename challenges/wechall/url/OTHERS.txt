@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Encodings%2
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/stefanoschrs/wechall/master/Encodings/Encodings%20-%20URL%20encode.js
 https://raw.githubusercontent.com/arma26/challenge/master/wechall.py
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/URL/Solution.txt
