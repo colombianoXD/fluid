@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/PHP-0817/README.md
 https://lc4t.me/wechall/
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20PHP-0817

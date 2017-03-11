@@ -3,3 +3,4 @@ http://sp4hack.blogspot.com.co/2012/10/we-chall-training-php-lfi.html
 http://winkar.github.io/2015/01/24/wechall.html
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20PHP%20LFI/README.md
 https://lc4t.me/wechall/
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20PHP%20-%20Register%20Globals

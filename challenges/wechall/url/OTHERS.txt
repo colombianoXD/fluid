@@ -3,3 +3,4 @@ http://sp4hack.blogspot.com.co/2012/10/we-chall-encodings-url.html
 http://winkar.github.io/2015/01/24/wechall.html
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Encodings%20URL/README.md
 https://lc4t.me/wechall/
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Encodings/Encodings%20-%20URL%20encode.js

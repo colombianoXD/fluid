@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/Crypto_Transp
 http://sp4hack.blogspot.com.co/2014/01/wechall-training-crypto-transposition-i.html
 http://winkar.github.io/2015/01/24/wechall.html
 https://lc4t.me/wechall/
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Crypto/Crypto%20-%20Transposition%20I.js
