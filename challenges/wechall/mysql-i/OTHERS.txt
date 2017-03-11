@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20MySQL%20I/README.md
+https://lc4t.me/wechall/
