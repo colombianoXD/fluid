@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/stegano1/RE
 https://b0ngsec.blogspot.com.co/2016/08/wechall-training-stegano-1.html
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Stegano-1/Solution.txt
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md

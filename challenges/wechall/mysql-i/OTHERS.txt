@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20MySQL%20I/README.md
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20MySQL%20Authentication%20Bypass
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
