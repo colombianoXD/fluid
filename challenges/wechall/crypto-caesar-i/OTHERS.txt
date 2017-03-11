@@ -3,3 +3,4 @@ http://sp4hack.blogspot.com.co/2012/10/we-chall-training-crypto-caesar-i.html
 http://winkar.github.io/2015/01/24/wechall.html
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20Crypto%20-%20Caesar%20I/README.md
 https://lc4t.me/wechall/
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Crypto/Crypto%20-%20Caesar%20I.js
