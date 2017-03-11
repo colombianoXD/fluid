@@ -4,3 +4,4 @@ http://winkar.github.io/2015/01/24/wechall.html
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20PHP%20LFI/README.md
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20PHP%20LFI
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/PHP-LFI/Solution.txt
