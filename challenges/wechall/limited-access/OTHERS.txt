@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Limited%20Access%20Too/README.md
+https://lc4t.me/wechall/
