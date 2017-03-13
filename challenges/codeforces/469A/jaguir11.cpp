@@ -42,6 +42,5 @@ int main(){
     else cout << "Oh, my keyboard!" << endl;
 
     return 0;
-}   
-
+}
 
