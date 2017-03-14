@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem3.rs
+https://raw.githubusercontent.com/japaric/euler_criterion.rs/master/problems/003/003.rs
