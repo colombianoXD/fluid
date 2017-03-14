@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/rofrol/rust-hackerrank/master/src/bin/solve-me-first.rs
