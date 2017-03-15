@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Kevin-KSIS/Root-me/master/prog/xss-stored-2.txt

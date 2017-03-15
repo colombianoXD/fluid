@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/prime-numbers/prime-numbers.rb
+https://raw.githubusercontent.com/wolfbiter/codeeval/master/prime-numbers.c

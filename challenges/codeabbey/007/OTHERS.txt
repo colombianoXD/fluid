@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id007-Fahrenheit_to_Celsius.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Fahrenheit%20to%20Celsius%20.cpp
+https://raw.githubusercontent.com/AssumeACanOpener/CodeAbbey/master/fahrenheit_celsius.rb
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Fahrenheit%20to%20Celsius/src/Main.java

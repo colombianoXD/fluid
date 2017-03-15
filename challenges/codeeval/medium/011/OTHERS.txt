@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/lowest-common-ancestor/lowest-common-ancestor.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/lowest-common-ancestor/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/11%20-%20Lowest%20Common%20Ancestor/11.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/11%20-%20Lowest%20Common%20Ancestor/11.php

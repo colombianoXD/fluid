@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/beebun/CTF/master/root-me.org/app-script/sudo%20-%20weak%20configuration.sh

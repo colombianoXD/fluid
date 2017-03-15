@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/trailing-string/trailing-string.rb
+https://raw.githubusercontent.com/WillBrennan/CodeEval/master/python/Trailing%20String.py
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/trailing_string.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/32%20-%20Trailing%20string/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/32%20-%20Trailing%20string/main.php

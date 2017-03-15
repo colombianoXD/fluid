@@ -18,7 +18,7 @@ _challenges()
 _articles()
 {
 
-  local dir=articles/"$1"	
+  local dir=articles/"$1"
   if [ -d "$dir" ]; then
     find "$dir" | wc -l
   else
@@ -30,10 +30,13 @@ echo "$login ha enviado"
 echo "$(_articles "$login") articulos"
 echo "$(_challenges "$login" "*") retos"
 echo "- $(_challenges "$login" ".asc") esta(n) en palabras"
+echo "- $(_challenges "$login" ".feature") esta(n) en Gherkin"
 echo "- $(_challenges "$login" ".py") esta(n) en Python"
 echo "- $(_challenges "$login" ".ml") esta(n) en OCaml"
 echo "- $(_challenges "$login" ".java") esta(n) en Java"
+echo "- $(_challenges "$login" ".lua") esta(n) en Lua"
 echo "- $(_challenges "$login" ".cs") esta(n) en C#"
+echo "- $(_challenges "$login" ".cpp") esta(n) en C++"
 echo "- $(_challenges "$login" ".c") esta(n) en C"
 echo "- $(_challenges "$login" ".d") esta(n) en D"
 echo "- $(_challenges "$login" ".clj") esta(n) en Clojure"

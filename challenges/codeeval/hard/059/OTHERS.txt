@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rickychang/code-eval-scala/master/telephone-words/src/main/scala/Main.scala
+https://raw.githubusercontent.com/sds/codeeval/master/hard/telephone-words/telephone-words.rb

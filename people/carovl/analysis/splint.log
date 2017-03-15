@@ -1,5 +1,0 @@
-Splint 3.1.2 --- 03 May 2009
-
-challenges/codeeval/easy/025/carovl.c:6:10:
-    Parse Error. (For help on parse errors, see splint -help parseerrors.)
-*** Cannot continue.

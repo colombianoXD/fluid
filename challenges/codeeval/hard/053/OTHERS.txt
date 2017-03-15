@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/sds/codeeval/master/hard/repeated-substring/repeated-substring.rb
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0053-repeated-substring/0053-repeated-substring.py
+https://raw.githubusercontent.com/sloganhmc/CodeEval/master/rep_sub_string.py

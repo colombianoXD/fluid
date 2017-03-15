@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id010-Linear_Function.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Linear%20Function%20.cpp

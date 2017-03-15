@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/sds/codeeval/master/moderate/jolly-jumpers/jolly-jumpers.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/jolly-jumpers/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/43%20-%20Jolly%20Jumpers/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/43%20-%20Jolly%20Jumpers/main.php
