@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/sile/euler.rs/master/euler_00/src/problem024.rs
