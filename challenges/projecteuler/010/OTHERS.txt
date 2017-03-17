@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem10.rs
+https://gitlab.namibsun.net/namboy94/project-euler/raw/0d90487fb4244a75175813ec2cd1174c5fc7bed3/problems/problem-0010/rust/sum_of_primes.rs

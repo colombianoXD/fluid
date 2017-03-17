@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem4.rs
 https://raw.githubusercontent.com/japaric/euler_criterion.rs/master/problems/004/004.rs
+https://gogs.sr.ht/zandrmartin/project-euler/raw/master/4.rs
