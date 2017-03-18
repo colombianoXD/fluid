@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/yaychris/cryptopals/master/src/challenge2.rs
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c02.rs
