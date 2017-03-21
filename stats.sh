@@ -26,15 +26,21 @@ _articles()
   fi
 }
 
+INVAL=$(find challenges/brainquest -iname "$login*" | wc -l)
+
 echo "$login ha enviado"
 echo "$(_articles "$login") articulos"
-echo "$(_challenges "$login" "*") retos"
+TOTAL=$(_challenges "$login" "*")
+echo "$TOTAL retos totales"
+echo "$INVAL retos invalidos (adivinanzas o matematicos)"
+echo "$((TOTAL - INVAL)) retos validos"
 echo "- $(_challenges "$login" ".asc") esta(n) en palabras"
 echo "- $(_challenges "$login" ".feature") esta(n) en Gherkin"
 echo "- $(_challenges "$login" ".py") esta(n) en Python"
 echo "- $(_challenges "$login" ".ml") esta(n) en OCaml"
 echo "- $(_challenges "$login" ".java") esta(n) en Java"
 echo "- $(_challenges "$login" ".lua") esta(n) en Lua"
+echo "- $(_challenges "$login" ".rs") esta(n) en Rust"
 echo "- $(_challenges "$login" ".cs") esta(n) en C#"
 echo "- $(_challenges "$login" ".cpp") esta(n) en C++"
 echo "- $(_challenges "$login" ".c") esta(n) en C"
