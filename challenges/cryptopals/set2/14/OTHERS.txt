@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c14.rs
