@@ -1,0 +1,20 @@
+# El titulo del commmit es el titulo del reto, sustituir la linea siguiente
+Titulo del reto
+
+# Luego la descripcion del reto debe contener la siguiente informacion:
+Sitio: Nombre 
+Codigo del reto: 12
+
+Puntaje: 
+Inicial: X, Final: Y, Avance: Y-X
+Ranking Mundial
+Inicial: X, Final: Y, Avance: Y-X
+Ranking Colombia:
+Inicial: X, Final: Y, Avance: Y-X
+
+# Para que esta plantilla aparezca por cada commit puede ejecutar en el repo
+# el siguiente comando:
+# training$ git config --local commit.template templates/commit-msg.txt
+#
+# Recuerde ingresar un commit por cada solucion a cada reto y el
+# correspondiente numero de enlaces a soluciones de otros individuos.
