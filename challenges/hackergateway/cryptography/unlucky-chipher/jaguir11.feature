@@ -9,11 +9,10 @@ Feature: Solve Unlucky Cipher challenge
     Given the fact that I am registered in site hackergateway
     And I have Windows 7 Operating System
 
-  Scenario: Succesful solution
+  Scenario: Successful solution
     Given an encoded message
     When I look at the message I see scrambled letters
-    And I think it is most likely a caesar cipher
+    And I think it is most likely a Caesar cipher
     And I see the first three letters are most likely "the"
     So I count the difference to get the shift cipher
     And I solve the challenge
-    

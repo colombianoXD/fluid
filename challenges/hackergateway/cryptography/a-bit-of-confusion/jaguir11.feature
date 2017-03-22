@@ -10,9 +10,8 @@ Feature: Solve A Bit of Confusion challenge
     And I have Windows 7 Operating System
     And I have an online Binary to ASCII tool
 
-  Scenario: Succesful solution
+  Scenario: Successful solution
     Given the sequence of binary bits
     When I convert the binary to ASCII with and online tool
     And I see decoded string
     And I solve the challenge
-    

@@ -13,12 +13,12 @@ Feature: Solve Stegano I challenge
   Scenario: First failed attempt
     Given the image stegano1.bmp
     When I open it with the Windows Photo Viewer
-    I see some pixeled colors in the image but no message
+    I see some colours in the image but no message
     Then I do not solve the challenge
-    But I conlcude I have to look at the image another way
+    But I conclude I have to look at the image another way
 
-  Scenario: Succesful solution
+  Scenario: Successful solution
     Given the image stegano1.bmp
-    When I opened with a text editior, Brackets, I see the Hex edit
+    When I opened with a text editor, Brackets, I see the Hex edit
     And I see the message
     And I solve the challenge
