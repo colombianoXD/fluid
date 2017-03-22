@@ -14,5 +14,5 @@ Feature: Solve Unlucky Cipher challenge
     When I look at the message I see scrambled letters
     And I think it is most likely a Caesar cipher
     And I see the first three letters are most likely "the"
-    So I count the difference to get the shift cipher
-    And I solve the challenge
+    And I count the difference to get the shift cipher
+    Then I solve the challenge
