@@ -13,7 +13,7 @@ Feature: Solve Stegano I challenge
   Scenario: First failed attempt
     Given the image stegano1.bmp
     When I open it with the Windows Photo Viewer
-    I see some colours in the image but no message
+    And I see some colours in the image but no message
     Then I do not solve the challenge
     But I conclude I have to look at the image another way
 
