@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/yaychris/cryptopals/master/src/challenge1.rs
 https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c01.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set1/1/run.py
