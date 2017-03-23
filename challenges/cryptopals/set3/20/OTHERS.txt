@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c20.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/20/run.py
