@@ -1,6 +1,6 @@
 # language: en
 
-Feature: Solve Beginners4 challenge
+Feature: Solve Beginners 4 challenge
   From site Valhalla
   From beginners category
   With my username jaguir11
