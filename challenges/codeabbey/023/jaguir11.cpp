@@ -12,8 +12,8 @@ using namespace std;
  */
 
 long checkSum(long a){
-    a*=113;
-    a=a%10000007;
+    a * = 113;
+    a = a % 10000007;
     return a;
 }
 

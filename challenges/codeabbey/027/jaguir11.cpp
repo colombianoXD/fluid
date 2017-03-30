@@ -12,8 +12,8 @@ int main(){
     cin >> n;
     int arr[n];
     for(int k = 0; k < n; k++){
-        cin >> arr[k];          
-    }    
+        cin >> arr[k];
+    }
     for (int i = 0; i < (n - 1); i++){
         pass++;
         swapr = 0;
