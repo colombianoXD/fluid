@@ -34,6 +34,7 @@ TOTAL=$(_challenges "$login" "*")
 echo "$TOTAL retos totales"
 echo "$INVAL retos invalidos (adivinanzas o matematicos)"
 echo "$((TOTAL - INVAL)) retos validos"
+echo "- $(_challenges "$login" ".fix") retos con problemas"
 echo "- $(_challenges "$login" ".asc") esta(n) en palabras"
 echo "- $(_challenges "$login" ".feature") esta(n) en Gherkin"
 echo "- $(_challenges "$login" ".py") esta(n) en Python"
