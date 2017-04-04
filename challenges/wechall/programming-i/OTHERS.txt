@@ -5,3 +5,7 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Programming-1/Solution.py
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://github.com/BakaRei/wechall/blob/master/programming1.py
+https://lightrains.org/wechall-programming-1/
+http://aizuctf.hatenablog.jp/entry/2015/01/24/214539
+http://qkqhxla1.tistory.com/201
