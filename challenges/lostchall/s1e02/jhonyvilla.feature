@@ -11,7 +11,7 @@
 
   Escenario: Solución exitosa
     Dada una página web que pide una solución
-	Y esa solución es controlada por una función javascript
+    Y esa solución es controlada por una función javascript
     Cuando veo el código fuente de la página
     Y encuentro la función
     Entonces resuelvo el reto
