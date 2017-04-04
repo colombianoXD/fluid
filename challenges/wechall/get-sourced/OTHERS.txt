@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Get-Sourced/Solution.txt
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://nopresearch.com/walkthroughs/wechall/training-get-sourced-training/
+https://b0ngsec.blogspot.com.co/2016/08/wechall-training-get-sourced.html

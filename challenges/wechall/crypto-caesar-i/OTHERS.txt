@@ -5,3 +5,11 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/stefanoschrs/wechall/master/Crypto/Crypto%20-%20Caesar%20I.js
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Caesar-1/Solution.txt
+http://m.blog.csdn.net/article/details?id=40948203
+http://iromise.com/2016/07/21/wechall-training-crypto-caesar-i/
+http://www.cnblogs.com/WangAoBo/p/6367408.html
+http://www.bubufx.com/detail-299619.html
+http://www.itdadao.com/articles/c15a672431p0.html
+http://www.voidcn.com/blog/justesss/article/p-2605865.html
+http://www.mamicode.com/info-detail-194945.html
+http://www.tqcto.com/article/internet/345989.html

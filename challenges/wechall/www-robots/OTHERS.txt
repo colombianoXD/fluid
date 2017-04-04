@@ -4,3 +4,9 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/WWW-Robots/Solution.txt
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+http://www.itdadao.com/articles/c15a672432p0.html
+http://blog.csdn.net/justesss/article/details/39051137
+http://z0mbi2.tistory.com/14
+http://www.mamicode.com/info-detail-195122.html
+http://byd.dropsec.xyz/2016/03/04/WeChall_writeup/#Training-WWW-Robots
+http://www.tqcto.com/article/internet/345919.html

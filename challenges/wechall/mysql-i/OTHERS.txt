@@ -2,3 +2,6 @@ https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20MySQL%20Authentication%20Bypass
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-mysql-i.html
+http://www.nowhere.co.jp/blog/archives/20150131-184542.html
+https://silnex.kro.kr/wordpress/2016/11/22/wechalltraining-mysql-i/

@@ -6,3 +6,7 @@ https://lc4t.me/wechall/
 https://raw.githubusercontent.com/arma26/challenge/master/wechall.py
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/ASCII/Solution.py
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://gist.github.com/trietptm/5553757
+https://nopresearch.com/walkthroughs/wechall/training-ascii/
+http://sithlab.tistory.com/1093
+http://www.itdadao.com/articles/c15a672433p0.html

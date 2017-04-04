@@ -6,3 +6,5 @@ https://b0ngsec.blogspot.com.co/2016/08/wechall-training-stegano-1.html
 https://lc4t.me/wechall/
 https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Stegano-1/Solution.txt
 https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+http://dipanjan.in/ctf/wechall-stegano-i/
+http://deurus.info/2014/08/wechall-stegano-attachment-esteganografia/
