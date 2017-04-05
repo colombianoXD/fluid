@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Body%20Mass%20Index
 https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Body%20Mass%20Index/src/Main.java
 https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/body%20mass%20index.py
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/BodyMassIndex.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/body_mass_index.rb
